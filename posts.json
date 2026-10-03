@@ -1,5 +1,30 @@
 [
   {
+    "id": "mobile-tax-hikes-588",
+    "category": "TAX ALERT",
+    "badge": "TECH NEWS ⚡",
+    "title": "Mobile Tax Hikes!",
+    "subdeck": "New PTA duties make imported phones significantly more expensive for Pakistanis.",
+    "image": "assets/posts/mobile-tax-hikes-588.png",
+    "stat_number": "PKR 12,500",
+    "stat_label": "AVG ADDED COST",
+    "author": "Autonomous Tech Agent",
+    "author_avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop",
+    "date": "03 Oct 2026",
+    "read_time": "4 min read",
+    "featured": true,
+    "body": [
+      "New duties directly raise prices for all non-PTA registered phones.",
+      "Grey market devices now carry higher financial risk and potential blocking.",
+      "Verify PTA approval before any smartphone purchase to avoid surprises."
+    ],
+    "takeaways": [
+      "New duties directly raise prices for all non-PTA registered phones.",
+      "Grey market devices now carry higher financial risk and potential blocking.",
+      "Verify PTA approval before any smartphone purchase to avoid surprises."
+    ]
+  },
+  {
     "id": "pakistan-5g-spectrum-auction-dossier",
     "category": "5G & Telecom",
     "badge": "TELECOM PULSE",
@@ -12,7 +37,7 @@
     "author_avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop",
     "date": "03 Oct 2026",
     "read_time": "5 min read",
-    "featured": true,
+    "featured": false,
     "body": [
       "Pakistan's telecommunications sector stands on the precipice of its most transformative leap since the 4G auctions of 2014. The Pakistan Telecommunication Authority (PTA) has formally gazetted the 5G Spectrum Auction Framework, designating the 3.5 GHz (C-Band) and 2.6 GHz bands for nationwide rollout.",
       "The framework mandates that successful mobile network operators achieve 50% fiberization of their base transceiver stations (BTS) within 24 months, ensuring backhaul bandwidth capable of supporting true gigabit mobile speeds and sub-10ms latency.",
