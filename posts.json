@@ -1,5 +1,30 @@
 [
   {
+    "id": "pakistan-s-ev-dream-just-got-cheape-465",
+    "category": "EV UPDATE",
+    "badge": "TECH NEWS ⚡",
+    "title": "Pakistan's EV Dream Just Got Cheaper!",
+    "subdeck": "New policy aims to slash electric vehicle prices, making them accessible to more Pakistanis.",
+    "image": "assets/posts/pakistan-s-ev-dream-just-got-cheape-465.png",
+    "stat_number": "PKR 500,000",
+    "stat_label": "POTENTIAL SAVINGS",
+    "author": "Autonomous Tech Agent",
+    "author_avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop",
+    "date": "03 Oct 2026",
+    "read_time": "4 min read",
+    "featured": true,
+    "body": [
+      "Massive new tax breaks & duties reduction on EV components.",
+      "Aims to cut local EV prices by up to 15-20% for consumers.",
+      "Boosts local manufacturing, creating jobs & tech transfer."
+    ],
+    "takeaways": [
+      "Massive new tax breaks & duties reduction on EV components.",
+      "Aims to cut local EV prices by up to 15-20% for consumers.",
+      "Boosts local manufacturing, creating jobs & tech transfer."
+    ]
+  },
+  {
     "id": "mobile-tax-hikes-588",
     "category": "TAX ALERT",
     "badge": "TECH NEWS ⚡",
@@ -12,7 +37,7 @@
     "author_avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop",
     "date": "03 Oct 2026",
     "read_time": "4 min read",
-    "featured": true,
+    "featured": false,
     "body": [
       "New duties directly raise prices for all non-PTA registered phones.",
       "Grey market devices now carry higher financial risk and potential blocking.",
@@ -28,7 +53,7 @@
     "id": "pakistan-5g-spectrum-auction-dossier",
     "category": "5G & Telecom",
     "badge": "TELECOM PULSE",
-    "title": "Pakistan\u2019s 5G Spectrum Auction: PTA Finalizes 3.5 GHz Bands for Commercial Rollout",
+    "title": "Pakistan’s 5G Spectrum Auction: PTA Finalizes 3.5 GHz Bands for Commercial Rollout",
     "subdeck": "With an estimated $600M spectrum valuation and fiber-to-the-tower mandates, Pakistan prepares for ultra-low latency gigabit mobile infrastructure.",
     "image": "assets/images/telecom_5g.jpg",
     "stat_number": "3.5 GHz",
@@ -41,7 +66,7 @@
     "body": [
       "Pakistan's telecommunications sector stands on the precipice of its most transformative leap since the 4G auctions of 2014. The Pakistan Telecommunication Authority (PTA) has formally gazetted the 5G Spectrum Auction Framework, designating the 3.5 GHz (C-Band) and 2.6 GHz bands for nationwide rollout.",
       "The framework mandates that successful mobile network operators achieve 50% fiberization of their base transceiver stations (BTS) within 24 months, ensuring backhaul bandwidth capable of supporting true gigabit mobile speeds and sub-10ms latency.",
-      "Industry analysts project that initial commercial deployments will prioritize major tier-1 industrial corridors \u2014 including Karachi's financial district, Lahore's software technology parks, and the Islamabad-Rawalpindi metropolitan zone.",
+      "Industry analysts project that initial commercial deployments will prioritize major tier-1 industrial corridors — including Karachi's financial district, Lahore's software technology parks, and the Islamabad-Rawalpindi metropolitan zone.",
       "Beyond consumer streaming, the primary economic dividends are expected in smart manufacturing, fintech transaction processing, and high-density Internet of Things (IoT) monitoring across agricultural supply chains."
     ],
     "takeaways": [
@@ -55,7 +80,7 @@
     "category": "Digital Economy",
     "badge": "RECORD HIGH",
     "title": "Pakistan IT Exports Surge Past $3.8 Billion: Software Parks & Global Enterprise Contracts",
-    "subdeck": "A depreciated rupee, booming freelance developer base, and enterprise AI outsourcing propel Pakistan into South Asia\u2019s fastest-growing tech exporter.",
+    "subdeck": "A depreciated rupee, booming freelance developer base, and enterprise AI outsourcing propel Pakistan into South Asia’s fastest-growing tech exporter.",
     "image": "assets/images/it_exports.jpg",
     "stat_number": "$3.8B",
     "stat_label": "ANNUAL IT EXPORTS",
@@ -65,7 +90,7 @@
     "read_time": "4 min read",
     "featured": false,
     "body": [
-      "Pakistan\u2019s information technology and telecommunication services exports have achieved an unprecedented all-time high of $3.8 billion over the trailing twelve months, cementing the sector as the nation's premier engine of foreign exchange generation.",
+      "Pakistan’s information technology and telecommunication services exports have achieved an unprecedented all-time high of $3.8 billion over the trailing twelve months, cementing the sector as the nation's premier engine of foreign exchange generation.",
       "Data released by the State Bank of Pakistan highlights massive gains across cloud migration services, bespoke enterprise software development, and offshore cybersecurity monitoring for Fortune 500 clients in North America and the GCC.",
       "The Special Technology Zones Authority (STZA) has played a pivotal role, offering 10-year corporate income tax exemptions and zero-duty import privileges on semiconductor and server hardware for certified tech firms.",
       "With over 25,000 STEM graduates entering the workforce annually and leading tech companies establishing regional hubs in Riyadh and Dubai, Pakistan is actively transitioning from low-cost body shopping to high-margin intellectual property development."
@@ -107,7 +132,7 @@
     "category": "Fintech & Banking",
     "badge": "FINTECH",
     "title": "Raast P2M Revolution: How Micro-Merchant QR Codes Are Demonetizing Cash in Pakistan",
-    "subdeck": "With over 40 million registered IDs and zero interchange fees, the State Bank\u2019s instant payment rail is digitizing mom-and-pop retail nationwide.",
+    "subdeck": "With over 40 million registered IDs and zero interchange fees, the State Bank’s instant payment rail is digitizing mom-and-pop retail nationwide.",
     "image": "assets/images/digital_banking.jpg",
     "stat_number": "40M+",
     "stat_label": "REGISTERED USERS",
@@ -117,7 +142,7 @@
     "read_time": "4 min read",
     "featured": false,
     "body": [
-      "Pakistan's cash-dominated retail landscape is undergoing a silent digital coup. 'Raast', the State Bank of Pakistan\u2019s flagship instant payment system, has crossed 40 million verified digital IDs.",
+      "Pakistan's cash-dominated retail landscape is undergoing a silent digital coup. 'Raast', the State Bank of Pakistan’s flagship instant payment system, has crossed 40 million verified digital IDs.",
       "The system's recent Person-to-Merchant (P2M) interoperable QR code rollout has incentivized street vendors, grocery merchants, and pharmacy chains to abandon physical cash registers.",
       "By eliminating the burdensome 2.5% card swipe fees typically imposed by commercial merchant acquirers, Raast enables instant, irreversible bank-to-bank settlements in under 1.2 seconds at zero merchant discount rate (MDR).",
       "Digital banks operating under newly minted SBP digital banking licenses are leveraging this transaction history to disburse instant micro-working-capital loans to previously unbanked merchants."
@@ -132,7 +157,7 @@
     "id": "semiconductor-chip-design-initiative",
     "category": "Hardware & Chips",
     "badge": "SEMICONDUCTOR",
-    "title": "RISC-V Architecture: Pakistan\u2019s Push to Become an Open-Source Chip Design Powerhouse",
+    "title": "RISC-V Architecture: Pakistan’s Push to Become an Open-Source Chip Design Powerhouse",
     "subdeck": "University research labs in Islamabad tape out sub-28nm automotive and IoT silicon, bypassing costly proprietary intellectual property licenses.",
     "image": "assets/images/semiconductor.jpg",
     "stat_number": "28nm",
@@ -169,7 +194,7 @@
     "read_time": "4 min read",
     "featured": false,
     "body": [
-      "High petroleum prices and urban smog have catalyzed a rapid shift toward electric mobility across Pakistan\u2019s massive 25-million two-wheeler fleet.",
+      "High petroleum prices and urban smog have catalyzed a rapid shift toward electric mobility across Pakistan’s massive 25-million two-wheeler fleet.",
       "Over twenty domestic manufacturers have established operational assembly plants producing lithium-powered electric motorcycles and three-wheelers, backed by favorable localized tax concessions on battery cells and permanent-magnet motors.",
       "With running costs averaging less than PKR 0.80 per kilometer compared to PKR 4.50 for internal combustion engines, delivery couriers and daily commuters achieve full capital cost amortization within 14 months.",
       "The ongoing deployment of solar-buffered battery-swapping stations across major transit hubs promises to eliminate range anxiety and accelerate transition milestones."
