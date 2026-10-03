@@ -1,8 +1,11 @@
 name: 🚀 Pro Pakistan Tech Daily Publisher
 
 on:
+  push:
+    branches:
+      - main
   schedule:
-    # Autonomous daily execution
+    # Autonomous daily execution (12:00 PM PKT / 07:00 UTC)
     - cron: '0 7 * * *'
   workflow_dispatch:
     inputs:
@@ -65,11 +68,11 @@ jobs:
           echo "[*] Executing: $CMD"
           eval $CMD
 
-      - name: Commit State & Log
+      - name: Commit State & Blog
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: update tech_news post log [skip ci]"
-          file_pattern: 'captions_log.jsonl'
+          commit_message: "chore: update autonomous blog & captions log [skip ci]"
+          file_pattern: 'posts.json captions_log.jsonl assets/posts/*'
 
       - name: Cleanup Temporary Storage
         if: always()

@@ -1,0 +1,158 @@
+[
+  {
+    "id": "pakistan-5g-spectrum-auction-dossier",
+    "category": "5G & Telecom",
+    "badge": "TELECOM PULSE",
+    "title": "Pakistan’s 5G Spectrum Auction: PTA Finalizes 3.5 GHz Bands for Commercial Rollout",
+    "subdeck": "With an estimated $600M spectrum valuation and fiber-to-the-tower mandates, Pakistan prepares for ultra-low latency gigabit mobile infrastructure.",
+    "image": "assets/images/telecom_5g.png",
+    "stat_number": "3.5 GHz",
+    "stat_label": "PRIME SPECTRUM BAND",
+    "author": "Zeeshan Ahmed",
+    "author_avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop",
+    "date": "03 Oct 2026",
+    "read_time": "5 min read",
+    "featured": true,
+    "body": [
+      "Pakistan's telecommunications sector stands on the precipice of its most transformative leap since the 4G auctions of 2014. The Pakistan Telecommunication Authority (PTA) has formally gazetted the 5G Spectrum Auction Framework, designating the 3.5 GHz (C-Band) and 2.6 GHz bands for nationwide rollout.",
+      "The framework mandates that successful mobile network operators achieve 50% fiberization of their base transceiver stations (BTS) within 24 months, ensuring backhaul bandwidth capable of supporting true gigabit mobile speeds and sub-10ms latency.",
+      "Industry analysts project that initial commercial deployments will prioritize major tier-1 industrial corridors — including Karachi's financial district, Lahore's software technology parks, and the Islamabad-Rawalpindi metropolitan zone.",
+      "Beyond consumer streaming, the primary economic dividends are expected in smart manufacturing, fintech transaction processing, and high-density Internet of Things (IoT) monitoring across agricultural supply chains."
+    ],
+    "takeaways": [
+      "300 MHz of combined C-Band spectrum slated for multi-round competitive bidding.",
+      "Operators receive tariff concessions on dark fiber leasing to accelerate BTS backhaul fiberization.",
+      "Expected to generate over $600M in non-tax revenue while catalyzing digital economy growth."
+    ]
+  },
+  {
+    "id": "it-exports-milestone-record-high",
+    "category": "Digital Economy",
+    "badge": "RECORD HIGH",
+    "title": "Pakistan IT Exports Surge Past $3.8 Billion: Software Parks & Global Enterprise Contracts",
+    "subdeck": "A depreciated rupee, booming freelance developer base, and enterprise AI outsourcing propel Pakistan into South Asia’s fastest-growing tech exporter.",
+    "image": "assets/images/it_exports.png",
+    "stat_number": "$3.8B",
+    "stat_label": "ANNUAL IT EXPORTS",
+    "author": "Fatima Noor",
+    "author_avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=100&h=100&fit=crop",
+    "date": "02 Oct 2026",
+    "read_time": "4 min read",
+    "featured": false,
+    "body": [
+      "Pakistan’s information technology and telecommunication services exports have achieved an unprecedented all-time high of $3.8 billion over the trailing twelve months, cementing the sector as the nation's premier engine of foreign exchange generation.",
+      "Data released by the State Bank of Pakistan highlights massive gains across cloud migration services, bespoke enterprise software development, and offshore cybersecurity monitoring for Fortune 500 clients in North America and the GCC.",
+      "The Special Technology Zones Authority (STZA) has played a pivotal role, offering 10-year corporate income tax exemptions and zero-duty import privileges on semiconductor and server hardware for certified tech firms.",
+      "With over 25,000 STEM graduates entering the workforce annually and leading tech companies establishing regional hubs in Riyadh and Dubai, Pakistan is actively transitioning from low-cost body shopping to high-margin intellectual property development."
+    ],
+    "takeaways": [
+      "IT exports expanded 24.6% year-on-year, outperforming traditional textile export growth.",
+      "Enterprise contracts from the Gulf Cooperation Council (GCC) surged by 42% following bilateral trade pacts.",
+      "Over 450,000 active remote engineers and digital freelancers contribute $1.2B in informal inflows."
+    ]
+  },
+  {
+    "id": "generative-ai-startup-funding-boom",
+    "category": "AI & Startups",
+    "badge": "VENTURE CAPITAL",
+    "title": "The Rise of Pakistani AI Labs: Deep-Tech Startups Secure Institutional Seed Capital",
+    "subdeck": "From Urdu large language models to automated legal tech and medical diagnostics, domestic founders attract cross-border venture backing.",
+    "image": "assets/images/ai_startups.png",
+    "stat_number": "$42M",
+    "stat_label": "Q3 VC INFLOWS",
+    "author": "Zeeshan Ahmed",
+    "author_avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop",
+    "date": "29 Sep 2026",
+    "read_time": "5 min read",
+    "featured": false,
+    "body": [
+      "Despite macroeconomic turbulence in global venture markets, Pakistani deep-tech founders are capturing the attention of institutional seed syndicates from Singapore, London, and Silicon Valley.",
+      "In the third quarter of 2026 alone, indigenous AI startups raised over $42 million in early-stage equity funding. The round was headlined by localized generative AI applications targeting multilingual regional commerce.",
+      "Notably, research labs based in Lahore and Islamabad have open-sourced proprietary Urdu LLMs fine-tuned on centuries of classical Nastaliq literature and legal jurisprudence, outperforming generalized Western models on regional dialect comprehension.",
+      "Investors cite strong technical unit economics, highly competitive engineering salaries, and massive unbanked digital consumer bases as primary catalysts for sustained upside."
+    ],
+    "takeaways": [
+      "Q3 deep-tech venture funding rose 38% compared to the previous quarter.",
+      "Urdu-specific foundational language models achieved 91.2% benchmark accuracy on local judicial text.",
+      "Institutional syndicates from the UAE and Singapore participated in 70% of oversubscribed seed rounds."
+    ]
+  },
+  {
+    "id": "raast-instant-payments-revolution",
+    "category": "Fintech & Banking",
+    "badge": "FINTECH",
+    "title": "Raast P2M Revolution: How Micro-Merchant QR Codes Are Demonetizing Cash in Pakistan",
+    "subdeck": "With over 40 million registered IDs and zero interchange fees, the State Bank’s instant payment rail is digitizing mom-and-pop retail nationwide.",
+    "image": "assets/images/digital_banking.png",
+    "stat_number": "40M+",
+    "stat_label": "REGISTERED USERS",
+    "author": "Fatima Noor",
+    "author_avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=100&h=100&fit=crop",
+    "date": "26 Sep 2026",
+    "read_time": "4 min read",
+    "featured": false,
+    "body": [
+      "Pakistan's cash-dominated retail landscape is undergoing a silent digital coup. 'Raast', the State Bank of Pakistan’s flagship instant payment system, has crossed 40 million verified digital IDs.",
+      "The system's recent Person-to-Merchant (P2M) interoperable QR code rollout has incentivized street vendors, grocery merchants, and pharmacy chains to abandon physical cash registers.",
+      "By eliminating the burdensome 2.5% card swipe fees typically imposed by commercial merchant acquirers, Raast enables instant, irreversible bank-to-bank settlements in under 1.2 seconds at zero merchant discount rate (MDR).",
+      "Digital banks operating under newly minted SBP digital banking licenses are leveraging this transaction history to disburse instant micro-working-capital loans to previously unbanked merchants."
+    ],
+    "takeaways": [
+      "Daily Raast transaction volumes now exceed PKR 18 billion across commercial banks and microfinance institutions.",
+      "Zero MDR fee policy has driven a 160% increase in small-merchant QR acceptance.",
+      "Credit-scoring algorithms use transaction frequency to approve Nano-credit loans in under 60 seconds."
+    ]
+  },
+  {
+    "id": "semiconductor-chip-design-initiative",
+    "category": "Hardware & Chips",
+    "badge": "SEMICONDUCTOR",
+    "title": "RISC-V Architecture: Pakistan’s Push to Become an Open-Source Chip Design Powerhouse",
+    "subdeck": "University research labs in Islamabad tape out sub-28nm automotive and IoT silicon, bypassing costly proprietary intellectual property licenses.",
+    "image": "assets/images/semiconductor.png",
+    "stat_number": "28nm",
+    "stat_label": "FABRICATION PROCESS",
+    "author": "Zeeshan Ahmed",
+    "author_avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop",
+    "date": "23 Sep 2026",
+    "read_time": "4 min read",
+    "featured": false,
+    "body": [
+      "In the geopolitical scramble for semiconductor self-reliance, Pakistan is carving a pragmatic niche in fabless integrated circuit design utilizing open-source RISC-V architecture.",
+      "Spearheaded by federal research consortiums and top engineering universities, local engineering teams have successfully taped out customized 28-nanometer microcontrollers engineered for automotive telemetry and smart energy meters.",
+      "By sidestepping expensive commercial instruction set architecture (ISA) royalties associated with ARM or x86, domestic design houses can deliver specialized silicon at 40% lower development expense.",
+      "Partnerships with commercial foundry fabrication hubs in Taiwan and Malaysia ensure that locally designed RISC-V cores are fabricated at industrial quality standards ready for mass deployment."
+    ],
+    "takeaways": [
+      "Over 1,200 VLSI and chip layout engineers certified under national specialized training initiatives.",
+      "RISC-V open-source cores eliminate multimillion-dollar upfront architecture licensing fees.",
+      "First commercial automotive telemetry chips deployed across domestic EV two-wheeler manufacturers."
+    ]
+  },
+  {
+    "id": "ev-manufacturing-battery-ecosystem",
+    "category": "Clean Tech & Mobility",
+    "badge": "CLEANTECH",
+    "title": "Electric Two-Wheelers Take Flight: Local Battery Assembly Cuts Fuel Import Bill",
+    "subdeck": "With lithium iron phosphate (LFP) pack assembly lines launching in Karachi and Lahore, electric bikes reach total cost of ownership parity with petrol.",
+    "image": "assets/images/tech_pulse.jpg",
+    "stat_number": "70%",
+    "stat_label": "RUNNING COST SAVING",
+    "author": "Fatima Noor",
+    "author_avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=100&h=100&fit=crop",
+    "date": "20 Sep 2026",
+    "read_time": "4 min read",
+    "featured": false,
+    "body": [
+      "High petroleum prices and urban smog have catalyzed a rapid shift toward electric mobility across Pakistan’s massive 25-million two-wheeler fleet.",
+      "Over twenty domestic manufacturers have established operational assembly plants producing lithium-powered electric motorcycles and three-wheelers, backed by favorable localized tax concessions on battery cells and permanent-magnet motors.",
+      "With running costs averaging less than PKR 0.80 per kilometer compared to PKR 4.50 for internal combustion engines, delivery couriers and daily commuters achieve full capital cost amortization within 14 months.",
+      "The ongoing deployment of solar-buffered battery-swapping stations across major transit hubs promises to eliminate range anxiety and accelerate transition milestones."
+    ],
+    "takeaways": [
+      "Electric two-wheeler sales grew 210% over the last four quarters nationwide.",
+      "Standard LFP battery chemistries deliver over 2,000 charging cycles with a 5-year operational lifespan.",
+      "Widespread adoption projected to save the national exchequer over $1.5B annually in refined fuel imports."
+    ]
+  }
+]
