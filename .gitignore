@@ -5,5 +5,7 @@ venv/
 .env
 storage/videos/*
 !storage/videos/.gitkeep
+storage/carousels/*
+storage/cards/*
 latest_caption.txt
 .DS_Store

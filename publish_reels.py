@@ -3,7 +3,10 @@ import time
 import subprocess
 import requests
 import tempfile
-import imageio_ffmpeg
+try:
+    import imageio_ffmpeg
+except ImportError:
+    imageio_ffmpeg = None
 from pathlib import Path
 from dotenv import load_dotenv
 

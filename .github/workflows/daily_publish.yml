@@ -1,28 +1,48 @@
-name: 🚀 Pro Pakistan Tech Daily Publisher
+name: 🚀 Pro Pakistan Autonomous Daily Publisher
 
 on:
-  push:
-    branches:
-      - main
   schedule:
     # Autonomous daily execution (12:00 PM PKT / 07:00 UTC)
     - cron: '0 7 * * *'
   workflow_dispatch:
     inputs:
+      niche:
+        description: 'Pro Pakistan vertical to publish'
+        required: true
+        default: 'all'
+        type: choice
+        options:
+          - all
+          - technology_telecom
+          - business_finance
+          - automotive_carbase
+          - sports_prosports
+          - education_scholarships
+          - entertainment_lens
+          - public_utility_guides
+      format:
+        description: 'Format to generate (auto, card, carousel, reel)'
+        required: true
+        default: 'auto'
+        type: choice
+        options:
+          - auto
+          - carousel
+          - card
+          - reel
       topic:
-        description: 'Tech news angle (e.g. 5G rollout in Pakistan, IT exports boom, EV incentives)'
+        description: 'Custom topic / angle (optional)'
         required: false
         default: ''
         type: string
-      format:
-        description: 'Format to generate'
+      lang:
+        description: 'Language'
         required: true
-        default: 'card'
+        default: 'english'
         type: choice
         options:
-          - card
-          - reel
-          - both
+          - english
+          - urdu
 
 jobs:
   publish:
@@ -59,9 +79,7 @@ jobs:
           IG_BUSINESS_ACCOUNT_ID: ${{ vars.IG_BUSINESS_ACCOUNT_ID || '17841424057438345' }}
           SKIP_CLEANUP: "true"
         run: |
-          rm -f storage/videos/*.png storage/videos/*.mp4
-          
-          CMD="python run_agent.py --format ${{ github.event.inputs.format || 'card' }} --once"
+          CMD="python run_agent.py --niche ${{ github.event.inputs.niche || 'all' }} --format ${{ github.event.inputs.format || 'auto' }} --lang ${{ github.event.inputs.lang || 'english' }} --once"
           if [ -n "${{ github.event.inputs.topic }}" ]; then
             CMD="$CMD --topic '${{ github.event.inputs.topic }}'"
           fi
@@ -71,10 +89,10 @@ jobs:
       - name: Commit State & Blog
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: update autonomous blog & captions log [skip ci]"
-          file_pattern: 'posts.json captions_log.jsonl assets/posts/*'
+          commit_message: "chore: autonomous editorial publish [skip ci]"
+          file_pattern: 'posts.json captions_log.jsonl sitemap.xml index.html assets/posts/*'
 
       - name: Cleanup Temporary Storage
         if: always()
         run: |
-          rm -rf storage/videos/* latest_caption.txt
+          rm -rf storage/carousels/* storage/cards/* storage/videos/* latest_caption.txt

@@ -149,10 +149,27 @@ function renderGridSection() {
   `}).join("");
 }
 
+const CATEGORY_MAP = {
+  "Technology & Telecom": ["technology", "telecom", "5g", "pta", "phone", "hardware", "chips", "starlink", "tech"],
+  "Business & Finance": ["business", "finance", "economy", "fintech", "banking", "tax", "fbr", "imf", "psx", "stock"],
+  "Automotive (CarBase)": ["automotive", "carbase", "car", "bike", "ev", "fuel", "petrol", "hybrid", "clean tech"],
+  "Sports (ProSports)": ["sports", "prosports", "cricket", "psl", "match", "icc"],
+  "Education & Scholarships": ["education", "scholarship", "hec", "admission", "university", "grant"],
+  "Entertainment & Lifestyle": ["entertainment", "lens", "celebrity", "drama", "cinema", "film", "lifestyle"],
+  "Public Utility Guides": ["utility", "guide", "passport", "cnic", "nadra", "license", "services"]
+};
+
 function getFilteredPosts() {
   return allPosts.filter(post => {
-    const matchesCat = (currentCategory === "All") || (post.category && post.category.toLowerCase() === currentCategory.toLowerCase());
-    if (!matchesCat) return false;
+    if (currentCategory !== "All") {
+      const catLower = (post.category || "").toLowerCase();
+      const badgeLower = (post.badge || "").toLowerCase();
+      const targetLower = currentCategory.toLowerCase();
+      
+      const keywords = CATEGORY_MAP[currentCategory] || [];
+      const matches = catLower === targetLower || keywords.some(kw => catLower.includes(kw) || badgeLower.includes(kw));
+      if (!matches) return false;
+    }
 
     if (!searchQuery) return true;
     const q = searchQuery.toLowerCase();
@@ -165,7 +182,16 @@ function getFilteredPosts() {
 
 function initCategoryFilters() {
   if (!filterPillsContainer) return;
-  const categories = ["All", "5G & Telecom", "Digital Economy", "AI & Startups", "Fintech & Banking", "Hardware & Chips", "Clean Tech & Mobility"];
+  const categories = [
+    "All",
+    "Technology & Telecom",
+    "Business & Finance",
+    "Automotive (CarBase)",
+    "Sports (ProSports)",
+    "Education & Scholarships",
+    "Entertainment & Lifestyle",
+    "Public Utility Guides"
+  ];
   filterPillsContainer.innerHTML = categories.map(cat => `
     <button class="pill-btn ${cat === currentCategory ? 'active' : ''}" onclick="setCategory('${cat}')">
       ${cat}
@@ -270,13 +296,35 @@ window.openArticleModal = async function(id) {
     modalBodyProse.className = isUrdu ? "modal-article-prose urdu-prose" : "modal-article-prose";
     modalBodyProse.setAttribute("dir", isUrdu ? "rtl" : "ltr");
 
-    if (Array.isArray(post.body)) {
-      modalBodyProse.innerHTML = post.body.map(para => `<p>${escapeHtml(para)}</p>`).join("");
+    let proseHtml = "";
+    if (post.sections && Array.isArray(post.sections) && post.sections.length > 0) {
+      proseHtml = post.sections.map(sec => `
+        <h2>${escapeHtml(sec.heading || "")}</h2>
+        <p>${escapeHtml(sec.content || "")}</p>
+      `).join("");
+    } else if (Array.isArray(post.body)) {
+      proseHtml = post.body.map(para => `<p>${escapeHtml(para)}</p>`).join("");
     } else if (typeof post.body === "string") {
-      modalBodyProse.innerHTML = `<p>${escapeHtml(post.body)}</p>`;
+      proseHtml = `<p>${escapeHtml(post.body)}</p>`;
     } else {
-      modalBodyProse.innerHTML = `<p>${escapeHtml(post.subdeck || "")}</p>`;
+      proseHtml = `<p>${escapeHtml(post.subdeck || "")}</p>`;
     }
+
+    if (post.faqs && Array.isArray(post.faqs) && post.faqs.length > 0) {
+      proseHtml += `
+        <div class="modal-faqs-section">
+          <h3 class="modal-faqs-heading">❓ Frequently Asked Questions</h3>
+          ${post.faqs.map(faq => `
+            <div class="modal-faq-item">
+              <div class="modal-faq-question">${escapeHtml(faq.question || "")}</div>
+              <p class="modal-faq-answer">${escapeHtml(faq.answer || "")}</p>
+            </div>
+          `).join("")}
+        </div>
+      `;
+    }
+
+    modalBodyProse.innerHTML = proseHtml;
   }
 
   if (modalTakeawaysCard && modalTakeawaysList) {
