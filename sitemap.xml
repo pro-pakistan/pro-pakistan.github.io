@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://pro-pakistan.github.io/</loc>
     <lastmod>2026-10-04</lastmod>
@@ -10,36 +11,60 @@
     <loc>https://pro-pakistan.github.io/#pakistan-5g-spectrum-auction-dossier</loc>
     <lastmod>2026-10-04</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://pro-pakistan.github.io/assets/images/telecom_5g.webp</image:loc>
+      <image:title>Pakistan’s 5G Spectrum Auction: PTA Finalizes 3.5 GHz Bands for Commercial Rollout</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://pro-pakistan.github.io/#it-exports-milestone-record-high</loc>
     <lastmod>2026-10-04</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://pro-pakistan.github.io/assets/images/it_exports.webp</image:loc>
+      <image:title>Pakistan IT Exports Surge Past $3.8 Billion: Software Parks &amp; Global Enterprise Contracts</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://pro-pakistan.github.io/#generative-ai-startup-funding-boom</loc>
     <lastmod>2026-10-04</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://pro-pakistan.github.io/assets/images/ai_startups.webp</image:loc>
+      <image:title>The Rise of Pakistani AI Labs: Deep-Tech Startups Secure Institutional Seed Capital</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://pro-pakistan.github.io/#raast-instant-payments-revolution</loc>
     <lastmod>2026-10-04</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://pro-pakistan.github.io/assets/images/digital_banking.webp</image:loc>
+      <image:title>Raast P2M Revolution: How Micro-Merchant QR Codes Are Demonetizing Cash in Pakistan</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://pro-pakistan.github.io/#semiconductor-chip-design-initiative</loc>
     <lastmod>2026-10-04</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://pro-pakistan.github.io/assets/images/semiconductor.webp</image:loc>
+      <image:title>RISC-V Architecture: Pakistan’s Push to Become an Open-Source Chip Design Powerhouse</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://pro-pakistan.github.io/#ev-manufacturing-battery-ecosystem</loc>
     <lastmod>2026-10-04</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://pro-pakistan.github.io/assets/images/tech_pulse.webp</image:loc>
+      <image:title>Electric Two-Wheelers Take Flight: Local Battery Assembly Cuts Fuel Import Bill</image:title>
+    </image:image>
   </url>
 </urlset>
