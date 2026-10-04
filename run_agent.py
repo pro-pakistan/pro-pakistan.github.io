@@ -276,7 +276,7 @@ def update_blog_catalog(post_id: str, package: dict, cover_img_path: str, lang: 
                 html_text = inf.read()
             pattern = r'window\.INITIAL_POSTS\s*=\s*\[.*?\];'
             replacement = f'window.INITIAL_POSTS = {json.dumps(posts[:15], ensure_ascii=False)};'
-            html_text = re.sub(pattern, replacement, html_text, flags=re.DOTALL)
+            html_text = re.sub(pattern, lambda _: replacement, html_text, flags=re.DOTALL)
             with open(index_file, "w", encoding="utf-8") as outf:
                 outf.write(html_text)
             logger.info("⚡ Synced window.INITIAL_POSTS in index.html")
