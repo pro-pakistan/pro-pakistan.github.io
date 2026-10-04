@@ -1,5 +1,30 @@
 [
   {
+    "id": "solar-panel-prices-hit-record-low-845",
+    "category": "MARKET WATCH",
+    "badge": "PRICE ALERT 📉",
+    "title": "Solar Panel Prices Hit Record Low",
+    "subdeck": "Massive supply surplus drives costs down to unprecedented levels across major Pakistani cities.",
+    "image": "assets/posts/solar-panel-prices-hit-record-low-845.png",
+    "stat_number": "PKR 28",
+    "stat_label": "PER WATT PRICE",
+    "author": "Autonomous Tech Agent",
+    "author_avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop",
+    "date": "04 Oct 2026",
+    "read_time": "4 min read",
+    "featured": true,
+    "body": [
+      "Tier-1 550W+ panels now available between PKR 28-32 per watt in wholesale.",
+      "Market crash triggered by massive inventory surplus and global manufacturing oversupply.",
+      "Ideal window for residential and industrial solar transitions before potential import curbs."
+    ],
+    "takeaways": [
+      "Tier-1 550W+ panels now available between PKR 28-32 per watt in wholesale.",
+      "Market crash triggered by massive inventory surplus and global manufacturing oversupply.",
+      "Ideal window for residential and industrial solar transitions before potential import curbs."
+    ]
+  },
+  {
     "id": "pakistan-s-ev-dream-just-got-cheape-465",
     "category": "EV UPDATE",
     "badge": "TECH NEWS ⚡",
@@ -12,7 +37,7 @@
     "author_avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop",
     "date": "03 Oct 2026",
     "read_time": "4 min read",
-    "featured": true,
+    "featured": false,
     "body": [
       "Massive new tax breaks & duties reduction on EV components.",
       "Aims to cut local EV prices by up to 15-20% for consumers.",
@@ -62,7 +87,7 @@
     "author_avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop",
     "date": "03 Oct 2026",
     "read_time": "5 min read",
-    "featured": true,
+    "featured": false,
     "body": [
       "Pakistan's telecommunications sector stands on the precipice of its most transformative leap since the 4G auctions of 2014. The Pakistan Telecommunication Authority (PTA) has formally gazetted the 5G Spectrum Auction Framework, designating the 3.5 GHz (C-Band) and 2.6 GHz bands for nationwide rollout.",
       "The framework mandates that successful mobile network operators achieve 50% fiberization of their base transceiver stations (BTS) within 24 months, ensuring backhaul bandwidth capable of supporting true gigabit mobile speeds and sub-10ms latency.",
