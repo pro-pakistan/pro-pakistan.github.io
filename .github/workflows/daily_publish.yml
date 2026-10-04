@@ -3,7 +3,7 @@ name: 🚀 Pro Pakistan Autonomous Daily Publisher
 on:
   schedule:
     # Autonomous daily execution (12:00 PM PKT / 07:00 UTC)
-    - cron: '0 7 * * *'
+   # - cron: '0 7 * * *'
   workflow_dispatch:
     inputs:
       niche:
