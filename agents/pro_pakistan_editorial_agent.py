@@ -15,7 +15,7 @@ from datetime import datetime
 from google import genai
 from google.genai import types
 
-from agents.viral_hook_framework import PRO_PAKISTAN_NICHE_MATRIX, VIRAL_HOOK_ARCHETYPES, ViralHookEngine
+from agents.viral_hook_framework import PRO_PAKISTAN_NICHE_MATRIX, VIRAL_HOOK_ARCHETYPES, ViralHookEngine, EDITORIAL_BYLINES
 
 logger = logging.getLogger(__name__)
 
@@ -61,6 +61,9 @@ def generate_pro_pakistan_editorial_package(
 
     hook_info = ViralHookEngine.generate_hook(niche_key, specific_topic=topic, lang=lang)
 
+    bylines_list = EDITORIAL_BYLINES.get(niche_key, EDITORIAL_BYLINES["technology_telecom"])
+    chosen_author = random.choice(bylines_list)
+
     client = _get_genai_client()
     prompt = f"""You are the Editor-in-Chief and Head of Growth for 'ProPakistani' (Pakistan's largest digital news, technology, automotive, and business network).
 
@@ -70,6 +73,7 @@ SPECIFIC TOPIC: {topic}
 TARGET FORMAT: {chosen_format.upper()} (card, carousel, or reel)
 LANGUAGE: {lang.upper()} (If Urdu, write in natural, fluent Nastaliq Urdu)
 ATTENTION HOOK ARCHETYPE: {hook_info['archetype_name']} ({hook_info['hook_text']})
+BYLINE AUTHOR: {chosen_author['name']} ({chosen_author['role']})
 
 You must produce a publication-grade package containing:
 1. A REAL, IN-DEPTH, FULL-LENGTH JOURNALISTIC BLOG POST (400-600 words) with structured H2 headings, detailed facts, pricing or procedural steps, practical consumer impact, and 2-3 FAQs. (DO NOT write a lazy 3-bullet Instagram summary — write an actual indexable article for Google News / Search Console).
@@ -90,8 +94,9 @@ Return strictly valid JSON with this exact schema:
         "stat_number": "A striking number/metric (e.g. 'PKR 12,500', '152 KPH', '100% Grant', '-15% Drop', '48 Hours')",
         "stat_label": "{niche_meta['default_stat_label']}",
         "read_time": "4 min read",
-        "author": "Autonomous Tech Agent",
-        "author_role": "Senior Editorial Analyst",
+        "author": "{chosen_author['name']}",
+        "author_role": "{chosen_author['role']}",
+        "author_avatar": "{chosen_author['avatar']}",
         "sections": [
             {{
                 "heading": "H2 Heading: The Core Announcement or Problem",
@@ -167,12 +172,16 @@ Output ONLY valid JSON. No markdown fences.
                 logger.warning(f"Model {m} error: {e}. Retrying fallback model...")
 
     if not result:
-        result = _build_resilient_fallback(niche_key, niche_meta, topic, chosen_format, hook_info, lang)
+        result = _build_resilient_fallback(niche_key, niche_meta, topic, chosen_format, hook_info, lang, chosen_author)
 
     return result
 
-def _build_resilient_fallback(niche_key: str, niche_meta: Dict, topic: str, format_type: str, hook_info: Dict, lang: str) -> Dict[str, Any]:
+def _build_resilient_fallback(niche_key: str, niche_meta: Dict, topic: str, format_type: str, hook_info: Dict, lang: str, chosen_author: Dict = None) -> Dict[str, Any]:
     """Provides high-quality editorial fallback content if Gemini API is unreachable."""
+    if not chosen_author:
+        bylines_list = EDITORIAL_BYLINES.get(niche_key, EDITORIAL_BYLINES["technology_telecom"])
+        chosen_author = random.choice(bylines_list)
+
     is_urdu = lang == "urdu"
     title = f"{niche_meta['display_name']}: {topic}" if not is_urdu else f"{niche_meta['display_name']}: {topic} کے اہم نکات"
     
@@ -208,8 +217,9 @@ def _build_resilient_fallback(niche_key: str, niche_meta: Dict, topic: str, form
             "stat_number": "100%",
             "stat_label": niche_meta["default_stat_label"],
             "read_time": "4 min read",
-            "author": "Autonomous Tech Agent",
-            "author_role": "Senior Editorial Analyst",
+            "author": chosen_author["name"],
+            "author_role": chosen_author["role"],
+            "author_avatar": chosen_author["avatar"],
             "sections": sections,
             "key_takeaways": takeaways,
             "faqs": [

@@ -220,6 +220,38 @@ PRO_PAKISTAN_NICHE_MATRIX = {
     }
 }
 
+EDITORIAL_BYLINES = {
+    "technology_telecom": [
+        {"name": "Hamid Raza", "role": "Chief Technology Editor", "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=120&h=120&fit=crop"},
+        {"name": "Bilal Siddiqui", "role": "Senior Telecom & 5G Analyst", "avatar": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=120&h=120&fit=crop"},
+        {"name": "Zeeshan Ahmed", "role": "Infrastructure & Hardware Bureau Chief", "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=120&h=120&fit=crop"}
+    ],
+    "business_finance": [
+        {"name": "Fatima Noor", "role": "Senior Markets & Fiscal Policy Editor", "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=120&h=120&fit=crop"},
+        {"name": "Kamran Butt", "role": "Banking & Venture Capital Bureau Chief", "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=120&h=120&fit=crop"}
+    ],
+    "automotive_carbase": [
+        {"name": "Usman Tariq", "role": "Automotive Bureau Chief & Lead Road Tester", "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=120&h=120&fit=crop"},
+        {"name": "Daniyal Malik", "role": "CarBase EV & Mobility Correspondent", "avatar": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?w=120&h=120&fit=crop"}
+    ],
+    "sports_prosports": [
+        {"name": "Farhan Jahangir", "role": "Senior Cricket & Biomechanics Correspondent", "avatar": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=120&h=120&fit=crop"},
+        {"name": "Saad Rafiq", "role": "ProSports Tactics & Tournament Analyst", "avatar": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=120&h=120&fit=crop"}
+    ],
+    "education_scholarships": [
+        {"name": "Ayesha Khan", "role": "Education & Global Scholarships Editor", "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=120&h=120&fit=crop"},
+        {"name": "Dr. Sara Qureshi", "role": "Higher Education & Academic Fellow", "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=120&h=120&fit=crop"}
+    ],
+    "entertainment_lens": [
+        {"name": "Maryam Sheikh", "role": "Lens Entertainment & Cinema Lead", "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=120&h=120&fit=crop"},
+        {"name": "Zainab Mirza", "role": "Pop Culture & Television Critic", "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=120&h=120&fit=crop"}
+    ],
+    "public_utility_guides": [
+        {"name": "Naveed Aslam", "role": "Public Services & Citizen Guidance Desk", "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=120&h=120&fit=crop"},
+        {"name": "Tariq Mahmood", "role": "Regulatory Compliance & Consumer Rights Lead", "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=120&h=120&fit=crop"}
+    ]
+}
+
 class ViralHookEngine:
     @staticmethod
     def generate_hook(niche_key: str, specific_topic: str = None, lang: str = "english") -> Dict[str, str]:

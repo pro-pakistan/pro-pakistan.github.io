@@ -223,9 +223,9 @@ def update_blog_catalog(post_id: str, package: dict, cover_img_path: str, lang: 
         "image": cover_img_path, # Pristine 16:9 editorial cover image
         "stat_number": blog_article.get("stat_number", ""),
         "stat_label": blog_article.get("stat_label", "KEY METRIC"),
-        "author": blog_article.get("author", "Autonomous Editorial Desk"),
-        "author_role": blog_article.get("author_role", "Senior Editorial Analyst"),
-        "author_avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop",
+        "author": blog_article.get("author", "Hamid Raza"),
+        "author_role": blog_article.get("author_role", "Chief Technology Editor"),
+        "author_avatar": blog_article.get("author_avatar", "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=120&h=120&fit=crop"),
         "date": datetime.now().strftime("%d %b %Y"),
         "read_time": blog_article.get("read_time", "4 min read"),
         "featured": True,
