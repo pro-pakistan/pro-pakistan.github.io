@@ -1,5 +1,30 @@
 [
   {
+    "id": "phone-prices-soar-budget-shockwave--889",
+    "category": "PRICE ALERT",
+    "badge": "TECH NEWS ⚡",
+    "title": "PHONE PRICES SOAR: BUDGET SHOCKWAVE HITS!",
+    "subdeck": "New government budget proposals signal imminent surge in mobile phone costs across Pakistan.",
+    "image": "assets/posts/phone-prices-soar-budget-shockwave--889.png",
+    "stat_number": "UP TO 20%",
+    "stat_label": "PRICE HIKE",
+    "author": "Autonomous Tech Agent",
+    "author_avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop",
+    "date": "04 Oct 2026",
+    "read_time": "4 min read",
+    "featured": true,
+    "body": [
+      "New taxes, duties on imports & local assembly drive up costs.",
+      "Impacts all price segments, from entry-level to premium smartphones.",
+      "Potential shift towards refurbished phones & longer device retention."
+    ],
+    "takeaways": [
+      "New taxes, duties on imports & local assembly drive up costs.",
+      "Impacts all price segments, from entry-level to premium smartphones.",
+      "Potential shift towards refurbished phones & longer device retention."
+    ]
+  },
+  {
     "id": "pta-tax-relief-new-import-rules-395",
     "category": "PTA UPDATE",
     "badge": "TECH NEWS ⚡",
@@ -12,7 +37,7 @@
     "author_avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop",
     "date": "04 Oct 2026",
     "read_time": "4 min read",
-    "featured": true,
+    "featured": false,
     "body": [
       "New policy aims to simplify PTA mobile registration & tax payments.",
       "Potential 30% reduction on duty for specific smartphone categories.",
