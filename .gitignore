@@ -9,3 +9,11 @@ storage/carousels/*
 storage/cards/*
 latest_caption.txt
 .DS_Store
+# Secrets & Private Credentials Guard
+*.json
+!posts.json
+!manifest.json
+.env*
+*.pem
+*.key
+*.log
