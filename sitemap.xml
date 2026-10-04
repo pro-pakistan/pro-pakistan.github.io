@@ -8,6 +8,26 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://pro-pakistan.github.io/#pakistan-s-ev-dream-just-got-cheape-465</loc>
+    <lastmod>2026-10-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://pro-pakistan.github.io/assets/posts/pakistan-s-ev-dream-just-got-cheape-465.png</image:loc>
+      <image:title>Pakistan&#039;s EV Dream Just Got Cheaper!</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://pro-pakistan.github.io/#mobile-tax-hikes-588</loc>
+    <lastmod>2026-10-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://pro-pakistan.github.io/assets/posts/mobile-tax-hikes-588.png</image:loc>
+      <image:title>Mobile Tax Hikes!</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://pro-pakistan.github.io/#pakistan-5g-spectrum-auction-dossier</loc>
     <lastmod>2026-10-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -23,7 +43,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
     <image:image>
-      <image:loc>https://pro-pakistan.github.io/assets/images/it_exports.webp</image:loc>
+      <image:loc>https://pro-pakistan.github.io/assets/images/it_exports.jpg</image:loc>
       <image:title>Pakistan IT Exports Surge Past $3.8 Billion: Software Parks &amp; Global Enterprise Contracts</image:title>
     </image:image>
   </url>
@@ -43,7 +63,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
     <image:image>
-      <image:loc>https://pro-pakistan.github.io/assets/images/digital_banking.webp</image:loc>
+      <image:loc>https://pro-pakistan.github.io/assets/images/digital_banking.jpg</image:loc>
       <image:title>Raast P2M Revolution: How Micro-Merchant QR Codes Are Demonetizing Cash in Pakistan</image:title>
     </image:image>
   </url>
