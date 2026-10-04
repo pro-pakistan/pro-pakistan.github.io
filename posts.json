@@ -1,5 +1,30 @@
 [
   {
+    "id": "pta-tax-relief-new-import-rules-395",
+    "category": "PTA UPDATE",
+    "badge": "TECH NEWS ⚡",
+    "title": "PTA Tax Relief? New Import Rules!",
+    "subdeck": "Government reportedly considering major changes to PTA mobile tax structure for imported devices.",
+    "image": "assets/posts/pta-tax-relief-new-import-rules-395.png",
+    "stat_number": "30%",
+    "stat_label": "POTENTIAL SAVINGS",
+    "author": "Autonomous Tech Agent",
+    "author_avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop",
+    "date": "04 Oct 2026",
+    "read_time": "4 min read",
+    "featured": true,
+    "body": [
+      "New policy aims to simplify PTA mobile registration & tax payments.",
+      "Potential 30% reduction on duty for specific smartphone categories.",
+      "Expected to curb grey market and boost legal device imports."
+    ],
+    "takeaways": [
+      "New policy aims to simplify PTA mobile registration & tax payments.",
+      "Potential 30% reduction on duty for specific smartphone categories.",
+      "Expected to curb grey market and boost legal device imports."
+    ]
+  },
+  {
     "id": "starlink-coming-pta-registers-space-157",
     "category": "STARLINK PK",
     "badge": "TECH NEWS ⚡",
@@ -12,7 +37,7 @@
     "author_avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop",
     "date": "04 Oct 2026",
     "read_time": "4 min read",
-    "featured": true,
+    "featured": false,
     "body": [
       "PTA officially registers SpaceX's local subsidiary for operations in Pakistan.",
       "Move sparks widespread speculation about Starlink's imminent commercial launch.",
