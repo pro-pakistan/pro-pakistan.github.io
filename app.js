@@ -1,5 +1,5 @@
 /**
- * pro pakistani — Litquidity-Style Editorial Blog Engine
+ * pro pakistan — Litquidity-Style Editorial Blog Engine
  */
 
 let allPosts = window.INITIAL_POSTS || [];
