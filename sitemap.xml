@@ -1,118 +1,209 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns:ns0="http://www.google.com/schemas/sitemap-image/1.1" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://pro-pakistan.github.io/</loc>
-    <lastmod>2026-10-04</lastmod>
+    <lastmod>2026-10-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://pro-pakistan.github.io/#solar-panel-prices-hit-record-low-845</loc>
-    <lastmod>2026-10-04</lastmod>
+    <loc>https://pro-pakistan.github.io/#national-semiconductor-lab-riscv-silicon-tapeout</loc>
+    <lastmod>2026-10-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
-    <image:image>
-      <image:loc>https://pro-pakistan.github.io/assets/posts/solar-panel-prices-hit-record-low-845.png</image:loc>
-      <image:title>Solar Panel Prices Hit Record Low</image:title>
-    </image:image>
+    <ns0:image>
+      <ns0:loc>https://pro-pakistan.github.io/assets/posts/national-semiconductor-lab-riscv-silicon-tapeout_cover.jpg</ns0:loc>
+      <ns0:title>Pakistan's National Semiconductor Lab: First Indigenous 28nm RISC-V Silicon Taped Out</ns0:title>
+    </ns0:image>
   </url>
   <url>
-    <loc>https://pro-pakistan.github.io/#pakistan-s-ev-dream-just-got-cheape-465</loc>
-    <lastmod>2026-10-04</lastmod>
+    <loc>https://pro-pakistan.github.io/#sbp-digital-retail-bank-charters-launch</loc>
+    <lastmod>2026-10-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
-    <image:image>
-      <image:loc>https://pro-pakistan.github.io/assets/posts/pakistan-s-ev-dream-just-got-cheape-465.png</image:loc>
-      <image:title>Pakistan&#039;s EV Dream Just Got Cheaper!</image:title>
-    </image:image>
+    <ns0:image>
+      <ns0:loc>https://pro-pakistan.github.io/assets/posts/sbp-digital-retail-bank-charters-launch_cover.jpg</ns0:loc>
+      <ns0:title>SBP Issues First 5 Digital Retail Bank Charters: The End of Legacy Branch Banking</ns0:title>
+    </ns0:image>
   </url>
   <url>
-    <loc>https://pro-pakistan.github.io/#mobile-tax-hikes-588</loc>
-    <lastmod>2026-10-04</lastmod>
+    <loc>https://pro-pakistan.github.io/#pakistan-first-sovereign-gpu-cloud-islamabad</loc>
+    <lastmod>2026-10-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
-    <image:image>
-      <image:loc>https://pro-pakistan.github.io/assets/posts/mobile-tax-hikes-588.png</image:loc>
-      <image:title>Mobile Tax Hikes!</image:title>
-    </image:image>
+    <ns0:image>
+      <ns0:loc>https://pro-pakistan.github.io/assets/posts/pakistan-first-sovereign-gpu-cloud-islamabad_cover.jpg</ns0:loc>
+      <ns0:title>Islamabad Tech Zone: Pakistan's First Sovereign GPU Cloud &amp; AI Data Center Cluster</ns0:title>
+    </ns0:image>
   </url>
   <url>
-    <loc>https://pro-pakistan.github.io/#pakistan-5g-spectrum-auction-dossier</loc>
-    <lastmod>2026-10-04</lastmod>
+    <loc>https://pro-pakistan.github.io/#pta-5g-c-band-spectrum-auction-blueprint</loc>
+    <lastmod>2026-10-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
-    <image:image>
-      <image:loc>https://pro-pakistan.github.io/assets/images/telecom_5g.webp</image:loc>
-      <image:title>Pakistan’s 5G Spectrum Auction: PTA Finalizes 3.5 GHz Bands for Commercial Rollout</image:title>
-    </image:image>
+    <ns0:image>
+      <ns0:loc>https://pro-pakistan.github.io/assets/posts/pta-5g-c-band-spectrum-auction-blueprint_cover.jpg</ns0:loc>
+      <ns0:title>PTA 5G C-Band Auction Blueprint: 300 MHz Spectrum Rollout Across Major Metros</ns0:title>
+    </ns0:image>
   </url>
   <url>
-    <loc>https://pro-pakistan.github.io/#it-exports-milestone-record-high</loc>
-    <lastmod>2026-10-04</lastmod>
+    <loc>https://pro-pakistan.github.io/#solar-net-metering-overhaul-battery-storage</loc>
+    <lastmod>2026-10-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
-    <image:image>
-      <image:loc>https://pro-pakistan.github.io/assets/images/it_exports.jpg</image:loc>
-      <image:title>Pakistan IT Exports Surge Past $3.8 Billion: Software Parks &amp; Global Enterprise Contracts</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://pro-pakistan.github.io/#generative-ai-startup-funding-boom</loc>
-    <lastmod>2026-10-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.85</priority>
-    <image:image>
-      <image:loc>https://pro-pakistan.github.io/assets/images/ai_startups.webp</image:loc>
-      <image:title>The Rise of Pakistani AI Labs: Deep-Tech Startups Secure Institutional Seed Capital</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://pro-pakistan.github.io/#raast-instant-payments-revolution</loc>
-    <lastmod>2026-10-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.85</priority>
-    <image:image>
-      <image:loc>https://pro-pakistan.github.io/assets/images/digital_banking.jpg</image:loc>
-      <image:title>Raast P2M Revolution: How Micro-Merchant QR Codes Are Demonetizing Cash in Pakistan</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://pro-pakistan.github.io/#semiconductor-chip-design-initiative</loc>
-    <lastmod>2026-10-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.85</priority>
-    <image:image>
-      <image:loc>https://pro-pakistan.github.io/assets/images/semiconductor.webp</image:loc>
-      <image:title>RISC-V Architecture: Pakistan’s Push to Become an Open-Source Chip Design Powerhouse</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://pro-pakistan.github.io/#ev-manufacturing-battery-ecosystem</loc>
-    <lastmod>2026-10-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.85</priority>
-    <image:image>
-      <image:loc>https://pro-pakistan.github.io/assets/images/tech_pulse.webp</image:loc>
-      <image:title>Electric Two-Wheelers Take Flight: Local Battery Assembly Cuts Fuel Import Bill</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://pro-pakistan.github.io/#don-t-lose-lakhs-your-ultimate-used-413</loc>
-    <lastmod>2026-10-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.85</priority>
-  </url>
-  <url>
-    <loc>https://pro-pakistan.github.io/#get-raast-p2p-asaan-digital-account-655</loc>
-    <lastmod>2026-10-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.85</priority>
+    <ns0:image>
+      <ns0:loc>https://pro-pakistan.github.io/assets/posts/solar-net-metering-overhaul-battery-storage_cover.jpg</ns0:loc>
+      <ns0:title>Solar Net-Metering Overhaul: SBP Gross-Metering Framework &amp; Battery Storage Incentives</ns0:title>
+    </ns0:image>
   </url>
   <url>
     <loc>https://pro-pakistan.github.io/#pakistan-s-youth-digital-leap-how-t-135</loc>
-    <lastmod>2026-10-04</lastmod>
-    <changefreq>daily</changefreq>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.85</priority>
+    <ns0:image>
+      <ns0:loc>https://pro-pakistan.github.io/assets/posts/pakistan-s-youth-digital-leap-how-t-135_cover.jpg</ns0:loc>
+      <ns0:title>Pakistan's Youth Digital Leap: How to Secure Laptops &amp; Skill Stipends</ns0:title>
+    </ns0:image>
+  </url>
+  <url>
+    <loc>https://pro-pakistan.github.io/#get-raast-p2p-asaan-digital-account-655</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <ns0:image>
+      <ns0:loc>https://pro-pakistan.github.io/assets/posts/get-raast-p2p-asaan-digital-account-655_cover.jpg</ns0:loc>
+      <ns0:title>Get Raast P2P &amp; Asaan Digital Accounts: Your 48-Hour Agent-Free Guide</ns0:title>
+    </ns0:image>
+  </url>
+  <url>
+    <loc>https://pro-pakistan.github.io/#don-t-lose-lakhs-your-ultimate-used-413</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <ns0:image>
+      <ns0:loc>https://pro-pakistan.github.io/assets/posts/don-t-lose-lakhs-your-ultimate-used-413_cover.jpg</ns0:loc>
+      <ns0:title>Don't Lose Lakhs: Your Ultimate Used Car Inspection &amp; Resale Guide</ns0:title>
+    </ns0:image>
+  </url>
+  <url>
+    <loc>https://pro-pakistan.github.io/#pta-tax-relief-new-import-rules-395</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <ns0:image>
+      <ns0:loc>https://pro-pakistan.github.io/assets/posts/pta-tax-relief-new-import-rules-395_cover.jpg</ns0:loc>
+      <ns0:title>PTA Tax Relief? New Import Rules!</ns0:title>
+    </ns0:image>
+  </url>
+  <url>
+    <loc>https://pro-pakistan.github.io/#starlink-coming-pta-registers-space-157</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <ns0:image>
+      <ns0:loc>https://pro-pakistan.github.io/assets/posts/starlink-coming-pta-registers-space-157_cover.jpg</ns0:loc>
+      <ns0:title>Starlink Coming? PTA Registers SpaceX!</ns0:title>
+    </ns0:image>
+  </url>
+  <url>
+    <loc>https://pro-pakistan.github.io/#solar-panel-prices-hit-record-low-845</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <ns0:image>
+      <ns0:loc>https://pro-pakistan.github.io/assets/posts/solar-panel-prices-hit-record-low-845_cover.jpg</ns0:loc>
+      <ns0:title>Solar Panel Prices Hit Record Low</ns0:title>
+    </ns0:image>
+  </url>
+  <url>
+    <loc>https://pro-pakistan.github.io/#pakistan-s-ev-dream-just-got-cheape-465</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <ns0:image>
+      <ns0:loc>https://pro-pakistan.github.io/assets/posts/pakistan-s-ev-dream-just-got-cheape-465_cover.jpg</ns0:loc>
+      <ns0:title>Pakistan's EV Dream Just Got Cheaper!</ns0:title>
+    </ns0:image>
+  </url>
+  <url>
+    <loc>https://pro-pakistan.github.io/#mobile-tax-hikes-588</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <ns0:image>
+      <ns0:loc>https://pro-pakistan.github.io/assets/posts/mobile-tax-hikes-588_cover.jpg</ns0:loc>
+      <ns0:title>Mobile Tax Hikes!</ns0:title>
+    </ns0:image>
+  </url>
+  <url>
+    <loc>https://pro-pakistan.github.io/#pakistan-5g-spectrum-auction-dossier</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <ns0:image>
+      <ns0:loc>https://pro-pakistan.github.io/assets/posts/pakistan-5g-spectrum-auction-dossier_cover.jpg</ns0:loc>
+      <ns0:title>Pakistan’s 5G Spectrum Auction: PTA Finalizes 3.5 GHz Bands for Commercial Rollout</ns0:title>
+    </ns0:image>
+  </url>
+  <url>
+    <loc>https://pro-pakistan.github.io/#it-exports-milestone-record-high</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <ns0:image>
+      <ns0:loc>https://pro-pakistan.github.io/assets/posts/it-exports-milestone-record-high_cover.jpg</ns0:loc>
+      <ns0:title>Pakistan IT Exports Surge Past $3.8 Billion: Software Parks &amp; Global Enterprise Contracts</ns0:title>
+    </ns0:image>
+  </url>
+  <url>
+    <loc>https://pro-pakistan.github.io/#generative-ai-startup-funding-boom</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <ns0:image>
+      <ns0:loc>https://pro-pakistan.github.io/assets/posts/generative-ai-startup-funding-boom_cover.jpg</ns0:loc>
+      <ns0:title>The Rise of Pakistani AI Labs: Deep-Tech Startups Secure Institutional Seed Capital</ns0:title>
+    </ns0:image>
+  </url>
+  <url>
+    <loc>https://pro-pakistan.github.io/#raast-instant-payments-revolution</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <ns0:image>
+      <ns0:loc>https://pro-pakistan.github.io/assets/posts/raast-instant-payments-revolution_cover.jpg</ns0:loc>
+      <ns0:title>Raast P2M Revolution: How Micro-Merchant QR Codes Are Demonetizing Cash in Pakistan</ns0:title>
+    </ns0:image>
+  </url>
+  <url>
+    <loc>https://pro-pakistan.github.io/#semiconductor-chip-design-initiative</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <ns0:image>
+      <ns0:loc>https://pro-pakistan.github.io/assets/posts/semiconductor-chip-design-initiative_cover.jpg</ns0:loc>
+      <ns0:title>RISC-V Architecture: Pakistan’s Push to Become an Open-Source Chip Design Powerhouse</ns0:title>
+    </ns0:image>
+  </url>
+  <url>
+    <loc>https://pro-pakistan.github.io/#ev-manufacturing-battery-ecosystem</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <ns0:image>
+      <ns0:loc>https://pro-pakistan.github.io/assets/posts/ev-manufacturing-battery-ecosystem_cover.jpg</ns0:loc>
+      <ns0:title>Electric Two-Wheelers Take Flight: Local Battery Assembly Cuts Fuel Import Bill</ns0:title>
+    </ns0:image>
+  </url>
+  <url>
+    <loc>https://pro-pakistan.github.io/#phone-prices-soar-budget-shockwave--889</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <ns0:image>
+      <ns0:loc>https://pro-pakistan.github.io/assets/posts/phone-prices-soar-budget-shockwave--889_cover.jpg</ns0:loc>
+      <ns0:title>PHONE PRICES SOAR: BUDGET SHOCKWAVE HITS!</ns0:title>
+    </ns0:image>
   </url>
 </urlset>

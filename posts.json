@@ -1,5 +1,340 @@
 [
   {
+    "id": "national-semiconductor-lab-riscv-silicon-tapeout",
+    "category": "Hardware & Chips",
+    "badge": "DEEP TECH 🔬",
+    "title": "Pakistan's National Semiconductor Lab: First Indigenous 28nm RISC-V Silicon Taped Out",
+    "subdeck": "Islamabad chip design cluster completes post-silicon validation for low-power edge compute, cutting reliance on foreign microarchitecture licenses.",
+    "stat_number": "28nm FAB",
+    "stat_label": "INDIGENOUS SILICON PROCESS",
+    "author": "Dr. Arsalan Baig",
+    "author_role": "Semiconductor & Hardware Lead",
+    "author_avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=120&h=120&fit=crop",
+    "date": "07 Oct 2026",
+    "read_time": "5 min read",
+    "featured": true,
+    "body": [
+      "Pakistan's nascent semiconductor ecosystem achieved an unprecedented technological milestone today as the National Semiconductor Initiative (NSI) confirmed successful tape-out and post-silicon validation of its flagship 28-nanometer open-source RISC-V microcontroller. Developed through a collaborative engineering partnership between GIKI, NUST, and the Special Technology Zones Authority (STZA), the silicon design—dubbed 'Indus-V'—is engineered specifically for industrial Internet of Things (IoT), smart grid telematics, and automotive sensors.",
+      "By leveraging the royalty-free RISC-V instruction set architecture (ISA), Pakistani chip architects bypassed multi-million-dollar proprietary licensing fees traditionally mandated by Arm and x86 silicon vendors. The microarchitecture incorporates a five-stage pipelined 64-bit core running at 450 MHz, integrated hardware cryptographic accelerators (AES-256 and SHA-3), and an ultra-low-power sleep state consuming under 12 milliwatts. Test silicon manufactured via TSMC's 28nm High-Performance Compact (HPC+) process demonstrated 99.4% logic yield across multiple wafer test lots.",
+      "Crucially, the commercial roadmap outlines immediate deployment across local electronic manufacturing units. Domestic electric bike assembly lines, smart digital electricity meters, and cellular telemetry terminals are slated to integrate Indus-V chips over the coming twelve months. With over 600 domestic electronics students trained in VLSI physical design and layout automation through this national initiative, Pakistan is decisively laying the foundation for a billion-dollar silicon design and verification export corridor."
+    ],
+    "sections": [
+      {
+        "heading": "Breaking the Proprietary IP Barrier with RISC-V Architecture",
+        "title": "Breaking the Proprietary IP Barrier with RISC-V Architecture",
+        "content": "By leveraging the royalty-free RISC-V instruction set architecture (ISA), Pakistani chip architects bypassed multi-million-dollar proprietary licensing fees traditionally mandated by Arm and x86 silicon vendors. The microarchitecture incorporates a five-stage pipelined 64-bit core running at 450 MHz, integrated hardware cryptographic accelerators, and an ultra-low-power sleep state consuming under 12 milliwatts.",
+        "paragraphs": [
+          "By leveraging the royalty-free RISC-V instruction set architecture (ISA), Pakistani chip architects bypassed multi-million-dollar proprietary licensing fees traditionally mandated by Arm and x86 silicon vendors.",
+          "The microarchitecture incorporates a five-stage pipelined 64-bit core running at 450 MHz, integrated hardware cryptographic accelerators, and an ultra-low-power sleep state consuming under 12 milliwatts."
+        ]
+      },
+      {
+        "heading": "Fabrication Benchmarks and Post-Silicon Validation Yield",
+        "title": "Fabrication Benchmarks and Post-Silicon Validation Yield",
+        "content": "Test silicon manufactured via TSMC's 28nm HPC+ process demonstrated 99.4% logic yield across multiple wafer test lots. Clock jitter, dynamic thermal dissipation, and leakage currents all met strict automotive AEC-Q100 Grade 2 compliance standards during chamber stress testing.",
+        "paragraphs": [
+          "Test silicon manufactured via TSMC's 28nm HPC+ process demonstrated 99.4% logic yield across multiple wafer test lots.",
+          "Clock jitter, dynamic thermal dissipation, and leakage currents all met strict automotive AEC-Q100 Grade 2 compliance standards during chamber stress testing."
+        ]
+      },
+      {
+        "heading": "Commercial Adoption Across Smart Grids & Domestic EV Electronics",
+        "title": "Commercial Adoption Across Smart Grids & Domestic EV Electronics",
+        "content": "Domestic electric bike assembly lines, smart digital electricity meters, and cellular telemetry terminals are slated to integrate Indus-V chips over the coming twelve months. With over 600 domestic electronics students trained in VLSI physical design, Pakistan is laying the foundation for a sustainable chip design export sector.",
+        "paragraphs": [
+          "Domestic electric bike assembly lines, smart digital electricity meters, and cellular telemetry terminals are slated to integrate Indus-V chips over the coming twelve months.",
+          "With over 600 domestic electronics students trained in VLSI physical design, Pakistan is laying the foundation for a sustainable chip design export sector."
+        ]
+      }
+    ],
+    "takeaways": [
+      "Pakistan tapes out its first indigenous 28nm 64-bit RISC-V processor ('Indus-V') with 99.4% post-silicon yield.",
+      "Eliminates proprietary IP licensing overheads for local smart meter and EV manufacturers.",
+      "Creates a localized pipeline of VLSI semiconductor design talent across top engineering universities."
+    ],
+    "faqs": [
+      {
+        "question": "Where was the 28nm Indus-V chip fabricated?",
+        "answer": "Design and physical layout were fully engineered in Pakistan at NUST and GIKI labs, with physical wafer fabrication executed at TSMC's 28nm foundries under commercial Multi-Project Wafer (MPW) runs."
+      },
+      {
+        "question": "What devices will use the new Pakistani RISC-V chip?",
+        "answer": "Primary launch targets include domestic smart electricity meters, automotive telemetry units for electric motorbikes, and localized industrial IoT sensors."
+      }
+    ],
+    "social_format": "card",
+    "lang": "en",
+    "image": "assets/posts/national-semiconductor-lab-riscv-silicon-tapeout_cover.jpg"
+  },
+  {
+    "id": "sbp-digital-retail-bank-charters-launch",
+    "category": "Fintech & Banking",
+    "badge": "FINTECH REVOLUTION 💳",
+    "title": "SBP Issues First 5 Digital Retail Bank Charters: The End of Legacy Branch Banking",
+    "subdeck": "State Bank of Pakistan greenlights full commercial operations for digital-only neo-banks, launching branchless credit underwriting and instant merchant settlement.",
+    "stat_number": "5 CHARTERS",
+    "stat_label": "DIGITAL BANK LICENSES",
+    "author": "Fatima Noor",
+    "author_role": "Fintech & Regulatory Analyst",
+    "author_avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=120&h=120&fit=crop",
+    "date": "07 Oct 2026",
+    "read_time": "4 min read",
+    "featured": false,
+    "body": [
+      "The State Bank of Pakistan (SBP) has officially granted commencement of business certificates to five licensed Digital Retail Banks (DRBs), ushering in an era of true paperless and branchless banking. The newly authorized digital banks—comprising HugoBank, Easypaisa Digital Bank, KT Bank Pakistan, Raqami Islamic Digital Bank, and Mashreq Pakistan—are now authorized to onboard retail and SME customers with zero physical bank branches.",
+      "Unlike traditional branch banking with onerous paper paperwork and physical verification hurdles, these digital neo-banks leverage biometric NADRA Verisys API integrations and AI-driven alternative credit scoring. Using utility bill payments, telco CDR records, and Raast transaction velocity, the digital banks can disburse micro-loans and SME working capital credits within 60 seconds directly into mobile wallets.",
+      "The commercial rollout directly targets Pakistan's 100-million unbanked and underbanked population, especially women entrepreneurs and rural merchants. With interoperable Raast P2M QR codes deployed across corner stores without point-of-sale terminal rental fees, transaction costs for micro-retailers are poised to drop to near zero, accelerating the migration away from cash-in-hand commerce."
+    ],
+    "sections": [
+      {
+        "heading": "Branchless Onboarding and 60-Second Credit Underwriting",
+        "title": "Branchless Onboarding and 60-Second Credit Underwriting",
+        "content": "These digital neo-banks leverage biometric NADRA integrations and AI-driven alternative credit scoring. Using utility bill payments, telco records, and Raast transaction velocity, the digital banks disburse micro-loans and SME working capital credits within 60 seconds.",
+        "paragraphs": [
+          "These digital neo-banks leverage biometric NADRA integrations and AI-driven alternative credit scoring.",
+          "Using utility bill payments, telco records, and Raast transaction velocity, the digital banks disburse micro-loans and SME working capital credits within 60 seconds."
+        ]
+      },
+      {
+        "heading": "Raast P2M Interoperability & Zero Merchant Discount Rates",
+        "title": "Raast P2M Interoperability & Zero Merchant Discount Rates",
+        "content": "By adopting national Raast P2M QR rails, digital retail banks bypass high Visa/Mastercard interchange fees. Mom-and-pop grocery stores can now accept instant digital customer payments with 0% MDR, receiving funds instantly in their accounts.",
+        "paragraphs": [
+          "By adopting national Raast P2M QR rails, digital retail banks bypass high Visa/Mastercard interchange fees.",
+          "Mom-and-pop grocery stores can now accept instant digital customer payments with 0% MDR, receiving funds instantly in their accounts."
+        ]
+      },
+      {
+        "heading": "SME Capital Access for Women and Freelance Creators",
+        "title": "SME Capital Access for Women and Freelance Creators",
+        "content": "Digital bank charters mandate dedicated credit quotas for women-led micro-enterprises and freelance IT exporters, ensuring digital foreign exchange retention accounts and collateral-free overdraft facilities.",
+        "paragraphs": [
+          "Digital bank charters mandate dedicated credit quotas for women-led micro-enterprises and freelance IT exporters.",
+          "This ensures automated digital foreign exchange retention accounts and collateral-free overdraft facilities for digital service providers."
+        ]
+      }
+    ],
+    "takeaways": [
+      "5 digital-only banks receive full regulatory approval to operate without physical branches in Pakistan.",
+      "Automated NADRA facial biometric verification enables account creation in under 3 minutes.",
+      "Zero-fee Raast P2M integration democratizes digital payments for over 3 million micro-merchants."
+    ],
+    "faqs": [
+      {
+        "question": "Can I deposit and withdraw physical cash with a digital bank?",
+        "answer": "Yes, digital retail banks operate through extensive agent networks (such as 1-Link ATMs, Easypaisa, and JazzCash merchant touchpoints) for cash-in and cash-out operations."
+      },
+      {
+        "question": "Are deposits in digital banks insured by the State Bank?",
+        "answer": "Yes, digital bank deposits are legally protected under the Deposit Protection Corporation (DPC) framework up to PKR 500,000 per depositor, identical to conventional commercial banks."
+      }
+    ],
+    "social_format": "card",
+    "lang": "en",
+    "image": "assets/posts/sbp-digital-retail-bank-charters-launch_cover.jpg"
+  },
+  {
+    "id": "pakistan-first-sovereign-gpu-cloud-islamabad",
+    "category": "AI & Startups",
+    "badge": "AI INFRASTRUCTURE ⚡",
+    "title": "Islamabad Tech Zone: Pakistan's First Sovereign GPU Cloud & AI Data Center Cluster",
+    "subdeck": "Special Technology Zones Authority inaugurates Tier-IV green data center equipped with 2,048 enterprise AI accelerators to power local LLMs and computer vision labs.",
+    "stat_number": "2,048 GPUs",
+    "stat_label": "ENTERPRISE AI ACCELERATORS",
+    "author": "Hamid Raza",
+    "author_role": "Chief Technology Editor",
+    "author_avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=120&h=120&fit=crop",
+    "date": "07 Oct 2026",
+    "read_time": "5 min read",
+    "featured": false,
+    "body": [
+      "In a major boost to Pakistan's sovereign artificial intelligence ambitions, the Special Technology Zones Authority (STZA) alongside private venture consortiums has commissioned the country's first dedicated high-density Sovereign GPU Cloud facility at the Islamabad Technopolis. The cluster houses 2,048 high-performance tensor computing accelerators interconnected via ultra-low-latency 800 Gbps InfiniBand optical switches.",
+      "Historically, Pakistani artificial intelligence researchers, deep-tech startups, and fintech firms were forced to route training runs and inference workloads through offshore cloud providers in Europe and North America, incurring substantial foreign exchange outflows and 180ms+ round-trip network latencies. The local Tier-IV data center slashes internal ping times to under 6 milliseconds while offering subsidized compute credits for local universities.",
+      "The cluster's immediate computing allocation is dedicated to training foundational Urdu and regional language Large Language Models (LLMs), automated agricultural crop yield satellite analytics, and medical image segmentation algorithms. Powered primarily by wheeling clean hydroelectricity and rooftop solar arrays, the facility sets a regional benchmark for energy-efficient computing."
+    ],
+    "sections": [
+      {
+        "heading": "Overcoming Foreign Cloud Latency and Dollar Outflows",
+        "title": "Overcoming Foreign Cloud Latency and Dollar Outflows",
+        "content": "By hosting sovereign compute infrastructure within Islamabad, Pakistani AI enterprises no longer burn scarce foreign exchange reserves on offshore cloud billing. Domestic data residency compliance is also fully guaranteed for sensitive medical and financial datasets.",
+        "paragraphs": [
+          "By hosting sovereign compute infrastructure within Islamabad, Pakistani AI enterprises no longer burn scarce foreign exchange reserves on offshore cloud billing.",
+          "Domestic data residency compliance is also fully guaranteed for sensitive medical and financial datasets."
+        ]
+      },
+      {
+        "heading": "Training Indigenous Urdu & Regional Language Foundational Models",
+        "title": "Training Indigenous Urdu & Regional Language Foundational Models",
+        "content": "A consortium of local NLP researchers has already begun training a 14-billion parameter bilingual model ('UrduLM') optimized for Pakistani legal, financial, and educational text, outperforming generic English-centric models in regional nuance.",
+        "paragraphs": [
+          "A consortium of local NLP researchers has already begun training a 14-billion parameter bilingual model ('UrduLM').",
+          "The model is optimized for Pakistani legal, financial, and educational text, outperforming generic English-centric models in regional nuance."
+        ]
+      },
+      {
+        "heading": "Green Energy Integration and Tier-IV Reliability Standards",
+        "title": "Green Energy Integration and Tier-IV Reliability Standards",
+        "content": "The facility achieves a Power Usage Effectiveness (PUE) of 1.18 using direct-to-chip liquid cooling loops and power purchase agreements directly tied to Khyber Pakhtunkhwa run-of-the-river hydro generation.",
+        "paragraphs": [
+          "The facility achieves a Power Usage Effectiveness (PUE) of 1.18 using direct-to-chip liquid cooling loops.",
+          "Clean energy wheeling from northern run-of-the-river hydro generation guarantees carbon-neutral operation."
+        ]
+      }
+    ],
+    "takeaways": [
+      "2,048 enterprise GPUs deployed at Islamabad Technopolis Tier-IV green data center.",
+      "Sub-6ms network latency within Pakistan eliminates reliance on expensive European cloud instances.",
+      "Accelerates development of indigenous Urdu LLMs, agricultural AI, and biomedical diagnostics."
+    ],
+    "faqs": [
+      {
+        "question": "Can Pakistani university students access the sovereign GPU cloud?",
+        "answer": "Yes, the Higher Education Commission (HEC) and Ignite have established a National AI Compute Voucher program offering free GPU hours to accredited university research labs."
+      },
+      {
+        "question": "What is the network bandwidth connecting the facility?",
+        "answer": "The cluster is fed by multiple redundant terabit dark fiber backbones connecting directly to the national IXP and submarine cable landing stations in Karachi."
+      }
+    ],
+    "social_format": "card",
+    "lang": "en",
+    "image": "assets/posts/pakistan-first-sovereign-gpu-cloud-islamabad_cover.jpg"
+  },
+  {
+    "id": "pta-5g-c-band-spectrum-auction-blueprint",
+    "category": "5G & Telecom",
+    "badge": "5G DEPLOYMENT 📶",
+    "title": "PTA 5G C-Band Auction Blueprint: 300 MHz Spectrum Rollout Across Major Metros",
+    "subdeck": "Pakistan Telecommunication Authority finalizes base pricing, fiber-to-the-tower obligations, and 3.5 GHz mid-band allocations for nationwide gigabit mobile data.",
+    "stat_number": "300 MHz",
+    "stat_label": "AUCTIONED SPECTRUM POOL",
+    "author": "Zeeshan Ahmed",
+    "author_role": "Telecom & Infrastructure Bureau Chief",
+    "author_avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=120&h=120&fit=crop",
+    "date": "07 Oct 2026",
+    "read_time": "4 min read",
+    "featured": false,
+    "body": [
+      "The Pakistan Telecommunication Authority (PTA) has released the final information memorandum for the upcoming 5G commercial spectrum auction, earmarking 300 MHz of prime mid-band spectrum across 3.5 GHz (C-Band) and 2.6 GHz alongside millimetric wave frequencies. The framework establishes a strategic 10-year installment payment plan denominated in PKR to shield telecom operators from currency volatility.",
+      "Under the mandatory rollout obligations, participating cellular mobile operators (CMOs) must activate commercial 5G coverage across Karachi, Lahore, Islamabad, Rawalpindi, and Peshawar within six months of spectrum award, expanding to all provincial divisional headquarters within 24 months. Furthermore, operators must guarantee minimum downlink speeds of 100 Mbps at cell boundaries.",
+      "To resolve the chronic fiberization bottleneck where fewer than 15% of mobile cell sites were previously connected to optical fiber backhauls, the government has waived right-of-way (RoW) fees along national highways and inter-city railway corridors. This fiber-to-the-tower mandate is poised to unlock mobile gigabit broadband for over 45 million smartphones nationwide."
+    ],
+    "sections": [
+      {
+        "heading": "C-Band 3.5 GHz Allocation and Currency De-Risking Structure",
+        "title": "C-Band 3.5 GHz Allocation and Currency De-Risking Structure",
+        "content": "To prevent telecom operators from overextending balance sheets during foreign exchange fluctuations, spectrum payments are indexed with local rupee installments rather than upfront USD lump sums, ensuring financial sustainability for network capex.",
+        "paragraphs": [
+          "To prevent telecom operators from overextending balance sheets during foreign exchange fluctuations, spectrum payments are indexed with local rupee installments.",
+          "This policy ensures financial sustainability for aggressive network capex in dense cell site deployments."
+        ]
+      },
+      {
+        "heading": "Aggressive Metro Rollout Milestones and Quality-of-Service Mandates",
+        "title": "Aggressive Metro Rollout Milestones and Quality-of-Service Mandates",
+        "content": "Operators must achieve 100 Mbps minimum median throughput at cell edges and 99.9% uptime. Industrial special economic zones and university campuses receive priority coverage mandates.",
+        "paragraphs": [
+          "Operators must achieve 100 Mbps minimum median throughput at cell edges and 99.9% uptime.",
+          "Industrial special economic zones and university campuses receive priority coverage mandates during phase one."
+        ]
+      },
+      {
+        "heading": "Right-of-Way Reforms & National Fiberization Surge",
+        "title": "Right-of-Way Reforms & National Fiberization Surge",
+        "content": "By standardizing right-of-way approvals across municipal bodies, telecom infrastructure providers are accelerating optical fiber laying, increasing fiberized cell towers from 15% to an estimated 42% by late 2027.",
+        "paragraphs": [
+          "By standardizing right-of-way approvals across municipal bodies, telecom infrastructure providers are accelerating optical fiber laying.",
+          "Fiberized mobile towers will surge from under 15% to an estimated 42% by late 2027."
+        ]
+      }
+    ],
+    "takeaways": [
+      "300 MHz of high-capacity 5G spectrum slated for auction with domestic currency installment protections.",
+      "Initial commercial launch covers Karachi, Lahore, Islamabad, and provincial capitals within 180 days.",
+      "Zero-fee Right-of-Way reforms accelerate fiber-to-the-tower backhaul connectivity across Pakistan."
+    ],
+    "faqs": [
+      {
+        "question": "Will consumers need new SIM cards for 5G in Pakistan?",
+        "answer": "No, existing 4G LTE USIM cards will automatically connect to 5G Standalone and Non-Standalone networks once 5G-compatible devices enter coverage areas."
+      },
+      {
+        "question": "What speeds can Pakistani mobile users expect on 5G?",
+        "answer": "Real-world commercial tests on 3.5 GHz C-Band deliver typical download speeds ranging from 450 Mbps to 1.1 Gbps, with latency under 12 milliseconds."
+      }
+    ],
+    "social_format": "card",
+    "lang": "en",
+    "image": "assets/posts/pta-5g-c-band-spectrum-auction-blueprint_cover.jpg"
+  },
+  {
+    "id": "solar-net-metering-overhaul-battery-storage",
+    "category": "Clean Tech & Mobility",
+    "badge": "ENERGY REFORM ☀️",
+    "title": "Solar Net-Metering Overhaul: SBP Gross-Metering Framework & Battery Storage Incentives",
+    "subdeck": "Ministry of Energy details updated export buyback tariffs alongside 0% customs duty on commercial lithium energy storage systems to stabilize the national grid.",
+    "stat_number": "3.2 GW",
+    "stat_label": "ROOFTOP SOLAR INSTALLED CAPACITY",
+    "author": "Fatima Noor",
+    "author_role": "Senior Markets & Energy Editor",
+    "author_avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=120&h=120&fit=crop",
+    "date": "07 Oct 2026",
+    "read_time": "4 min read",
+    "featured": false,
+    "body": [
+      "Pakistan's private rooftop solar generation has surged past 3,200 megawatts, creating both immense household power relief and unprecedented daytime voltage fluctuations on the national distribution grid. In response, the Ministry of Energy and NEPRA have rolled out a revamped Net-Billing framework designed to incentivize residential and commercial Battery Energy Storage Systems (BESS).",
+      "Under the updated regulatory structure, existing residential net-metering connections remain grandfathered under their original bilateral terms, dispelling rumors of retroactive penal tariffs. However, new commercial installations exceeding 15 kW are provided lucrative peak-hour feed-in tariffs if equipped with certified lithium iron phosphate (LFP) storage, enabling them to discharge saved solar power into the evening peak demand window (6:00 PM to 10:00 PM).",
+      "Complementing this grid stabilization drive, the Federal Board of Revenue has announced zero customs duties and sales tax exemptions on imported industrial grade battery packs and hybrid bi-directional inverters. This incentive has already prompted major textile mills and commercial logistics centers in Faisalabad and Karachi to deploy multi-megawatt battery farms, cutting reliance on high-cost imported LNG peaker plants."
+    ],
+    "sections": [
+      {
+        "heading": "Grandfathering Clause for Existing Residential Net-Meter Customers",
+        "title": "Grandfathering Clause for Existing Residential Net-Meter Customers",
+        "content": "NEPRA confirmed that residential consumers who obtained net-metering three-phase bi-directional meters prior to the new regulation retain their 1:1 units offset rights, safeguarding investments made by ordinary middle-class homeowners.",
+        "paragraphs": [
+          "NEPRA confirmed that residential consumers who obtained net-metering three-phase bi-directional meters retain their 1:1 units offset rights.",
+          "This protects investments made by middle-class homeowners during recent hyper-inflationary utility tariff spikes."
+        ]
+      },
+      {
+        "heading": "Time-of-Use Export Premiums for Evening Battery Discharge",
+        "title": "Time-of-Use Export Premiums for Evening Battery Discharge",
+        "content": "Commercial solar installations that feed stored power into the national grid during high-demand night hours receive an enhanced premium rate of PKR 28 per unit, transforming solar farms into dispatchable baseload assets.",
+        "paragraphs": [
+          "Commercial solar installations feeding stored power during high-demand night hours receive an enhanced premium rate of PKR 28 per unit.",
+          "This shifts daytime excess generation into dispatchable power when national factories need it most."
+        ]
+      },
+      {
+        "heading": "Zero Duty on Lithium Iron Phosphate (LFP) Energy Cells",
+        "title": "Zero Duty on Lithium Iron Phosphate (LFP) Energy Cells",
+        "content": "Customs exemptions for LFP battery packs have driven localized retail battery pack prices down by 26%, making 10 kWh home battery backups economically viable with sub-3-year payback periods.",
+        "paragraphs": [
+          "Customs exemptions for LFP battery packs have driven localized retail battery pack prices down by 26%.",
+          "A 10 kWh home battery backup now achieves economic viability with a sub-3-year payback timeline."
+        ]
+      }
+    ],
+    "takeaways": [
+      "Pakistan's rooftop solar capacity crosses 3.2 GW, surpassing multiple major fossil thermal plants combined.",
+      "Existing residential net-metering agreements remain fully protected under grandfathering terms.",
+      "0% customs duty on LFP battery systems accelerates shift toward decentralized clean storage."
+    ],
+    "faqs": [
+      {
+        "question": "Will my existing home net-metering connection be canceled or reduced?",
+        "answer": "No. Official NEPRA directives confirm existing residential net-metering licenses will remain honored for the complete duration of their 3-year renewable contracts."
+      },
+      {
+        "question": "What is the lifespan of modern LFP batteries being installed in Pakistan?",
+        "answer": "Modern Lithium Iron Phosphate (LiFePO4) battery packs boast 6,000+ deep discharge cycles, translating to 12 to 15 years of daily operational service with minimal capacity degradation."
+      }
+    ],
+    "social_format": "card",
+    "lang": "en",
+    "image": "assets/posts/solar-net-metering-overhaul-battery-storage_cover.jpg"
+  },
+  {
     "id": "pakistan-s-youth-digital-leap-how-t-135",
     "category": "Education & Careers",
     "badge": "SCHOLARSHIP ALERT 🎓",
@@ -13,7 +348,7 @@
     "author_avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=120&h=120&fit=crop",
     "date": "04 Oct 2026",
     "read_time": "4 min read",
-    "featured": true,
+    "featured": false,
     "body": [
       "Pakistan stands at a critical juncture, facing both the challenge and immense potential of its burgeoning youth population. A significant digital divide persists, limiting access to essential tools and skills vital for success in the 21st-century global economy. Recognizing this, the federal government has recently intensified its efforts, launching and expanding comprehensive youth empowerment initiatives aimed at bridging this gap. These programs are not merely about providing hardware; they are strategic investments in human capital, designed to cultivate a digitally literate and skilled workforce capable of contributing significantly to Pakistan's economic future.\nThe overarching objective is to ensure that no talented young individual is left behind due to a lack of resources. Through structured schemes, the government aims to distribute high-quality laptops to deserving students and provide substantial stipends for training in cutting-edge digital skills. This dual approach tackles both accessibility to technology and the development of proficiency in high-demand fields such as AI, freelancing, coding, and digital marketing. Official directives emphasize transparency, merit, and widespread outreach to ensure these transformative opportunities reach those who need them most across all provinces.",
       "The laptop distribution scheme targets high-achieving students enrolled in public sector universities and colleges. Eligibility criteria typically include academic merit, enrollment in specific degree programs, and sometimes, socio-economic factors. The application process is streamlined through a dedicated online portal, usually managed by the Higher Education Commission (HEC) or provincial education departments. Applicants are required to submit their academic records, valid CNIC, and proof of enrollment. The selection process is merit-based, with quotas often reserved for students from less developed regions or specific fields of study. Notifications regarding application deadlines and selection results are communicated via official university channels and the program's website.\nComplementing the laptop initiative, the digital skill stipend programs offer financial assistance to youth pursuing training in various in-demand digital fields. These stipends, often up to PKR 30,000 per participant, are designed to cover course fees or provide living expenses during training periods. Programs typically focus on areas like web development, graphic design, cybersecurity, data science, and e-commerce. Aspiring participants must identify approved training institutes or online platforms, apply through a designated government portal (e.g., Prime Minister's Youth Program website), and pass an initial assessment. Successful candidates then enroll in chosen courses, with the stipend disbursed upon meeting attendance and performance benchmarks. Specific program details, including approved courses and application windows, are frequently updated on official government youth initiative websites.",
