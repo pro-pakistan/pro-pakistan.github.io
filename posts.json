@@ -1,5 +1,49 @@
 [
   {
+    "id": "pta-reports-88-overall-blocking-rate-in-socia-40c3",
+    "category": "5G & Telecom",
+    "badge": "BREAKING NEWS ⚡",
+    "title": "PTA Reports 88% Overall Blocking Rate in Social Media Content",
+    "subdeck": "<p>The Pakistan Telecommunication Authority (PTA) has reported that it sent 1,789,022 URLs to relevant social media platforms for action, out<span class=\"exp-do...",
+    "image": "assets/posts/pta-reports-88-overall-blocking-rate-in-socia-40c3_cover.jpg",
+    "stat_number": "BREAKING",
+    "stat_label": "OFFICIAL DISPATCH",
+    "author": "Editorial Desk",
+    "author_role": "Staff Correspondent",
+    "author_avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=120&h=120&fit=crop",
+    "date": "07 Oct 2026",
+    "read_time": "3 min read",
+    "featured": true,
+    "body": [
+      "PTA Reports 88% Overall Blocking Rate in Social Media Content. According to verified reports originating from ProPakistani Live, significant developments have surfaced impacting national sectors across Pakistan.",
+      "<p>The Pakistan Telecommunication Authority (PTA) has reported that it sent 1,789,022 URLs to relevant social media platforms for action, out<span class=\"exp-dots\">…</span> <a class=\"propakistani-read-more-link\" href=\"https://propakistani.pk/2026/10/07/pta-reports-88-overall-blocking-rate-in-social-media-content/\">Read More</a></p>\n<p>The post <a href=\"https://propakistani.pk/2026/10/07/pta-report",
+      "Industry analysts note that these policy and regulatory shifts will directly shape consumer costs, market accessibility, and digital infrastructure across the region over the coming months."
+    ],
+    "sections": [
+      {
+        "heading": "Breaking Context & Regulatory Details",
+        "content": "<p>The Pakistan Telecommunication Authority (PTA) has reported that it sent 1,789,022 URLs to relevant social media platforms for action, out<span class=\"exp-dots\">…</span> <a class=\"propakistani-read-more-link\" href=\"https://propakistani.pk/2026/10/07/pta-reports-88-overall-blocking-rate-in-social-media-content/\">Read More</a></p>\n<p>The post <a href=\"https://propakistani.pk/2026/10/07/pta-report"
+      },
+      {
+        "heading": "Practical Implications for Citizens & Consumers",
+        "content": "The decision reported by ProPakistani Live establishes critical benchmarks. Consumers and businesses are advised to review official channels to avoid unnecessary fees or service interruptions."
+      }
+    ],
+    "takeaways": [
+      "Verified breaking update reported by ProPakistani Live.",
+      "New regulatory or tournament parameters take effect immediately.",
+      "Review official government and authority portals for formal notifications."
+    ],
+    "faqs": [
+      {
+        "question": "What is the primary impact of this update from ProPakistani Live?",
+        "answer": "<p>The Pakistan Telecommunication Authority (PTA) has reported that it sent 1,789,022 URLs to relevant social media platforms for action, out<span class=\"exp-dots\">…</span> <a class=\"propakistani-read"
+      }
+    ],
+    "social_format": "card",
+    "lang": "en"
+  },
+  {
     "id": "national-semiconductor-lab-riscv-silicon-tapeout",
     "category": "Hardware & Chips",
     "badge": "DEEP TECH 🔬",
@@ -12,7 +56,7 @@
     "author_avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=120&h=120&fit=crop",
     "date": "07 Oct 2026",
     "read_time": "5 min read",
-    "featured": true,
+    "featured": false,
     "body": [
       "Pakistan's nascent semiconductor ecosystem achieved an unprecedented technological milestone today as the National Semiconductor Initiative (NSI) confirmed successful tape-out and post-silicon validation of its flagship 28-nanometer open-source RISC-V microcontroller. Developed through a collaborative engineering partnership between GIKI, NUST, and the Special Technology Zones Authority (STZA), the silicon design—dubbed 'Indus-V'—is engineered specifically for industrial Internet of Things (IoT), smart grid telematics, and automotive sensors.",
       "By leveraging the royalty-free RISC-V instruction set architecture (ISA), Pakistani chip architects bypassed multi-million-dollar proprietary licensing fees traditionally mandated by Arm and x86 silicon vendors. The microarchitecture incorporates a five-stage pipelined 64-bit core running at 450 MHz, integrated hardware cryptographic accelerators (AES-256 and SHA-3), and an ultra-low-power sleep state consuming under 12 milliwatts. Test silicon manufactured via TSMC's 28nm High-Performance Compact (HPC+) process demonstrated 99.4% logic yield across multiple wafer test lots.",
