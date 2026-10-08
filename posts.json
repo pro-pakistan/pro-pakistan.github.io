@@ -1,5 +1,57 @@
 [
   {
+    "id": "cda-to-spend-rs-300-million-on-pm-office-and--3fcf",
+    "category": "5G & Telecom",
+    "badge": "BREAKING WIRE ⚡",
+    "title": "Rs. 300 Million for PM Office: A Critical Lens on Pakistan's Spending Priorities",
+    "subdeck": "The Economic Coordination Committee (ECC) has approved a Rs. 300 million Technical Supplementary Grant for the CDA to improve the Prime Minister's Office and staff colony, sparking debate over national resource allocation.",
+    "image": "assets/posts/cda-to-spend-rs-300-million-on-pm-office-and--3fcf_cover.jpg",
+    "stat_number": "Rs. 300 MILLION",
+    "stat_label": "PUBLIC FUNDS ALLOCATED",
+    "author": "Zeeshan Ahmed",
+    "author_role": "Principal Telecom & Cloud Analyst",
+    "author_avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=120&h=120&fit=crop",
+    "date": "08 Oct 2026",
+    "read_time": "4 min read",
+    "featured": true,
+    "body": [
+      "The federal cabinet’s Economic Coordination Committee (ECC) has greenlit a significant Rs. 300 million Technical Supplementary Grant (TSG) for the Capital Development Authority (CDA). This substantial allocation is earmarked for critical repairs, maintenance, and improvements at the Prime Minister’s Office and the adjacent staff colony, underscoring ongoing efforts to ensure the operational efficacy of key governmental facilities.",
+      "From a telecom and cloud analyst perspective, while state infrastructure maintenance is essential, this allocation compels a broader discussion on national priorities. Rs. 300 million could significantly accelerate Pakistan's digital transformation agenda, bolstering last-mile fibre optic deployment, funding incubators for cloud-native startups, or investing in crucial skill development. These are investments yielding widespread economic dividends.",
+      "For the average citizen and the burgeoning tech sector, such spending decisions raise questions about opportunity cost. In an era where competitive global economies prioritize digital infrastructure, substantial funds allocated to administrative upgrades, however necessary, divert resources from potential high-impact technological investments. This impacts the pace at which Pakistan can achieve universal connectivity and foster an innovative ecosystem."
+    ],
+    "sections": [
+      {
+        "heading": "Context & Regulatory Details",
+        "content": "The Technical Supplementary Grant, approved by the ECC, specifically mandates the Capital Development Authority to undertake renovation and maintenance activities for the Prime Minister’s Office and staff residences. This includes structural repairs, facility upgrades, and general upkeep designed to ensure the operational readiness of these vital premises, falling under standard procedures for supplementary funding."
+      },
+      {
+        "heading": "Market Impact & Technical Breakdown",
+        "content": "The direct 'market impact' on telecom is indirect, yet the economic implication is profound. Rs. 300 million could fund hundreds of kilometers of fiber optic cable expansion, boosting broadband penetration. It could also support small-cell 5G infrastructure pilots or national cloud strategy. This allocation represents a significant opportunity cost, diverting resources from digital economy growth drivers to physical infrastructure upkeep, potentially slowing digital inclusion and modernization."
+      },
+      {
+        "heading": "What Happens Next / Action Plan",
+        "content": "The CDA will proceed with procurement and execution for the approved works. This decision will fuel public discourse on fiscal responsibility and strategic resource allocation. Stakeholders, particularly within the tech and telecom industries, will be keen to see future budgetary priorities reflect greater commitment to digital infrastructure, a key driver for sustainable economic development."
+      }
+    ],
+    "takeaways": [
+      "ECC approves Rs. 300M TSG for PM Office and staff colony upkeep.",
+      "Allocation highlights national spending priorities amidst pressing digital infrastructure needs.",
+      "Opportunity cost for telecom and digital transformation initiatives is significant."
+    ],
+    "faqs": [
+      {
+        "question": "What is a Technical Supplementary Grant (TSG)?",
+        "answer": "A TSG is an additional fund approved by the government's financial oversight bodies (like the ECC) to meet expenses that were not foreseen or adequately budgeted for in the original financial year's allocation."
+      },
+      {
+        "question": "How does this impact Pakistan's telecom sector?",
+        "answer": "While not directly impacting telecom operations, the allocation of Rs. 300 million to administrative facilities represents an opportunity cost. This sum could have significantly contributed to accelerating digital infrastructure development, 5G readiness, or expanding broadband access across the nation, which are crucial for the telecom sector's growth."
+      }
+    ],
+    "social_format": "card",
+    "lang": "en"
+  },
+  {
     "id": "ecc-clears-11-of-total-rs-18-billion-election-5f2c",
     "category": "5G & Telecom",
     "badge": "BREAKING WIRE ⚡",
@@ -13,7 +65,7 @@
     "author_avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=120&h=120&fit=crop",
     "date": "08 Oct 2026",
     "read_time": "4 min read",
-    "featured": true,
+    "featured": false,
     "body": [
       "The Economic Coordination Committee (ECC) has approved an immediate Rs. 2 billion for election-related expenses, marking a critical first step towards the upcoming polls. This 11% allocation from the total Rs. 18 billion estimated budget targets \"non-sensitive\" procurements, as reported by ProPakistani Live. This decision highlights the government's commitment to facilitating the democratic process amidst fiscal challenges.",
       "As a Principal Telecom & Cloud Analyst, I note that \"non-sensitive\" often includes vital IT hardware, networking equipment, and secure communication systems for logistics and data management. This initial funding could indirectly spur demand for digital services—from rural connectivity to cloud infrastructure for secure data compilation. Such fiscal activity signals broader government intent, potentially boosting confidence in the tech sector.",
