@@ -78,8 +78,8 @@ function renderHeroSection() {
       <h2 class="${leadTitleCls}" ${isLeadUrdu ? 'dir="rtl"' : ''}>${escapeHtml(leadPost.title)}</h2>
       <p class="${leadSubdeckCls}" ${isLeadUrdu ? 'dir="rtl"' : ''}>${escapeHtml(leadPost.subdeck)}</p>
       <div class="author-meta-row">
-        <img class="author-avatar" src="${leadPost.author_avatar || 'https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=80&h=80&fit=crop'}" alt="${escapeHtml(leadPost.author || 'Tech Desk')}" width="28" height="28" loading="lazy" decoding="async" />
-        <span class="author-name">${escapeHtml(leadPost.author || "Tech Desk")}</span>
+        <img class="author-avatar" src="${leadPost.author_avatar || 'https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=80&h=80&fit=crop'}" alt="${escapeHtml(leadPost.author || 'Hamid Raza')}" width="28" height="28" loading="lazy" decoding="async" />
+        <span class="author-name">${escapeHtml(leadPost.author || "Hamid Raza")}</span>
         <span class="meta-separator">•</span>
         <span class="meta-date">${escapeHtml(leadPost.date)}</span>
         <span class="meta-separator">•</span>
@@ -102,8 +102,8 @@ function renderHeroSection() {
         <h3 class="${titleCls}" ${isUrdu ? 'dir="rtl"' : ''}>${escapeHtml(post.title)}</h3>
         <p class="${subdeckCls}" ${isUrdu ? 'dir="rtl"' : ''}>${escapeHtml(post.subdeck)}</p>
         <div class="author-meta-row">
-          <img class="author-avatar" src="${post.author_avatar || 'https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=80&h=80&fit=crop'}" alt="${escapeHtml(post.author || 'Tech Desk')}" width="24" height="24" loading="lazy" decoding="async" />
-          <span class="author-name">${escapeHtml(post.author || "Tech Desk")}</span>
+          <img class="author-avatar" src="${post.author_avatar || 'https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=80&h=80&fit=crop'}" alt="${escapeHtml(post.author || 'Hamid Raza')}" width="24" height="24" loading="lazy" decoding="async" />
+          <span class="author-name">${escapeHtml(post.author || "Hamid Raza")}</span>
           <span class="meta-separator">•</span>
           <span class="meta-date">${escapeHtml(post.date)}</span>
         </div>
@@ -140,8 +140,8 @@ function renderGridSection() {
       <h3 class="${titleCls}" ${isUrdu ? 'dir="rtl"' : ''}>${escapeHtml(post.title)}</h3>
       <p class="${subdeckCls}" ${isUrdu ? 'dir="rtl"' : ''}>${escapeHtml(post.subdeck)}</p>
       <div class="author-meta-row">
-        <img class="author-avatar" src="${post.author_avatar || 'https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=80&h=80&fit=crop'}" alt="${escapeHtml(post.author || 'Tech Desk')}" width="24" height="24" loading="lazy" decoding="async" />
-        <span class="author-name">${escapeHtml(post.author || "Tech Desk")}</span>
+        <img class="author-avatar" src="${post.author_avatar || 'https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=80&h=80&fit=crop'}" alt="${escapeHtml(post.author || 'Hamid Raza')}" width="24" height="24" loading="lazy" decoding="async" />
+        <span class="author-name">${escapeHtml(post.author || "Hamid Raza")}</span>
         <span class="meta-separator">•</span>
         <span class="meta-date">${escapeHtml(post.date)}</span>
       </div>
@@ -246,10 +246,10 @@ window.openArticleModal = async function(id) {
 
   if (modalAuthorAvatar) {
     modalAuthorAvatar.src = post.author_avatar || "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=80&h=80&fit=crop";
-    modalAuthorAvatar.alt = post.author || "Tech Desk";
+    modalAuthorAvatar.alt = post.author || "Hamid Raza";
   }
-  if (modalAuthorName) modalAuthorName.textContent = post.author || "Tech Desk";
-  if (modalAuthorRole) modalAuthorRole.textContent = post.author_role || "Technology Analyst";
+  if (modalAuthorName) modalAuthorName.textContent = post.author || "Hamid Raza";
+  if (modalAuthorRole) modalAuthorRole.textContent = post.author_role || "Senior Tech & Telecom Editor";
 
   if (modalHeroImg) {
     modalHeroImg.src = post.image;
