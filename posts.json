@@ -1,5 +1,201 @@
 [
   {
+    "id": "sindh-high-court-establishes-judicial-precede-482f2896",
+    "title": "Sindh High Court Establishes Judicial Precedent on Software Patents and Domestic AI Model Copyright Protections",
+    "subdeck": "High court bench rules that proprietary artificial intelligence model weights and synthetic training corpora qualify for full statutory copyright protection under national law.",
+    "category": "Legal & Digital Rights",
+    "badge": "LEGAL PRECEDENT",
+    "stat_number": "SECTION 10",
+    "stat_label": "COPYRIGHT CLAUSE",
+    "image": "assets/posts/sindh-high-court-establishes-judicial-precede-482f2896_cover.jpg",
+    "cover_image": "assets/posts/sindh-high-court-establishes-judicial-precede-482f2896_cover.jpg",
+    "author": "Zeeshan Ahmed",
+    "author_role": "Principal Telecom & Cloud Analyst",
+    "author_avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=120&h=120&fit=crop",
+    "date": "10 Oct 2026",
+    "read_time": "4 min read",
+    "featured": false,
+    "body": [
+      "In a landmark judgment concerning technological intellectual property, a division bench of the Sindh High Court has ruled that proprietary artificial intelligence model architectures, fine-tuned weights, and curated training datasets are protected under the Copyright Ordinance.",
+      "The ruling addresses an intellectual property dispute between domestic enterprise software vendors, establishing that the extraction and unauthorized redistribution of proprietary model weights constitutes civil and criminal software piracy.",
+      "Corporate legal practitioners view the verdict as a crucial milestone for foreign venture capital confidence, providing international investors with clear statutory mechanisms to enforce digital licensing contracts within Pakistani jurisdiction."
+    ],
+    "sections": [
+      {
+        "heading": "Clarifying Legal Ownership of Machine Learning Artifacts",
+        "content": "The judicial decision distinguishes between raw unstructured public text and curated, human-annotated domain datasets. The court held that substantial intellectual labor involved in synthesizing, filtering, and aligning training datasets creates an original derivative work entitled to exclusive copyright."
+      },
+      {
+        "heading": "Strengthening Venture Capital Due Diligence Standards",
+        "content": "Domestic tech startups can now register their proprietary AI pipelines with the Intellectual Property Organization of Pakistan (IPO-Pakistan), unlocking asset-backed collateralization and robust trade-secret nondisclosure enforcement."
+      }
+    ],
+    "takeaways": [
+      "Sindh High Court confirms AI model weights and curated datasets enjoy full copyright protection.",
+      "Establishes legal remedies against unauthorized model extraction, scraping, and weight piracy.",
+      "Enhances regulatory certainty for domestic startups and international venture capital investments."
+    ],
+    "faqs": [
+      {
+        "question": "What did the Sindh High Court rule regarding AI model weights?",
+        "answer": "The court held that machine learning weights and curated training corpora constitute protected intellectual property under national copyright statutes."
+      },
+      {
+        "question": "How does this ruling impact AI startups in Pakistan?",
+        "answer": "It provides founders and investors with enforceable legal safeguards against corporate espionage, data theft, and unauthorized derivative model training."
+      }
+    ],
+    "social_format": "card",
+    "lang": "en"
+  },
+  {
+    "id": "national-electric-vehicle-policy-2.0-sbp-ease-3a93582c",
+    "title": "National Electric Vehicle Policy 2.0: SBP Eases Commercial Auto Financing for Local Two-Wheeler and Bus Assembly",
+    "subdeck": "Federal cabinet ratifies National EV Policy 2.0, providing concessionary debt lines for battery assembly plants and mandating DC fast chargers across major motorways.",
+    "category": "Clean Tech & Mobility",
+    "badge": "EV POLICY 2.0",
+    "stat_number": "120 KW DC",
+    "stat_label": "MOTORWAY CHARGING",
+    "image": "assets/posts/national-electric-vehicle-policy-2.0-sbp-ease-3a93582c_cover.jpg",
+    "cover_image": "assets/posts/national-electric-vehicle-policy-2.0-sbp-ease-3a93582c_cover.jpg",
+    "author": "Kamran Alvi",
+    "author_role": "Energy & Sustainable Infrastructure Specialist",
+    "author_avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=120&h=120&fit=crop",
+    "date": "10 Oct 2026",
+    "read_time": "5 min read",
+    "featured": false,
+    "body": [
+      "The Federal Cabinet has approved the comprehensive National Electric Vehicle Policy 2.0, introducing concessionary financing facilities through the State Bank to accelerate domestic assembly of electric motorcycles, three-wheelers, and commercial fleet buses.",
+      "Under the updated regulatory framework, customs duties on imported lithium-iron-phosphate (LFP) battery cells and electric drivetrain controllers are capped at 1 percent, creating aggressive cost parity between electric two-wheelers and legacy combustion engines.",
+      "Furthermore, the National Highway Authority (NHA) has mandated that all commercial service areas along the M-2, M-3, M-5, and M-9 motorways install minimum 120 kW dual-gun DC fast charging stations by mid-2027 to eliminate intercity range anxiety."
+    ],
+    "sections": [
+      {
+        "heading": "Two-Wheeler Electrification and Smog Abatement",
+        "content": "With over 28 million combustion motorcycles currently operating on domestic roads and contributing heavily to winter smog in the Punjab plains, the policy prioritizes consumer installment schemes. Commercial banks will offer zero-markup micro-financing for electric bikes assembled with localized chassis and battery packs."
+      },
+      {
+        "heading": "Grid Load Management and Off-Peak Tariff Incentives",
+        "content": "Power distribution companies (DISCOs) are introducing dedicated industrial charging tariffs with off-peak discounts, encouraging commercial fleet operators and logistics companies to recharge delivery fleets overnight without stressing daytime transmission grids."
+      }
+    ],
+    "takeaways": [
+      "Cabinet approves EV Policy 2.0 with 1% import duties on lithium battery cells.",
+      "SBP introduces concessionary debt financing for localized EV assembly lines.",
+      "NHA mandates 120 kW DC fast chargers at all motorway service stations."
+    ],
+    "faqs": [
+      {
+        "question": "What is the primary objective of National Electric Vehicle Policy 2.0?",
+        "answer": "To accelerate the localized assembly and mass adoption of electric motorcycles, rickshaws, and public transit buses, curtailing urban air pollution and crude oil import expenditures."
+      },
+      {
+        "question": "What charging infrastructure requirements are established for motorways?",
+        "answer": "All commercial rest stops along major motorways must deploy high-speed 120 kW dual-gun DC fast chargers with interoperable payment standards."
+      }
+    ],
+    "social_format": "card",
+    "lang": "en"
+  },
+  {
+    "id": "state-bank-expands-exporters-specialized-fore-a8511c65",
+    "title": "State Bank Expands Exporters' Specialized Foreign Currency Accounts to 50%: Driving Offshore Software Reinvestment",
+    "subdeck": "Central bank raises foreign exchange retention threshold from 35% to 50% for IT and ITeS exporters to accelerate global customer acquisition and cloud scale.",
+    "category": "Economy & Fintech",
+    "badge": "EXPORT POLICY",
+    "stat_number": "50% LIMIT",
+    "stat_label": "FX RETENTION CAP",
+    "image": "assets/posts/state-bank-expands-exporters-specialized-fore-a8511c65_cover.jpg",
+    "cover_image": "assets/posts/state-bank-expands-exporters-specialized-fore-a8511c65_cover.jpg",
+    "author": "Fatima Noor",
+    "author_role": "Fintech & Regulatory Analyst",
+    "author_avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=120&h=120&fit=crop",
+    "date": "10 Oct 2026",
+    "read_time": "4 min read",
+    "featured": false,
+    "body": [
+      "The State Bank of Pakistan (SBP) has issued an updated foreign exchange circular raising the retention limit for IT and IT-enabled services (ITeS) exporters from 35 percent to 50 percent in their Exporters' Specialized Foreign Currency Accounts (ESFCAs).",
+      "The revised policy enables software development firms, digital agencies, and freelance cooperatives to legally retain half of their foreign currency export remittances in US Dollars, Euros, and British Pounds for international reinvestment.",
+      "Industry bodies including PASHA had actively advocated for this deregulation, highlighting that seamless payment access for hyperscale cloud bills, offshore talent compensation, and international marketing campaigns is vital to sustaining annual export velocity past $3.8 billion."
+    ],
+    "sections": [
+      {
+        "heading": "Frictionless Cross-Border Operational Payments",
+        "content": "Prior to this regulatory liberalization, domestic tech exporters faced friction and mandatory documentation burdens when settling overseas vendor invoices. The 50% retention mechanism grants automatic corporate debit and credit card limits directly linked to foreign currency balances."
+      },
+      {
+        "heading": "Incentivizing Official Banking Inflow Channels",
+        "content": "Central bank economists anticipate that granting founders full liquidity autonomy over 50% of proceeds will incentivize startups to route offshore client billings through official Pakistani commercial bank accounts rather than keeping capital in overseas holding entities."
+      }
+    ],
+    "takeaways": [
+      "SBP increases foreign currency export retention from 35% to 50% for all IT and ITeS firms.",
+      "Permits direct payment of offshore cloud hosting, international advertising, and overseas salaries.",
+      "Designed to boost domestic foreign exchange reserves by formalizing tech export receipts."
+    ],
+    "faqs": [
+      {
+        "question": "How does the increased 50% retention limit benefit Pakistani software companies?",
+        "answer": "It allows companies to maintain half of their incoming export revenue in foreign currency to settle overseas cloud expenses, software tooling, and sales operations without currency conversion losses."
+      },
+      {
+        "question": "Who is eligible to open an Exporters Specialized Foreign Currency Account (ESFCA)?",
+        "answer": "Any registered software house, IT consultancy, digital marketing agency, or verified individual exporter registered with the Pakistan Software Export Board (PSEB)."
+      }
+    ],
+    "social_format": "card",
+    "lang": "en"
+  },
+  {
+    "id": "special-technology-zones-authority-approves-1-f22633b4",
+    "title": "Special Technology Zones Authority Approves 14 Regional Tech Parks Across Tier-2 Hubs: Faisalabad, Multan, and Peshawar Greenlit",
+    "subdeck": "Federal authority expands zero-tax special technology zones to regional industrial centers, creating 40,000 engineering seats and export-ready fiber backbones.",
+    "category": "Tech Policy & Infrastructure",
+    "badge": "STZA EXPANSION",
+    "stat_number": "14 ZONES",
+    "stat_label": "NEW TECH PARKS",
+    "image": "assets/posts/special-technology-zones-authority-approves-1-f22633b4_cover.jpg",
+    "cover_image": "assets/posts/special-technology-zones-authority-approves-1-f22633b4_cover.jpg",
+    "author": "Hamid Raza",
+    "author_role": "Lead Tech & Telecommunications Editor",
+    "author_avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=120&h=120&fit=crop",
+    "date": "10 Oct 2026",
+    "read_time": "5 min read",
+    "featured": true,
+    "body": [
+      "The Special Technology Zones Authority (STZA) has officially granted zone developer status to fourteen new tech parks situated across Faisalabad, Multan, Peshawar, and Abbottabad, decentralized from traditional hubs in Karachi and Islamabad.",
+      "Under the ten-year incentive regime ratified by the federal government, technology enterprises establishing development centers in these designated zones receive blanket exemptions from corporate income tax, customs duties on imported server hardware, and foreign currency dividend withholding taxes.",
+      "Urban industrial developers project that regional expansion will dramatically lower operating overhead for mid-tier software exporters while providing high-speed redundant dark fiber and uninterrupted grid power to over 40,000 software engineers."
+    ],
+    "sections": [
+      {
+        "heading": "Regional Decentralization of Software Talent",
+        "content": "By deploying Tier-3 certified data centers and co-working infrastructures directly within university towns such as Peshawar and Multan, the program addresses youth talent migration. Companies can recruit domestic engineering graduates locally at competitive wage structures while maintaining international enterprise security standards."
+      },
+      {
+        "heading": "Tax Exemptions and Capital Expenditure Incentives",
+        "content": "Eligible zone enterprises are insulated from domestic currency fluctuations through specialized foreign currency bank accounts, permitting unhindered offshore payments for cloud software subscriptions, SaaS licenses, and international client travel."
+      }
+    ],
+    "takeaways": [
+      "STZA approves 14 new technology zones across Tier-2 Pakistani industrial cities.",
+      "Offers 10-year corporate income tax holidays and zero customs duties on computing hardware.",
+      "Decentralizes engineering job creation to support 40,000 provincial tech graduates."
+    ],
+    "faqs": [
+      {
+        "question": "Which cities are included in the new STZA regional tech zones?",
+        "answer": "The approved zones are distributed across Faisalabad, Multan, Peshawar, Abbottabad, and surrounding industrial clusters."
+      },
+      {
+        "question": "What fiscal incentives do registered tech companies receive?",
+        "answer": "Companies enjoy a ten-year exemption from corporate income tax, zero import duties on technology hardware, and streamlined foreign-exchange dividend repatriation."
+      }
+    ],
+    "social_format": "card",
+    "lang": "en"
+  },
+  {
     "id": "nepra-approves-industrial-solar-wheeling-fram-b039",
     "category": "Clean Energy & Grid",
     "badge": "SOLAR POLICY",
@@ -194,7 +390,7 @@
     "date": "10 Oct 2026",
     "date_iso": "2026-10-10",
     "read_time": "5 min read",
-    "featured": true,
+    "featured": false,
     "body": [
       "The State Bank of Pakistan (SBP) has formally activated interoperability protocols between the Raast instant payment system and the Arab Monetary Fund's Buna regional payment platform, unlocking real-time cross-border remittances across Gulf Cooperation Council (GCC) member states.",
       "Under the integrated framework, overseas Pakistani expatriates residing in Saudi Arabia, the United Arab Emirates, Qatar, and Bahrain can execute low-cost remittances directly from GCC mobile banking applications to domestic Raast beneficiary accounts in under thirty seconds.",
