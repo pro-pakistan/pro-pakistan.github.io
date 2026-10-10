@@ -1,5 +1,234 @@
 [
   {
+    "id": "nepra-approves-industrial-solar-wheeling-fram-b039",
+    "category": "Clean Energy & Grid",
+    "badge": "SOLAR POLICY",
+    "title": "NEPRA Approves Industrial Solar Wheeling Framework: 100% Green Energy Access for Export Industries",
+    "subdeck": "National Electric Power Regulatory Authority finalizes bilateral wheeling tariffs, allowing textile and technology parks to procure captive solar energy across provincial transmission lines.",
+    "image": "assets/posts/nepra-approves-industrial-solar-wheeling-fram-b039_cover.jpg",
+    "stat_number": "Rs. 4.2/KWH",
+    "stat_label": "WHEELING CHARGE",
+    "author": "Bilal Siddiqui",
+    "author_role": "Clean Energy & Infrastructure Analyst",
+    "author_avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=120&h=120&fit=crop",
+    "date": "10 Oct 2026",
+    "date_iso": "2026-10-10",
+    "read_time": "4 min read",
+    "featured": false,
+    "body": [
+      "The National Electric Power Regulatory Authority (NEPRA) has notified the Competitive Trading Bilateral Contract Market (CTBCM) wheeling regulations, permitting industrial consumers to purchase off-site solar and wind energy through the national grid.",
+      "Under the approved wheeling structure, private solar developers can construct large-scale utility solar farms in high-radiation regions of Balochistan and southern Punjab, wheeling that clean electricity to industrial export manufacturing zones in Karachi, Faisalabad, and Lahore at transparent grid transit fees.",
+      "Industrial exporters view the wheeling framework as an essential competitive lifeline, enabling compliance with the European Union's Carbon Border Adjustment Mechanism (CBAM) while cutting grid electricity costs by over 35%."
+    ],
+    "sections": [
+      {
+        "heading": "Bilateral Contracts under CTBCM Competitive Market",
+        "content": "The framework transitions Pakistan away from single-buyer utility monopoly models, allowing private generators and corporate bulk purchasers to execute direct long-term Power Purchase Agreements (PPAs)."
+      },
+      {
+        "heading": "Meeting EU Carbon Border Adjustment Requirements",
+        "content": "Textile, leather, and chemical exporters can certify their production facilities as 100% renewable-powered, safeguarding international trade access across European export destinations."
+      }
+    ],
+    "takeaways": [
+      "NEPRA finalizes competitive bilateral wheeling regulations for industrial clean power.",
+      "Industrial parks can procure off-site solar power transmitted over the national grid.",
+      "Empowers exporters to achieve EU CBAM carbon compliance and reduce energy overheads."
+    ],
+    "faqs": [
+      {
+        "question": "What is electricity wheeling?",
+        "answer": "Wheeling is the transmission of electric energy from a third-party private power plant to a specific industrial consumer using existing public transmission and distribution utility lines."
+      }
+    ],
+    "social_format": "card",
+    "lang": "en"
+  },
+  {
+    "id": "fbr-mandates-real-time-digital-invoicing-for--c9be",
+    "category": "Digital Governance",
+    "badge": "TAX DIGITIZATION",
+    "title": "FBR Mandates Real-Time Digital Invoicing for Tier-1 Retailers and E-Commerce Marketplaces",
+    "subdeck": "Federal Board of Revenue expands automated POS and electronic billing synchronization, tracking sales tax transactions instantly through cryptographically signed QR codes.",
+    "image": "assets/posts/fbr-mandates-real-time-digital-invoicing-for--c9be_cover.jpg",
+    "stat_number": "100% AUDIT",
+    "stat_label": "REAL-TIME TAX SYNC",
+    "author": "Hamid Raza",
+    "author_role": "Senior Tech & Telecom Editor",
+    "author_avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=120&h=120&fit=crop",
+    "date": "10 Oct 2026",
+    "date_iso": "2026-10-10",
+    "read_time": "4 min read",
+    "featured": false,
+    "body": [
+      "The Federal Board of Revenue (FBR) has notified statutory regulations mandating all Tier-1 retail chains, franchise outlets, and online e-commerce platforms to integrate directly with the central Digital Invoicing Electronic Portal.",
+      "Under the synchronized architecture, point-of-sale cash registers and shopping cart checkouts generate an encrypted digital invoice bearing a verifiable QR code validated instantaneously via SBP and FBR secure webhooks before consumer payment finalization.",
+      "Tax authorities project that real-time digital invoicing will document hundreds of billions of rupees in unrecorded consumer retail sales, curbing sales tax evasion while offering compliant merchants automated monthly sales tax reconciliation."
+    ],
+    "sections": [
+      {
+        "heading": "API Integration and Cryptographic QR Verification",
+        "content": "The system mandates RESTful API integration into retail enterprise resource planning (ERP) suites. Consumers can scan the printed receipt QR code using the official Asaan Tax mobile app to verify real-time tax deposit."
+      },
+      {
+        "heading": "Incentives for Cashless Digital Receipts",
+        "content": "To incentivize consumer compliance, the FBR has introduced a 2% sales tax rebate on electronic payments processed through debit cards, credit cards, or Raast instant payments."
+      }
+    ],
+    "takeaways": [
+      "FBR expands mandatory digital invoicing to Tier-1 retailers and e-commerce platforms.",
+      "Transactions cryptographically signed via central APIs with consumer QR verification.",
+      "Consumers receive 2% sales tax reduction when paying through digital cashless channels."
+    ],
+    "faqs": [
+      {
+        "question": "How do shoppers benefit from the new digital invoice system?",
+        "answer": "Shoppers can scan receipt QR codes to confirm tax authenticity and earn sales tax cashback rebates when paying via cashless digital payment rails."
+      }
+    ],
+    "social_format": "card",
+    "lang": "en"
+  },
+  {
+    "id": "ministry-of-it-establishes-pakistan-sovereign-bea8",
+    "category": "Enterprise AI",
+    "badge": "SOVEREIGN COMPUTE",
+    "title": "Ministry of IT Establishes Pakistan Sovereign AI Compute Cluster with 1,000 High-Density GPU Nodes",
+    "subdeck": "National artificial intelligence compute facility in Islamabad offers domestic startups, universities, and enterprise research labs subsidized access to sovereign inference and training hardware.",
+    "image": "assets/posts/ministry-of-it-establishes-pakistan-sovereign-bea8_cover.jpg",
+    "stat_number": "1,000 GPUS",
+    "stat_label": "SOVEREIGN CAPACITY",
+    "author": "Dr. Arsalan Baig",
+    "author_role": "Silicon Architect & Semiconductor Fellow",
+    "author_avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=120&h=120&fit=crop",
+    "date": "10 Oct 2026",
+    "date_iso": "2026-10-10",
+    "read_time": "5 min read",
+    "featured": false,
+    "body": [
+      "The Ministry of Information Technology and Telecommunication has officially inaugurated the National AI Supercomputing Cluster at the Special Technology Zones Authority (STZA) campus in Islamabad, deploying 1,000 high-performance enterprise GPU accelerators.",
+      "Engineered to overcome severe foreign-exchange restrictions on foreign cloud compute rental, the sovereign infrastructure provides subsidized high-density computing to verified Pakistani AI startups, academic machine learning labs, and government digital services.",
+      "The facility will prioritize research into localized natural language processing models for Urdu and regional languages, computer vision inspection for industrial manufacturing, and predictive climate modeling for agricultural water basin management."
+    ],
+    "sections": [
+      {
+        "heading": "Democratizing Compute for Domestic AI Engineering",
+        "content": "By providing compute credits and native container orchestration pipelines, domestic software houses can fine-tune frontier open-weight models locally without sending sensitive domestic enterprise data to offshore public clouds."
+      },
+      {
+        "heading": "Energy Efficiency and Captive Solar Generation",
+        "content": "The data center cluster incorporates high-efficiency liquid immersion cooling and draws 65% of its baseline power load from an on-site 4-megawatt solar photovoltaic installation, containing operational carbon footprints."
+      }
+    ],
+    "takeaways": [
+      "National AI Supercomputing Cluster launches with 1,000 enterprise GPUs in Islamabad.",
+      "Subsidized compute credits empower domestic startups to train localized AI models.",
+      "Liquid cooling and captive solar array optimize operational data center power efficiency."
+    ],
+    "faqs": [
+      {
+        "question": "Who is eligible to access the sovereign AI compute cluster?",
+        "answer": "Registered Pakistani tech startups, accredited university research departments, and public-sector digital transformation teams can apply through the STZA portal."
+      }
+    ],
+    "social_format": "card",
+    "lang": "en"
+  },
+  {
+    "id": "pta-finalizes-5g-spectrum-auction-framework-3-0767",
+    "category": "Telecom & 5G",
+    "badge": "SPECTRUM POLICY",
+    "title": "PTA Finalizes 5G Spectrum Auction Framework: 300 MHz in 3.5 GHz Mid-Band Earmarked for Commercial Launch",
+    "subdeck": "Pakistan Telecommunication Authority prepares nationwide spectrum auction, providing cellular mobile operators with flexible installment payments and ten-year tax incentives.",
+    "image": "assets/posts/pta-finalizes-5g-spectrum-auction-framework-3-0767_cover.jpg",
+    "stat_number": "300 MHZ",
+    "stat_label": "MID-BAND SPECTRUM",
+    "author": "Zeeshan Ahmed",
+    "author_role": "Principal Telecom & Cloud Analyst",
+    "author_avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=120&h=120&fit=crop",
+    "date": "10 Oct 2026",
+    "date_iso": "2026-10-10",
+    "read_time": "4 min read",
+    "featured": false,
+    "body": [
+      "The Pakistan Telecommunication Authority (PTA) has concluded statutory stakeholder consultations on the 5G Spectrum Auction Framework, allocating 300 megahertz of prime mid-band spectrum in the 3.5 GHz (C-band) alongside low-band 700 MHz frequencies for commercial rollout.",
+      "Designed to overcome commercial operator capital expenditure hesitations, the finalized policy allows cellular mobile operators to pay spectrum license fees in phased installments over five years, linked to strict infrastructure coverage benchmarks across urban centers and industrial corridors.",
+      "Telecom sector leaders emphasize that the deployment of mid-band 5G will address acute mobile data congestion across metropolitan hubs while enabling low-latency private networks for industrial automation, seaport logistics, and telemedicine clusters."
+    ],
+    "sections": [
+      {
+        "heading": "Mid-Band C-Band and 700 MHz Coverage Pairing",
+        "content": "The regulatory blueprint pairs 3.5 GHz high-capacity spectrum for dense urban centers with 700 MHz coverage spectrum for deep indoor building penetration and rural highway connectivity, optimizing network capital expenditure."
+      },
+      {
+        "heading": "Fiberization Benchmarks and Tower Infrastructure",
+        "content": "PTA has mandated that licensed operators achieve minimum 40% tower fiberization milestones within eighteen months of spectrum allocation, driving major investments into dark fiber rollouts."
+      }
+    ],
+    "takeaways": [
+      "PTA completes regulatory framework for 300 MHz of 3.5 GHz 5G spectrum auction.",
+      "Installment payment terms and fiberization mandates balance operator CAPEX with rapid rollout.",
+      "Initial commercial coverage prioritized across Karachi, Lahore, Islamabad, and economic zones."
+    ],
+    "faqs": [
+      {
+        "question": "When is commercial 5G expected to go live in Pakistan?",
+        "answer": "Following spectrum auction completion, commercial trial networks in major metropolitan hubs are projected to launch within six months of frequency assignment."
+      }
+    ],
+    "social_format": "card",
+    "lang": "en"
+  },
+  {
+    "id": "state-bank-of-pakistan-integrates-raast-with--5b03",
+    "category": "Fintech & Payments",
+    "badge": "RAAST CROSS-BORDER",
+    "title": "State Bank of Pakistan Integrates Raast with Arab Monetary Fund Buna Platform for Zero-Fee Remittances",
+    "subdeck": "Central bank completes phase two of digital payment corridor linking Pakistani commercial banks with GCC clearinghouses, enabling instant settlements for overseas workers.",
+    "image": "assets/posts/state-bank-of-pakistan-integrates-raast-with--5b03_cover.jpg",
+    "stat_number": "SUB-30 SEC",
+    "stat_label": "SETTLEMENT VELOCITY",
+    "author": "Fatima Noor",
+    "author_role": "Fintech & Regulatory Analyst",
+    "author_avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=120&h=120&fit=crop",
+    "date": "10 Oct 2026",
+    "date_iso": "2026-10-10",
+    "read_time": "5 min read",
+    "featured": true,
+    "body": [
+      "The State Bank of Pakistan (SBP) has formally activated interoperability protocols between the Raast instant payment system and the Arab Monetary Fund's Buna regional payment platform, unlocking real-time cross-border remittances across Gulf Cooperation Council (GCC) member states.",
+      "Under the integrated framework, overseas Pakistani expatriates residing in Saudi Arabia, the United Arab Emirates, Qatar, and Bahrain can execute low-cost remittances directly from GCC mobile banking applications to domestic Raast beneficiary accounts in under thirty seconds.",
+      "Financial analysts forecast that eliminating correspondent banking intermediaries and predatory foreign-exchange spreads will divert billions of dollars annually from informal Hawala channels into formal banking channels, providing vital liquidity to foreign-exchange reserves."
+    ],
+    "sections": [
+      {
+        "heading": "Direct Account-to-Account Architecture",
+        "content": "By leveraging ISO 20022 standardized XML financial messaging, Buna and Raast establish a direct peer-to-peer clearing bridge. Transactions are validated instantaneously against domestic IBANs, bypassing multi-day SWIFT hops and intermediary clearing charges."
+      },
+      {
+        "heading": "Remittance Formalization and Macroeconomic Stability",
+        "content": "Central bank data shows remittance inflows from GCC economies accounted for over 54% of Pakistan's total annual remittances in the preceding fiscal year. Real-time digital settlement provides overseas workers with transparent interbank exchange rates and immediate proof of delivery."
+      }
+    ],
+    "takeaways": [
+      "SBP integrates Raast instant payments with Arab Monetary Fund Buna clearing platform.",
+      "Enables sub-30-second digital remittances from Saudi Arabia, UAE, and GCC nations.",
+      "Direct ISO 20022 integration eliminates correspondent fees and drives formal inflows."
+    ],
+    "faqs": [
+      {
+        "question": "What is the primary benefit of the Raast-Buna integration for Pakistani expat workers?",
+        "answer": "Overseas workers can send money directly from their local GCC banking apps to recipient Raast accounts in Pakistan with sub-30-second settlement and significantly lower transfer fees."
+      },
+      {
+        "question": "Which currencies are supported in the Buna cross-border corridor?",
+        "answer": "The platform supports multi-currency settlements including Saudi Riyals (SAR), UAE Dirhams (AED), US Dollars (USD), and Pakistani Rupees (PKR)."
+      }
+    ],
+    "social_format": "card",
+    "lang": "en"
+  },
+  {
     "id": "india-is-treating-starlink-like-pakistan-2f65",
     "category": "AI & Startups",
     "badge": "BREAKING WIRE ⚡",
@@ -13,7 +242,7 @@
     "author_avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=120&h=120&fit=crop",
     "date": "09 Oct 2026",
     "read_time": "4 min read",
-    "featured": true,
+    "featured": false,
     "body": [
       "In an unprecedented move that has sent ripples across the global telecom landscape, SpaceX CEO Elon Musk has reportedly made a direct appeal to India's telecom titan, Mukesh Ambani, seeking entry for Starlink's satellite internet services. This extraordinary overture underscores the immense, yet stubbornly difficult, nature of the Indian market, where even a global disruptor like Starlink finds itself ensnared in bureaucratic red tape and the formidable shadow of entrenched domestic players.",
       "The predicament highlights a critical paradox: while India champions 'Digital India' and aims for global technological leadership, its regulatory environment often stifles foreign innovation. The comparison to Pakistan, as highlighted by industry observers, is not flippant; it points to common challenges faced by nations prioritizing protectionism and local champions over open competition and swift digital transformation. For Starlink, the hurdles include complex licensing, spectrum allocation disputes, and a clear preference for domestic operators like Reliance Jio.",
