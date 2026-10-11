@@ -1,5 +1,149 @@
 [
   {
+    "id": "post_20261011_63333577",
+    "category": "Clean Energy & Mobility",
+    "badge": "PEC STANDARDS",
+    "title": "Pakistan Engineering Council Approves National Standards for Domestic Solid-State EV Battery Packs and High-Current DC Fast Chargers",
+    "subdeck": "Unified thermal runaway protection protocols and standardized CCS2 charging specifications accelerate local manufacturing of electric two-wheelers and commercial fleet buses.",
+    "stat_number": "800V ARCHITECTURE",
+    "stat_label": "NATIVE FAST CHARGING",
+    "author": "Hamid Raza",
+    "author_role": "Senior Tech & Telecom Editor",
+    "author_avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=120&h=120&fit=crop",
+    "date": "11 Oct 2026",
+    "read_time": "5 min read",
+    "image_url": "assets/posts/post_20261011_63333577_cover.jpg",
+    "featured": false,
+    "body": [
+      "The Pakistan Engineering Council (PEC), in coordination with the National Electric Power Regulatory Authority (NEPRA) and the Ministry of Industries, has formally ratified national technical safety standards for domestically assembled electric vehicle battery modules and DC fast-charging stations.",
+      "The newly codified standards enforce stringent multi-stage thermal runaway barriers, IP67 ingress protection, and automated battery management system (BMS) telemetry tailored to withstand intense summer temperatures across Punjab and Sindh.",
+      "Automotive industry executives emphasize that establishing uniform physical charging connectors and protocol handshakes will eliminate charging fragmentation across motorways, accelerating fleet electrification for intercity logistics."
+    ],
+    "sections": [
+      {
+        "heading": "Extreme Climate Battery Chemistry Standards",
+        "content": "Recognizing ambient operating temperatures regularly surpassing 45 degrees Celsius during peak summer months, the PEC standard requires active liquid cooling loops or ceramic thermal isolation barriers for all high-voltage packs, preventing hazardous thermal runaway events."
+      },
+      {
+        "heading": "Standardized Fast-Charging Corridors",
+        "content": "All commercial charging operators installed along the M-2, M-5, and National Highway routes must adopt unified CCS2 connectors and interoperable open charge point protocols (OCPP 2.0.1), guaranteeing seamless universal charging for all EV brands."
+      }
+    ],
+    "takeaways": [
+      "PEC and NEPRA ratify comprehensive technical standards for EV battery packs and fast chargers.",
+      "Strict thermal runaway barriers designed specifically for extreme South Asian climate conditions.",
+      "Mandatory CCS2 connector uniformity across national motorway and highway corridors."
+    ],
+    "faqs": [
+      {
+        "question": "What is the standard connector type adopted for nationwide EV charging?",
+        "answer": "The unified standard mandates the Combined Charging System 2 (CCS2) connector for DC fast charging across all commercial and motorway charging locations."
+      },
+      {
+        "question": "How do the new regulations address battery overheating in summer?",
+        "answer": "Battery packs must include certified ceramic thermal barriers, flame-retardant enclosures, and continuous digital telemetry monitored by intelligent Battery Management Systems."
+      }
+    ],
+    "social_format": "card",
+    "lang": "en"
+  },
+  {
+    "id": "post_20261011_5eccd47f",
+    "category": "Fintech & Digital Assets",
+    "badge": "SECP SANDBOX",
+    "title": "Securities and Exchange Commission of Pakistan Licenses First Wave of Institutional Digital Asset Custodians Under Regulatory Sandbox",
+    "subdeck": "Regulatory framework establishes cold-storage multi-party computation security standards and mandatory capital reserves for institutional custody providers.",
+    "stat_number": "$85M AUM",
+    "stat_label": "LICENSED CUSTODY",
+    "author": "Fatima Noor",
+    "author_role": "Fintech & Regulatory Analyst",
+    "author_avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=120&h=120&fit=crop",
+    "date": "11 Oct 2026",
+    "read_time": "4 min read",
+    "image_url": "assets/posts/post_20261011_5eccd47f_cover.jpg",
+    "featured": false,
+    "body": [
+      "The Securities and Exchange Commission of Pakistan (SECP) has officially granted conditional regulatory sandbox licenses to three domestic institutional digital asset custodians, inaugurating a transparent compliance pathway for tokenized assets and cross-border digital financial instruments.",
+      "The regulatory framework mandates multi-party computation (MPC) private key management, hardware security module (HSM) backups, and tier-one cyber insurance coverage to safeguard institutional capital against operational vulnerabilities.",
+      "Market strategists indicate that regulated domestic custody infrastructure is the crucial precursor required for domestic commercial asset managers, real estate syndicates, and corporate treasuries to legally hold tokenized sovereign debt and private market equity."
+    ],
+    "sections": [
+      {
+        "heading": "Multi-Party Computation Compliance Mandates",
+        "content": "Under SECP Circular No. 18, custodial licensees must implement geographically distributed MPC cryptographic key shards. No single officer or physical location can authorize asset transfers without secondary biometric and algorithmic validation thresholds."
+      },
+      {
+        "heading": "Tokenized Sukuk and Real-World Asset Enablement",
+        "content": "The licensing regime paves the way for commercial banks to issue tokenized Sukuk bonds directly on regulated enterprise ledgers, lowering administrative issuance costs and expanding fractional retail access to national sovereign financing instruments."
+      }
+    ],
+    "takeaways": [
+      "SECP issues institutional digital asset custody licenses under regulatory sandbox.",
+      "Mandates multi-party computation security, insurance coverage, and audited capital reserves.",
+      "Clears the regulatory pathway for tokenized Islamic Sukuk and institutional digital assets."
+    ],
+    "faqs": [
+      {
+        "question": "What security standards are required by the SECP for licensed custodians?",
+        "answer": "Custodians must deploy geographically distributed Multi-Party Computation (MPC), tier-one cyber insurance underwriting, and regular independent third-party cryptographic audits."
+      },
+      {
+        "question": "Will individual retail investors be able to use these custodial services?",
+        "answer": "The initial cohort focuses on institutional clients, commercial banks, and licensed asset managers, with retail brokerage integrations slated for phase two."
+      }
+    ],
+    "social_format": "card",
+    "lang": "en"
+  },
+  {
+    "id": "post_20261011_d9ba4d7b",
+    "category": "Telecom & Cloud Infrastructure",
+    "badge": "SOVEREIGN AI CLOUD",
+    "title": "PTCL Group and Special Technology Zones Authority Sign $120M Agreement to Deploy Sovereign Hyperscale AI Compute Cloud in Islamabad",
+    "subdeck": "Public-private consortium secures dedicated tier-IV green data center infrastructure with 48 petaflops of FP8 tensor compute for domestic enterprises and government workflows.",
+    "stat_number": "48 PFLOPS",
+    "stat_label": "SOVEREIGN COMPUTE",
+    "author": "Zeeshan Ahmed",
+    "author_role": "Principal Telecom & Cloud Analyst",
+    "author_avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=120&h=120&fit=crop",
+    "date": "11 Oct 2026",
+    "read_time": "5 min read",
+    "image_url": "assets/posts/post_20261011_d9ba4d7b_cover.jpg",
+    "featured": true,
+    "body": [
+      "Pakistan Telecommunication Company Limited (PTCL Group) and the Special Technology Zones Authority (STZA) have finalized a landmark $120 million investment agreement to inaugurate the nation's premier sovereign hyperscale AI compute facility in the Islamabad Special Tech Zone.",
+      "The greenfield data center, powered entirely by a dedicated 25-megawatt solar and hydroelectric hybrid microgrid, features liquid-cooled GPU clusters designed to deliver over 48 petaflops of specialized tensor acceleration for domestic researchers, banking institutions, and software exporters.",
+      "By ensuring full data residency within national borders, the sovereign infrastructure addresses critical compliance mandates set by the Ministry of Information Technology while insulating domestic artificial intelligence startups from soaring foreign-exchange cloud billing."
+    ],
+    "sections": [
+      {
+        "heading": "Liquid-Cooled Sovereign Architecture",
+        "content": "The facility implements direct-to-chip liquid cooling loops to achieve an industry-leading Power Usage Effectiveness (PUE) rating of 1.14. High-bandwidth optical interconnects link the primary compute pods directly with Pakistan's submarine cable landing stations in Karachi."
+      },
+      {
+        "heading": "Enterprise and Academic Compute Subsidies",
+        "content": "Under the STZA charter, accredited academic research institutions and certified Pakistani software exporters will receive subsidized compute vouchers, enabling local engineering teams to pre-train and fine-tune specialized multilingual language models without offshore hardware dependencies."
+      }
+    ],
+    "takeaways": [
+      "PTCL Group and STZA launch $120M sovereign hyperscale AI compute facility in Islamabad.",
+      "Equipped with direct-to-chip liquid cooling and 48 petaflops of high-efficiency tensor compute.",
+      "Guarantees national data residency and offers subsidized compute credits for local tech startups."
+    ],
+    "faqs": [
+      {
+        "question": "Where is the new sovereign AI cloud data center situated?",
+        "answer": "The facility is strategically located within the Islamabad Special Technology Zone, supported by dedicated redundant fiber backbones and clean microgrid power."
+      },
+      {
+        "question": "How will local Pakistani software developers access the infrastructure?",
+        "answer": "Accredited startups and universities can request API access and subsidized compute vouchers directly through the STZA Innovation Portal."
+      }
+    ],
+    "social_format": "card",
+    "lang": "en"
+  },
+  {
     "id": "sindh-high-court-establishes-judicial-precede-482f2896",
     "title": "Sindh High Court Establishes Judicial Precedent on Software Patents and Domestic AI Model Copyright Protections",
     "subdeck": "High court bench rules that proprietary artificial intelligence model weights and synthetic training corpora qualify for full statutory copyright protection under national law.",
@@ -161,7 +305,7 @@
     "author_avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=120&h=120&fit=crop",
     "date": "10 Oct 2026",
     "read_time": "5 min read",
-    "featured": true,
+    "featured": false,
     "body": [
       "The Special Technology Zones Authority (STZA) has officially granted zone developer status to fourteen new tech parks situated across Faisalabad, Multan, Peshawar, and Abbottabad, decentralized from traditional hubs in Karachi and Islamabad.",
       "Under the ten-year incentive regime ratified by the federal government, technology enterprises establishing development centers in these designated zones receive blanket exemptions from corporate income tax, customs duties on imported server hardware, and foreign currency dividend withholding taxes.",
