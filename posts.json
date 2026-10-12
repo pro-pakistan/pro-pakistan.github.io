@@ -1,5 +1,149 @@
 [
   {
+    "id": "ignite-moitt-15m-deep-tech-venture-studio-semiconductors-edge-ai",
+    "category": "Hardware & Chips",
+    "badge": "SILICON FOUNDRY 🔬",
+    "title": "Ministry of IT and Ignite Launch $15M Deep-Tech Venture Studio in Karachi for Domestic Semiconductor Tape-Outs and Edge AI Silicon",
+    "subdeck": "State-backed initiative provides Pakistani hardware engineers with subsidized access to TSMC and GlobalFoundries multi-project wafer (MPW) manufacturing shuttles and RISC-V IP blocks.",
+    "stat_number": "28NM ASIC",
+    "stat_label": "TAPE-OUT PIPELINE",
+    "author": "Dr. Arsalan Baig",
+    "author_role": "Senior Deep-Tech & Semiconductor Editor",
+    "author_avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=120&h=120&fit=crop",
+    "date": "12 Oct 2026",
+    "read_time": "5 min read",
+    "image_url": "assets/posts/ignite-moitt-15m-deep-tech-venture-studio-semiconductors-edge-ai_cover.jpg",
+    "featured": false,
+    "body": [
+      "The Ministry of Information Technology and Telecommunication, through Ignite National Technology Fund, has inaugurated a $15 million specialized Deep-Tech Hardware Incubator and Silicon Venture Studio at the NED University Technology Park in Karachi.",
+      "The program bridges a critical gap in Pakistan's engineering export ecosystem by underwriting electronic design automation (EDA) tooling licenses from Synopsys and Cadence, alongside subsidized multi-project wafer (MPW) prototype fabrication slots.",
+      "Ten inaugural startup cohorts have been selected to tape out custom application-specific integrated circuits (ASICs) focused on edge computer vision, power management controllers for electric vehicles, and low-power IoT microcontrollers."
+    ],
+    "sections": [
+      {
+        "heading": "Open-Source RISC-V Cores and Subsidized Shuttle Runs",
+        "content": "Participating engineering teams will leverage verified open-source RISC-V processor architectures. By aggregating multiple chip designs onto shared multi-project silicon wafers at international fabs, the studio reduces individual tape-out costs from $350,000 down to under $35,000 per team."
+      },
+      {
+        "heading": "Building Domestic Semiconductor Sovereign Expertise",
+        "content": "With global microelectronics supply chains undergoing geopolitical realignment, the program aims to graduate over 400 verified physical design and verification engineers annually to anchor high-value chip design export services."
+      }
+    ],
+    "takeaways": [
+      "Ministry of IT launches $15M semiconductor venture studio at NED University Karachi.",
+      "Subsidizes enterprise EDA software licenses and multi-project wafer prototype runs.",
+      "Focuses on open RISC-V edge AI silicon, EV controllers, and advanced chip verification exports."
+    ],
+    "faqs": [
+      {
+        "question": "What is a multi-project wafer (MPW) shuttle run?",
+        "answer": "An MPW shuttle combines multiple semiconductor designs from different teams onto a single silicon wafer, dramatically reducing prototyping costs."
+      },
+      {
+        "question": "Which technology nodes are supported under the Karachi Silicon Studio?",
+        "answer": "The initial program supports 28nm and 40nm CMOS fabrication nodes, ideal for IoT sensors, automotive controllers, and edge neural processors."
+      }
+    ],
+    "social_format": "card",
+    "lang": "en"
+  },
+  {
+    "id": "sbp-mandates-iso-20022-financial-messaging-raast-p2m",
+    "category": "Fintech & Banking",
+    "badge": "RAAST UPGRADE 💳",
+    "title": "State Bank of Pakistan Mandates ISO 20022 Financial Messaging Architecture Across All Commercial Banks Ahead of Raast P2M Scale",
+    "subdeck": "Standardized rich-data payment standard replaces legacy MT messaging, paving the way for automated invoice matching, zero-error B2B reconciliation, and international payment corridor interoperability.",
+    "stat_number": "45M+ RAILS",
+    "stat_label": "REGISTERED USERS",
+    "author": "Fatima Noor",
+    "author_role": "Fintech & Regulatory Analyst",
+    "author_avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=120&h=120&fit=crop",
+    "date": "12 Oct 2026",
+    "read_time": "4 min read",
+    "image_url": "assets/posts/sbp-mandates-iso-20022-financial-messaging-raast-p2m_cover.jpg",
+    "featured": false,
+    "body": [
+      "The State Bank of Pakistan has issued mandatory regulatory directives requiring all licensed commercial banks, microfinance institutions, and Electronic Money Institutions (EMIs) to complete full migration to the ISO 20022 financial messaging standard.",
+      "The migration directly supports the rapid scaling of Raast Person-to-Merchant (P2M) settlement rails, which now process over 3.2 million daily real-time transactions across retail supermarkets, digital utility billers, and e-commerce platforms.",
+      "By incorporating structured remittance data, tax identifiers, and machine-readable invoice numbers within the payment payload, the new messaging format eliminates manual reconciliation overhead for Pakistani corporate enterprises."
+    ],
+    "sections": [
+      {
+        "heading": "Structured Data Payloads for B2B Settlements",
+        "content": "Unlike legacy SWIFT MT formats that truncate corporate remittance instructions, ISO 20022 XML payloads accommodate detailed line-item metadata, enabling commercial enterprise resource planning (ERP) platforms to reconcile vendor invoices automatically."
+      },
+      {
+        "heading": "Cross-Border Gateway Integration",
+        "content": "The central bank confirmed that adopting ISO 20022 fulfills the primary technical prerequisite for linking Raast directly with GCC instant payment networks, reducing cross-border remittance costs to under 0.5%."
+      }
+    ],
+    "takeaways": [
+      "State Bank of Pakistan mandates nationwide migration to ISO 20022 payment standard.",
+      "Supports high-velocity Raast P2M retail checkout rails with automated ERP invoice reconciliation.",
+      "Enables seamless interoperability with GCC and European cross-border instant remittance networks."
+    ],
+    "faqs": [
+      {
+        "question": "What benefits does ISO 20022 offer to Pakistani merchants?",
+        "answer": "It provides rich, structured transaction metadata that automates invoice matching and tax calculations while preventing fraudulent chargebacks."
+      },
+      {
+        "question": "Will retail banking customers experience any downtime during the transition?",
+        "answer": "No, commercial banks are deploying dual-stack translation gateways to ensure uninterrupted 24/7 Raast interbank fund transfers."
+      }
+    ],
+    "social_format": "card",
+    "lang": "en"
+  },
+  {
+    "id": "jazz-zong-telenor-national-5g-standalone-trials-islamabad-lahore",
+    "category": "Telecom & 5G",
+    "badge": "5G STANDALONE CORE ⚡",
+    "title": "Jazz, Zong, and Telenor Complete National 5G Standalone Core Trials Across Islamabad and Lahore Under PTA Sandbox",
+    "subdeck": "Field benchmarks achieve 1.42 Gbps peak downlink speeds and 6.8 millisecond round-trip latency on dedicated 3.5 GHz mid-band test spectrum.",
+    "stat_number": "1.42 GBPS",
+    "stat_label": "PEAK 5G DOWNLINK",
+    "author": "Zeeshan Ahmed",
+    "author_role": "Principal Telecom & Cloud Analyst",
+    "author_avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=120&h=120&fit=crop",
+    "date": "12 Oct 2026",
+    "read_time": "5 min read",
+    "image_url": "assets/posts/jazz-zong-telenor-national-5g-standalone-trials-islamabad-lahore_cover.jpg",
+    "featured": true,
+    "body": [
+      "Pakistan's premier cellular mobile operators—Jazz, Zong 4G, and Telenor Pakistan—have concluded comprehensive technical trials for 5G Standalone (5G SA) cloud-native core networks under the Pakistan Telecommunication Authority's commercial sandbox framework.",
+      "Testing conducted across high-density transmission zones in Islamabad's Blue Area and Lahore's Gulberg business corridor demonstrated sustained user downlink throughput reaching 1.42 Gbps, coupled with ultra-low packet latency of 6.8 milliseconds.",
+      "Unlike early Non-Standalone (NSA) architectures that tether 5G radios to legacy 4G LTE packet cores, the Standalone implementation establishes independent end-to-end network slicing, opening mission-critical communications for industrial IoT and remote telemedicine."
+    ],
+    "sections": [
+      {
+        "heading": "Network Slicing and Low-Latency Edge Performance",
+        "content": "Engineers validated dynamic network slicing over virtualized carrier-grade microservices. Dedicated enterprise slices maintained guaranteed bandwidth even under simulated network congestion during peak evening data traffic hours."
+      },
+      {
+        "heading": "Spectrum Auction Timelines and Device Ecosystem",
+        "content": "The trial results will form the technical baseline for the Ministry of IT's upcoming 300 MHz auction in the 3.5 GHz (C-band). PTA officials confirmed over 22 million 5G-ready smartphones are already registered on national IMEI databases."
+      }
+    ],
+    "takeaways": [
+      "National operators complete successful 5G Standalone trials in Islamabad and Lahore.",
+      "Achieved 1.42 Gbps peak throughput with 6.8ms latency on 3.5 GHz mid-band channels.",
+      "Enables independent network slicing ahead of PTA's nationwide commercial spectrum auction."
+    ],
+    "faqs": [
+      {
+        "question": "What is the key difference between 5G Non-Standalone and Standalone networks?",
+        "answer": "5G Standalone uses a dedicated cloud-native 5G core independent of 4G infrastructure, enabling ultra-low latency, massive IoT density, and network slicing."
+      },
+      {
+        "question": "When is commercial 5G expected to roll out for general consumers in Pakistan?",
+        "answer": "Commercial rollout is slated to commence within 6 months following PTA's upcoming mid-band spectrum auction."
+      }
+    ],
+    "social_format": "card",
+    "lang": "en"
+  },
+  {
     "id": "pec-standards-solid-state-ev-battery-packs-fast-chargers",
     "category": "Clean Energy & Mobility",
     "badge": "PEC STANDARDS",
@@ -109,7 +253,7 @@
     "date": "11 Oct 2026",
     "read_time": "5 min read",
     "image_url": "assets/posts/ptcl-stza-120m-sovereign-hyperscale-ai-compute-cloud_cover.jpg",
-    "featured": true,
+    "featured": false,
     "body": [
       "Pakistan Telecommunication Company Limited (PTCL Group) and the Special Technology Zones Authority (STZA) have finalized a landmark $120 million investment agreement to inaugurate the nation's premier sovereign hyperscale AI compute facility in the Islamabad Special Tech Zone.",
       "The greenfield data center, powered entirely by a dedicated 25-megawatt solar and hydroelectric hybrid microgrid, features liquid-cooled GPU clusters designed to deliver over 48 petaflops of specialized tensor acceleration for domestic researchers, banking institutions, and software exporters.",
