@@ -1,5 +1,161 @@
 [
   {
+    "id": "pakistani-freelancers-receive-international-payments-legally",
+    "category": "Digital Economy",
+    "badge": "FREELANCER GUIDE",
+    "title": "How Pakistani Freelancers Can Receive International Payments Legally and Keep More of What They Earn",
+    "subdeck": "Bank channels, payment platforms, PSEB registration and documentation that keep your income compliant and your account in good standing.",
+    "stat_number": "PSEB",
+    "stat_label": "REGISTRATION ADVANTAGE",
+    "author": "Fatima Noor",
+    "author_role": "Fintech & Regulatory Analyst",
+    "author_avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=120&h=120&fit=crop",
+    "date": "13 Oct 2026",
+    "read_time": "6 min read",
+    "image_url": "assets/posts/pakistani-freelancers-receive-international-payments-legally_cover.jpg",
+    "featured": false,
+    "body": [
+      "Pakistan has one of the largest freelance workforces in the world, yet many freelancers still lose money to poor exchange rates, avoidable fees and frozen accounts. Most of these problems come from using the wrong channel rather than from the work itself.",
+      "Income for IT and IT-enabled services earned from foreign clients counts as an export of services. Receiving it through formal banking channels creates a proper record, which matters for tax treatment, for opening foreign currency accounts and for proving your income later.",
+      "The safest setup is a bank account designed for freelancers or exporters, a payment platform that withdraws into that account, and clear invoices that link each payment to the client and the work delivered."
+    ],
+    "sections": [
+      {
+        "heading": "Choosing a Payment Channel",
+        "content": "Direct bank wire, marketplace withdrawals and services such as Payoneer or Wise-style transfers into a local account are the common options. PayPal does not support receiving payments in Pakistan, so avoid informal workarounds that use another person's account, as they can lead to frozen funds."
+      },
+      {
+        "heading": "Registering with PSEB",
+        "content": "The Pakistan Software Export Board offers registration for individual freelancers and IT companies. Registered exporters can benefit from reduced tax treatment on export proceeds and easier access to banking facilities. Rates and rules change in each budget, so confirm current figures with FBR or a tax adviser before filing."
+      },
+      {
+        "heading": "Keep Records That Banks Understand",
+        "content": "Ask clients to state the purpose of payment as IT or software services. Keep invoices, contracts and platform statements for every transaction. When a bank asks about a remittance, a clear paper trail turns a potential hold into a quick approval."
+      }
+    ],
+    "takeaways": [
+      "Foreign client income for IT services is an export and should arrive through formal channels.",
+      "PSEB registration can improve tax treatment and banking access for freelancers.",
+      "Clear invoices and purpose-of-payment codes prevent remittance holds."
+    ],
+    "faqs": [
+      {
+        "question": "Do freelancers in Pakistan have to file tax returns?",
+        "answer": "Yes. Filing keeps you on the Active Taxpayers List, which lowers withholding on many banking transactions. Export proceeds may qualify for reduced rates, so confirm current rules with FBR."
+      },
+      {
+        "question": "Can I keep my earnings in dollars?",
+        "answer": "IT exporters and freelancers can generally retain a portion of export proceeds in a foreign currency account under State Bank rules. Ask your bank about the current retention limit."
+      }
+    ],
+    "social_format": "card",
+    "lang": "en"
+  },
+  {
+    "id": "esim-pakistan-explained-how-it-works-phone-support",
+    "category": "5G & Telecom",
+    "badge": "ESIM EXPLAINED",
+    "title": "eSIM in Pakistan Explained: How It Works, Which Phones Support It, and What to Check Before Switching",
+    "subdeck": "An embedded SIM replaces the plastic card with a downloadable profile. Here is what that means for PTA registration, travel and dual-number use.",
+    "stat_number": "1 CHIP",
+    "stat_label": "MULTIPLE PROFILES",
+    "author": "Zeeshan Ahmed",
+    "author_role": "Principal Telecom & Cloud Analyst",
+    "author_avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=120&h=120&fit=crop",
+    "date": "13 Oct 2026",
+    "read_time": "5 min read",
+    "image_url": "assets/posts/esim-pakistan-explained-how-it-works-phone-support_cover.jpg",
+    "featured": false,
+    "body": [
+      "An eSIM is a small chip soldered inside a phone that can store a mobile operator profile downloaded over the air. It follows the GSMA remote SIM provisioning standard, which means the same hardware can hold profiles from different operators without swapping any plastic card.",
+      "For users in Pakistan the practical appeal is convenience: a lost or damaged SIM card is no longer a problem, a second number can live on the same phone alongside a physical SIM, and travellers can add a foreign data plan without removing their local line.",
+      "Availability depends on the operator and on the handset. Before switching, confirm that your operator currently offers eSIM activation, that your phone model supports eSIM, and that the device is properly registered with PTA."
+    ],
+    "sections": [
+      {
+        "heading": "PTA Registration Still Applies",
+        "content": "eSIM does not bypass the Device Identification Registration and Blocking System. A phone that is not PTA-approved will lose network service whether it uses a physical SIM or an eSIM, so check the IMEI status through the official PTA DIRBS channels before buying an imported device."
+      },
+      {
+        "heading": "How Activation Usually Works",
+        "content": "Operators typically require biometric verification against your CNIC, after which they issue a QR code or activation code. Scanning it in the phone's mobile network settings downloads the profile. Keep the old physical SIM until the eSIM line is confirmed working."
+      },
+      {
+        "heading": "Which Phones Support eSIM",
+        "content": "Most recent flagship and many mid-range phones from Apple, Samsung and Google support eSIM, but regional variants differ. Check the settings menu for an option to add an eSIM, or look up the exact model number rather than the general model name."
+      }
+    ],
+    "takeaways": [
+      "An eSIM stores operator profiles digitally on a chip inside the phone.",
+      "PTA device registration rules apply to eSIM exactly as they do to physical SIMs.",
+      "Confirm operator support, handset support and IMEI status before switching."
+    ],
+    "faqs": [
+      {
+        "question": "Can I use an eSIM and a physical SIM together?",
+        "answer": "On most dual-SIM capable phones, yes. One line runs on the physical SIM and the second on the eSIM."
+      },
+      {
+        "question": "What happens to my eSIM if I change phones?",
+        "answer": "The profile does not move automatically. Ask your operator to reissue the eSIM for the new device, which usually involves verification again."
+      }
+    ],
+    "social_format": "card",
+    "lang": "en"
+  },
+  {
+    "id": "how-raast-works-guide-pakistan-instant-payment-system",
+    "category": "Fintech & Banking",
+    "badge": "RAAST GUIDE",
+    "title": "How Raast Works: A Practical Guide to Pakistan's Instant Payment System",
+    "subdeck": "What a Raast ID is, how to create one with your mobile number, what transfers cost, and how merchant QR payments fit in.",
+    "stat_number": "24/7",
+    "stat_label": "INSTANT SETTLEMENT",
+    "author": "Fatima Noor",
+    "author_role": "Fintech & Regulatory Analyst",
+    "author_avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=120&h=120&fit=crop",
+    "date": "13 Oct 2026",
+    "read_time": "6 min read",
+    "image_url": "assets/posts/how-raast-works-guide-pakistan-instant-payment-system_cover.jpg",
+    "featured": true,
+    "body": [
+      "Raast is the instant payment system built and operated by the State Bank of Pakistan. It connects banks, microfinance banks and electronic money institutions on a single real-time rail, so money sent from one account reaches another within seconds, at any hour, on any day.",
+      "The system was rolled out in phases starting in 2021: bulk payments came first, followed by person-to-person transfers, and later merchant payments through QR codes and request-to-pay. Each phase was designed to move everyday transactions away from cash.",
+      "For most users the key concept is the Raast ID. Instead of sharing a long IBAN, you link your mobile number to one of your bank accounts, and anyone can send you money by entering that number in their own banking app."
+    ],
+    "sections": [
+      {
+        "heading": "Creating and Managing a Raast ID",
+        "content": "Open your bank or wallet app, find the Raast section and register your mobile number as your Raast ID. A mobile number can be linked to only one account at a time, so if you want payments to land in a different bank you must first unlink it from the old one and then register it in the new app."
+      },
+      {
+        "heading": "Costs, Limits and Safety",
+        "content": "Person-to-person Raast transfers for individuals are free of charge under State Bank directions. Daily and per-transaction limits are set by each bank, so check your app before moving large amounts. Always confirm the recipient name shown on the confirmation screen before approving, because instant payments cannot be pulled back once sent."
+      },
+      {
+        "heading": "Raast for Shops and Small Businesses",
+        "content": "Merchants can accept Raast payments through a static or dynamic QR code issued by their bank. Funds settle straight into the merchant account rather than sitting with a payment aggregator, which helps small shops with cash flow."
+      }
+    ],
+    "takeaways": [
+      "Raast is the State Bank of Pakistan's real-time payment rail, available round the clock.",
+      "A Raast ID links your mobile number to one bank account so people can pay you without an IBAN.",
+      "Person-to-person transfers are free for individuals; limits vary by bank."
+    ],
+    "faqs": [
+      {
+        "question": "Can I link one mobile number to two bank accounts on Raast?",
+        "answer": "No. A Raast ID can point to only one account at a time. Unlink it in the first bank's app before registering it with another."
+      },
+      {
+        "question": "Is Raast the same as IBFT?",
+        "answer": "No. IBFT is the older interbank transfer service run through 1LINK, while Raast is the State Bank's own instant payment system with a mobile-number alias."
+      }
+    ],
+    "social_format": "card",
+    "lang": "en"
+  },
+  {
     "id": "ignite-moitt-15m-deep-tech-venture-studio-semiconductors-edge-ai",
     "category": "Hardware & Chips",
     "badge": "SILICON FOUNDRY 🔬",
@@ -109,7 +265,7 @@
     "date": "12 Oct 2026",
     "read_time": "5 min read",
     "image_url": "assets/posts/jazz-zong-telenor-national-5g-standalone-trials-islamabad-lahore_cover.jpg",
-    "featured": true,
+    "featured": false,
     "body": [
       "Pakistan's premier cellular mobile operators—Jazz, Zong 4G, and Telenor Pakistan—have concluded comprehensive technical trials for 5G Standalone (5G SA) cloud-native core networks under the Pakistan Telecommunication Authority's commercial sandbox framework.",
       "Testing conducted across high-density transmission zones in Islamabad's Blue Area and Lahore's Gulberg business corridor demonstrated sustained user downlink throughput reaching 1.42 Gbps, coupled with ultra-low packet latency of 6.8 milliseconds.",
