@@ -1,5 +1,161 @@
 [
   {
+    "id": "submarine-fiber-optic-cables-pakistan-internet-resilience-guide",
+    "category": "5G & Telecom",
+    "badge": "INFRASTRUCTURE",
+    "title": "Submarine Fiber Optic Cables Landing in Pakistan: How International Undersea Cables Protect National Internet Resilience",
+    "subdeck": "An engineering deep dive into the undersea fiber networks landing in Karachi and Gwadar—from SEA-ME-WE to PEACE—and how route diversity shields the nation from catastrophic blackouts.",
+    "stat_number": "7 CABLES",
+    "stat_label": "ACTIVE & PLANNED LANDINGS",
+    "author": "Zeeshan Ahmed",
+    "author_role": "Principal Telecom & Energy Infrastructure Analyst",
+    "author_avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=120&h=120&fit=crop",
+    "date": "14 Oct 2026",
+    "read_time": "6 min read",
+    "image_url": "assets/posts/submarine-fiber-optic-cables-pakistan-internet-resilience-guide_cover.jpg",
+    "featured": false,
+    "body": [
+      "Over 99% of Pakistan's international data traffic—powering cloud computing, international e-commerce, banking reconciliations, and video streaming—travels through submarine fiber optic cables laid across the seabed of the Arabian Sea.",
+      "Historically, a single subsea fiber rupture near Muscat or Karachi could degrade nationwide bandwidth by over 60%, causing severe economic disruption for international business process outsourcing centers and software exporters.",
+      "Over the last five years, deliberate infrastructure investment has dramatically increased cable landing diversity, transforming Pakistan from a high-risk internet terminal into a resilient multi-gateway transit hub."
+    ],
+    "sections": [
+      {
+        "heading": "The Key Cable Systems Landing on Pakistani Shores",
+        "content": "Pakistan connects to international internet exchanges primarily through subsea landing stations in Karachi and Gwadar. Key legacy cables include SEA-ME-WE 3, SEA-ME-WE 4, SEA-ME-WE 5, IMEWE, and TW1, supplemented by modern high-capacity systems such as PEACE (Pakistan and East Africa Connecting Europe) and the 2Africa ultra-long cable system."
+      },
+      {
+        "heading": "Terrestrial Redundancy and Gwadar Landing Gateway",
+        "content": "Landing cables in Karachi alone left the country vulnerable to localized marine accidents, fishing trawler anchor drags, and tectonic subsea seismic shifts. Establishing secondary landing facilities in Gwadar, connected via diversified overland fiber routes along the Makran Coastal Highway, provides critical geographical separation."
+      },
+      {
+        "heading": "Repair Logistics in Deep Water",
+        "content": "When an undersea cable faults, specialized cable ships equipped with remotely operated submersibles locate the severed ends on the seafloor, splice micro-glass optical cores inside climate-controlled cleanrooms, and relay the reinforced joint with waterproof armor."
+      }
+    ],
+    "takeaways": [
+      "Over 99% of international data transfers in Pakistan depend on submarine fiber optic cables.",
+      "Gwadar and Karachi dual-landing diversity eliminates single points of catastrophic failure.",
+      "Modern subsea systems like PEACE provide terabit-scale capacity directly linking Asia and Europe."
+    ],
+    "faqs": [
+      {
+        "question": "What causes submarine cable cuts?",
+        "answer": "Commercial fishing trawler anchors, commercial cargo dragging, underwater seismic landslides, and rare underwater volcanic tremors cause the vast majority of cable faults."
+      },
+      {
+        "question": "How long does a deep-sea subsea cable repair take?",
+        "answer": "Depending on maritime weather, permit clearances in international waters, and ship transit distance, repairs typically take two to four weeks."
+      }
+    ],
+    "social_format": "card",
+    "lang": "en"
+  },
+  {
+    "id": "digital-banking-licenses-pakistan-sbp-framework-explained",
+    "category": "Fintech & Banking",
+    "badge": "DIGITAL BANKS",
+    "title": "Digital Banking Licenses in Pakistan: How SBP's Framework for Retail and Corporate Digital Banks is Transforming Finance",
+    "subdeck": "An analytical overview of branchless digital retail bank charters, cloud-native core banking architectures, algorithmic credit underwriting, and consumer safety safeguards.",
+    "stat_number": "5 PILOTS",
+    "stat_label": "DIGITAL BANK CHARTERS",
+    "author": "Fatima Noor",
+    "author_role": "Fintech & Regulatory Analyst",
+    "author_avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=120&h=120&fit=crop",
+    "date": "14 Oct 2026",
+    "read_time": "5 min read",
+    "image_url": "assets/posts/digital-banking-licenses-pakistan-sbp-framework-explained_cover.jpg",
+    "featured": false,
+    "body": [
+      "The State Bank of Pakistan's Licensing and Regulatory Framework for Digital Banks marks the most consequential modernization of the country's financial architecture in two decades.",
+      "By awarding in-principle approvals for Digital Retail Banks (DRBs) and Digital Corporate and Commercial Banks (DCCBs), the central bank is dismantling the high cost structures associated with brick-and-mortar branch operations.",
+      "These digital-native institutions operate entirely on cloud-native core systems, offering real-time onboarding, biometric verification, instant debit card issuance, and algorithm-driven nano-credit without requiring physical customer signatures."
+    ],
+    "sections": [
+      {
+        "heading": "Digital Retail Banks vs Traditional Commercial Banking",
+        "content": "Traditional banks allocate substantial operational expenditure toward maintaining physical branches and dedicated back-office staff. Digital retail banks replace physical teller windows with microservice-driven mobile apps, reducing customer acquisition costs from thousands of rupees to automated cents."
+      },
+      {
+        "heading": "Algorithmic Credit Scoring for the Unbanked",
+        "content": "Rather than demanding formal pay slips or audited collateral, digital banks analyze alternative behavioral data—including mobile wallet transaction frequency, telco airtime top-ups, and utility payment regularity—to disburse instant nano-credit to previously unbanked self-employed individuals."
+      },
+      {
+        "heading": "Capital Requirements and Consumer Protection",
+        "content": "The central bank mandates strict tiered capital compliance, starting with minimum capital requirements scaling over a three-year transition window. All customer deposits are protected under the Deposit Protection Corporation framework, ensuring equal security to traditional bank accounts."
+      }
+    ],
+    "takeaways": [
+      "Digital Retail Banks operate without brick-and-mortar branches, drastically cutting operational costs.",
+      "Alternative data credit scoring unlocks credit access for freelancers and unbanked individuals.",
+      "Deposits with licensed digital banks enjoy statutory protection under the Deposit Protection Corporation."
+    ],
+    "faqs": [
+      {
+        "question": "Are customer deposits safe with digital banks in Pakistan?",
+        "answer": "Yes. SBP-licensed digital banks are subject to statutory capital reserves and deposit protection up to regulatory limits per depositor."
+      },
+      {
+        "question": "How do digital banks verify customer identities without physical visits?",
+        "answer": "Onboarding utilizes digital NADRA biometric verification, automated facial liveness checks, and real-time SIM ownership cross-referencing."
+      }
+    ],
+    "social_format": "card",
+    "lang": "en"
+  },
+  {
+    "id": "how-net-metering-works-pakistan-on-grid-solar-guide",
+    "category": "Clean Tech & Mobility",
+    "badge": "SOLAR GUIDE",
+    "title": "Net Metering in Pakistan: How the On-Grid Solar Inverter Framework Works and What Homeowners Need to Know",
+    "subdeck": "A comprehensive breakdown of bidirectional energy meters, NEPRA distributed generation regulations, buyback unit calculations, and green meter installation timelines.",
+    "stat_number": "1:1 OFFSET",
+    "stat_label": "OFF-PEAK SOLAR UNITS",
+    "author": "Zeeshan Ahmed",
+    "author_role": "Principal Telecom & Energy Infrastructure Analyst",
+    "author_avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=120&h=120&fit=crop",
+    "date": "14 Oct 2026",
+    "read_time": "6 min read",
+    "image_url": "assets/posts/how-net-metering-works-pakistan-on-grid-solar-guide_cover.jpg",
+    "featured": true,
+    "body": [
+      "With electricity tariffs climbing across Pakistan, residential on-grid solar photovoltaic systems combined with net metering have become the standard long-term hedge against escalating utility bills.",
+      "Net metering enables homeowners to export surplus solar energy generated during sunny daylight hours directly into the national grid. A specialized bidirectional meter tracks energy sent to the distribution company against power imported during nighttime or cloudy weather.",
+      "Governed by National Electric Power Regulatory Authority regulations, distributed generation licenses allow consumers to offset peak and off-peak consumption, turning home rooftops into distributed micro-power stations."
+    ],
+    "sections": [
+      {
+        "heading": "How the Bidirectional Green Meter Calculates Units",
+        "content": "A bidirectional meter records units in two independent registers: active export (units sent into the DISCO grid) and active import (units drawn from the grid). At the end of each billing cycle, exported units are subtracted from imported units. If net consumption is negative, accumulated units roll forward as an energy credit."
+      },
+      {
+        "heading": "NEPRA Approval and DISCO Inspection Steps",
+        "content": "The transition begins with a load feasibility survey conducted by a certified solar EPC installer. After equipment installation, DISCO testing teams inspect grounding earthing resistance, phase balance, and inverter anti-islanding safety before replacing the legacy unidirectional meter with a three-phase green meter."
+      },
+      {
+        "heading": "Hybrid vs On-Grid Inverter Considerations",
+        "content": "Grid-tied string inverters shut down instantly during grid load shedding to protect line repair crews from backfeed electrocution. Homeowners requiring continuous uninterrupted power during power cuts must install hybrid inverters paired with lithium iron phosphate battery banks."
+      }
+    ],
+    "takeaways": [
+      "Net metering allows residential solar systems to export excess daytime electricity for bill credits.",
+      "Bidirectional green meters measure both imported and exported units independently.",
+      "Anti-islanding safety requires hybrid inverters with storage if power is needed during outages."
+    ],
+    "faqs": [
+      {
+        "question": "How long does it take to get a net metering green meter installed?",
+        "answer": "From initial load application and wiring test reports to DISCO inspection and meter replacement, the process typically takes four to eight weeks."
+      },
+      {
+        "question": "Can I install net metering on a single-phase electricity connection?",
+        "answer": "No. NEPRA distributed generation rules require a three-phase electricity connection for bidirectional net metering approval."
+      }
+    ],
+    "social_format": "card",
+    "lang": "en"
+  },
+  {
     "id": "pakistani-freelancers-receive-international-payments-legally",
     "category": "Digital Economy",
     "badge": "FREELANCER GUIDE",
@@ -117,7 +273,7 @@
     "date": "13 Oct 2026",
     "read_time": "6 min read",
     "image_url": "assets/posts/how-raast-works-guide-pakistan-instant-payment-system_cover.jpg",
-    "featured": true,
+    "featured": false,
     "body": [
       "Raast is the instant payment system built and operated by the State Bank of Pakistan. It connects banks, microfinance banks and electronic money institutions on a single real-time rail, so money sent from one account reaches another within seconds, at any hour, on any day.",
       "The system was rolled out in phases starting in 2021: bulk payments came first, followed by person-to-person transfers, and later merchant payments through QR codes and request-to-pay. Each phase was designed to move everyday transactions away from cash.",
