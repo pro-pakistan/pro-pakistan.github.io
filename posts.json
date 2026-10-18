@@ -49,7 +49,9 @@
       }
     ],
     "social_format": "card",
-    "lang": "en"
+    "lang": "en",
+    "image": "assets/posts/submarine-fiber-optic-cables-pakistan-internet-resilience-guide_cover.jpg",
+    "cover_image": "assets/posts/submarine-fiber-optic-cables-pakistan-internet-resilience-guide_cover.jpg"
   },
   {
     "id": "digital-banking-licenses-pakistan-sbp-framework-explained",
@@ -101,7 +103,9 @@
       }
     ],
     "social_format": "card",
-    "lang": "en"
+    "lang": "en",
+    "image": "assets/posts/digital-banking-licenses-pakistan-sbp-framework-explained_cover.jpg",
+    "cover_image": "assets/posts/digital-banking-licenses-pakistan-sbp-framework-explained_cover.jpg"
   },
   {
     "id": "how-net-metering-works-pakistan-on-grid-solar-guide",
@@ -153,7 +157,9 @@
       }
     ],
     "social_format": "card",
-    "lang": "en"
+    "lang": "en",
+    "image": "assets/posts/how-net-metering-works-pakistan-on-grid-solar-guide_cover.jpg",
+    "cover_image": "assets/posts/how-net-metering-works-pakistan-on-grid-solar-guide_cover.jpg"
   },
   {
     "id": "pakistani-freelancers-receive-international-payments-legally",
@@ -205,7 +211,9 @@
       }
     ],
     "social_format": "card",
-    "lang": "en"
+    "lang": "en",
+    "image": "assets/posts/pakistani-freelancers-receive-international-payments-legally_cover.jpg",
+    "cover_image": "assets/posts/pakistani-freelancers-receive-international-payments-legally_cover.jpg"
   },
   {
     "id": "esim-pakistan-explained-how-it-works-phone-support",
@@ -257,7 +265,9 @@
       }
     ],
     "social_format": "card",
-    "lang": "en"
+    "lang": "en",
+    "image": "assets/posts/esim-pakistan-explained-how-it-works-phone-support_cover.jpg",
+    "cover_image": "assets/posts/esim-pakistan-explained-how-it-works-phone-support_cover.jpg"
   },
   {
     "id": "how-raast-works-guide-pakistan-instant-payment-system",
@@ -309,7 +319,9 @@
       }
     ],
     "social_format": "card",
-    "lang": "en"
+    "lang": "en",
+    "image": "assets/posts/how-raast-works-guide-pakistan-instant-payment-system_cover.jpg",
+    "cover_image": "assets/posts/how-raast-works-guide-pakistan-instant-payment-system_cover.jpg"
   },
   {
     "id": "ignite-moitt-15m-deep-tech-venture-studio-semiconductors-edge-ai",
@@ -357,7 +369,9 @@
       }
     ],
     "social_format": "card",
-    "lang": "en"
+    "lang": "en",
+    "image": "assets/posts/ignite-moitt-15m-deep-tech-venture-studio-semiconductors-edge-ai_cover.jpg",
+    "cover_image": "assets/posts/ignite-moitt-15m-deep-tech-venture-studio-semiconductors-edge-ai_cover.jpg"
   },
   {
     "id": "sbp-mandates-iso-20022-financial-messaging-raast-p2m",
@@ -405,7 +419,9 @@
       }
     ],
     "social_format": "card",
-    "lang": "en"
+    "lang": "en",
+    "image": "assets/posts/sbp-mandates-iso-20022-financial-messaging-raast-p2m_cover.jpg",
+    "cover_image": "assets/posts/sbp-mandates-iso-20022-financial-messaging-raast-p2m_cover.jpg"
   },
   {
     "id": "jazz-zong-telenor-national-5g-standalone-trials-islamabad-lahore",
@@ -453,7 +469,9 @@
       }
     ],
     "social_format": "card",
-    "lang": "en"
+    "lang": "en",
+    "image": "assets/posts/jazz-zong-telenor-national-5g-standalone-trials-islamabad-lahore_cover.jpg",
+    "cover_image": "assets/posts/jazz-zong-telenor-national-5g-standalone-trials-islamabad-lahore_cover.jpg"
   },
   {
     "id": "pec-standards-solid-state-ev-battery-packs-fast-chargers",
@@ -501,7 +519,9 @@
       }
     ],
     "social_format": "card",
-    "lang": "en"
+    "lang": "en",
+    "image": "assets/posts/pec-standards-solid-state-ev-battery-packs-fast-chargers_cover.jpg",
+    "cover_image": "assets/posts/pec-standards-solid-state-ev-battery-packs-fast-chargers_cover.jpg"
   },
   {
     "id": "secp-licenses-institutional-digital-asset-custodians-sandbox",
@@ -549,7 +569,9 @@
       }
     ],
     "social_format": "card",
-    "lang": "en"
+    "lang": "en",
+    "image": "assets/posts/secp-licenses-institutional-digital-asset-custodians-sandbox_cover.jpg",
+    "cover_image": "assets/posts/secp-licenses-institutional-digital-asset-custodians-sandbox_cover.jpg"
   },
   {
     "id": "ptcl-stza-120m-sovereign-hyperscale-ai-compute-cloud",
@@ -597,7 +619,9 @@
       }
     ],
     "social_format": "card",
-    "lang": "en"
+    "lang": "en",
+    "image": "assets/posts/ptcl-stza-120m-sovereign-hyperscale-ai-compute-cloud_cover.jpg",
+    "cover_image": "assets/posts/ptcl-stza-120m-sovereign-hyperscale-ai-compute-cloud_cover.jpg"
   },
   {
     "id": "sindh-high-court-establishes-judicial-precede-482f2896",
@@ -646,7 +670,8 @@
       }
     ],
     "social_format": "card",
-    "lang": "en"
+    "lang": "en",
+    "image_url": "assets/posts/sindh-high-court-establishes-judicial-precede-482f2896_cover.jpg"
   },
   {
     "id": "national-electric-vehicle-policy-2.0-sbp-ease-3a93582c",
@@ -695,7 +720,8 @@
       }
     ],
     "social_format": "card",
-    "lang": "en"
+    "lang": "en",
+    "image_url": "assets/posts/national-electric-vehicle-policy-2.0-sbp-ease-3a93582c_cover.jpg"
   },
   {
     "id": "state-bank-expands-exporters-specialized-fore-a8511c65",
@@ -744,7 +770,8 @@
       }
     ],
     "social_format": "card",
-    "lang": "en"
+    "lang": "en",
+    "image_url": "assets/posts/state-bank-expands-exporters-specialized-fore-a8511c65_cover.jpg"
   },
   {
     "id": "special-technology-zones-authority-approves-1-f22633b4",
@@ -793,7 +820,8 @@
       }
     ],
     "social_format": "card",
-    "lang": "en"
+    "lang": "en",
+    "image_url": "assets/posts/special-technology-zones-authority-approves-1-f22633b4_cover.jpg"
   },
   {
     "id": "nepra-approves-industrial-solar-wheeling-fram-b039",
@@ -838,7 +866,9 @@
       }
     ],
     "social_format": "card",
-    "lang": "en"
+    "lang": "en",
+    "cover_image": "assets/posts/nepra-approves-industrial-solar-wheeling-fram-b039_cover.jpg",
+    "image_url": "assets/posts/nepra-approves-industrial-solar-wheeling-fram-b039_cover.jpg"
   },
   {
     "id": "fbr-mandates-real-time-digital-invoicing-for--c9be",
@@ -883,7 +913,9 @@
       }
     ],
     "social_format": "card",
-    "lang": "en"
+    "lang": "en",
+    "cover_image": "assets/posts/fbr-mandates-real-time-digital-invoicing-for--c9be_cover.jpg",
+    "image_url": "assets/posts/fbr-mandates-real-time-digital-invoicing-for--c9be_cover.jpg"
   },
   {
     "id": "ministry-of-it-establishes-pakistan-sovereign-bea8",
@@ -928,7 +960,9 @@
       }
     ],
     "social_format": "card",
-    "lang": "en"
+    "lang": "en",
+    "cover_image": "assets/posts/ministry-of-it-establishes-pakistan-sovereign-bea8_cover.jpg",
+    "image_url": "assets/posts/ministry-of-it-establishes-pakistan-sovereign-bea8_cover.jpg"
   },
   {
     "id": "pta-finalizes-5g-spectrum-auction-framework-3-0767",
@@ -973,7 +1007,9 @@
       }
     ],
     "social_format": "card",
-    "lang": "en"
+    "lang": "en",
+    "cover_image": "assets/posts/pta-finalizes-5g-spectrum-auction-framework-3-0767_cover.jpg",
+    "image_url": "assets/posts/pta-finalizes-5g-spectrum-auction-framework-3-0767_cover.jpg"
   },
   {
     "id": "state-bank-of-pakistan-integrates-raast-with--5b03",
@@ -1022,7 +1058,9 @@
       }
     ],
     "social_format": "card",
-    "lang": "en"
+    "lang": "en",
+    "cover_image": "assets/posts/state-bank-of-pakistan-integrates-raast-with--5b03_cover.jpg",
+    "image_url": "assets/posts/state-bank-of-pakistan-integrates-raast-with--5b03_cover.jpg"
   },
   {
     "id": "india-is-treating-starlink-like-pakistan-2f65",
@@ -1074,7 +1112,9 @@
       }
     ],
     "social_format": "card",
-    "lang": "en"
+    "lang": "en",
+    "cover_image": "assets/posts/india-is-treating-starlink-like-pakistan-2f65_cover.jpg",
+    "image_url": "assets/posts/india-is-treating-starlink-like-pakistan-2f65_cover.jpg"
   },
   {
     "id": "petrol-cheaper-first-time-since-september-c413",
@@ -1126,7 +1166,9 @@
       }
     ],
     "social_format": "card",
-    "lang": "en"
+    "lang": "en",
+    "cover_image": "assets/posts/petrol-cheaper-first-time-since-september-c413_cover.jpg",
+    "image_url": "assets/posts/petrol-cheaper-first-time-since-september-c413_cover.jpg"
   },
   {
     "id": "browser-session-hijacking-corporate-cloud-security",
@@ -1183,7 +1225,9 @@
       }
     ],
     "social_format": "card",
-    "lang": "en"
+    "lang": "en",
+    "cover_image": "assets/posts/browser-session-hijacking-corporate-cloud-security_cover.jpg",
+    "image_url": "assets/posts/browser-session-hijacking-corporate-cloud-security_cover.jpg"
   },
   {
     "id": "cda-to-spend-rs-300-million-on-pm-office-and--3fcf",
@@ -1235,7 +1279,9 @@
       }
     ],
     "social_format": "card",
-    "lang": "en"
+    "lang": "en",
+    "cover_image": "assets/posts/cda-to-spend-rs-300-million-on-pm-office-and--3fcf_cover.jpg",
+    "image_url": "assets/posts/cda-to-spend-rs-300-million-on-pm-office-and--3fcf_cover.jpg"
   },
   {
     "id": "ecc-clears-11-of-total-rs-18-billion-election-5f2c",
@@ -1287,7 +1333,9 @@
       }
     ],
     "social_format": "card",
-    "lang": "en"
+    "lang": "en",
+    "cover_image": "assets/posts/ecc-clears-11-of-total-rs-18-billion-election-5f2c_cover.jpg",
+    "image_url": "assets/posts/ecc-clears-11-of-total-rs-18-billion-election-5f2c_cover.jpg"
   },
   {
     "id": "petrol-more-expensive-6th-day-in-a-row-d9e0",
@@ -1339,7 +1387,9 @@
       }
     ],
     "social_format": "card",
-    "lang": "en"
+    "lang": "en",
+    "cover_image": "assets/posts/petrol-more-expensive-6th-day-in-a-row-d9e0_cover.jpg",
+    "image_url": "assets/posts/petrol-more-expensive-6th-day-in-a-row-d9e0_cover.jpg"
   },
   {
     "id": "pta-can-block-or-remove-unlawful-online-conte-2038",
@@ -1391,7 +1441,9 @@
       }
     ],
     "social_format": "card",
-    "lang": "en"
+    "lang": "en",
+    "cover_image": "assets/posts/pta-can-block-or-remove-unlawful-online-conte-2038_cover.jpg",
+    "image_url": "assets/posts/pta-can-block-or-remove-unlawful-online-conte-2038_cover.jpg"
   },
   {
     "id": "pakistan-to-suspend-mobile-services-for-sim-u-5788",
@@ -1443,7 +1495,9 @@
       }
     ],
     "social_format": "card",
-    "lang": "en"
+    "lang": "en",
+    "cover_image": "assets/posts/pakistan-to-suspend-mobile-services-for-sim-u-5788_cover.jpg",
+    "image_url": "assets/posts/pakistan-to-suspend-mobile-services-for-sim-u-5788_cover.jpg"
   },
   {
     "id": "pakistan-says-owner-s-consent-mandatory-to-us-e1b1",
@@ -1495,7 +1549,9 @@
       }
     ],
     "social_format": "card",
-    "lang": "en"
+    "lang": "en",
+    "cover_image": "assets/posts/pakistan-says-owner-s-consent-mandatory-to-us-e1b1_cover.jpg",
+    "image_url": "assets/posts/pakistan-says-owner-s-consent-mandatory-to-us-e1b1_cover.jpg"
   },
   {
     "id": "murree-university-gets-pink-buses-for-female--c207",
@@ -1547,7 +1603,9 @@
       }
     ],
     "social_format": "card",
-    "lang": "en"
+    "lang": "en",
+    "cover_image": "assets/posts/murree-university-gets-pink-buses-for-female--c207_cover.jpg",
+    "image_url": "assets/posts/murree-university-gets-pink-buses-for-female--c207_cover.jpg"
   },
   {
     "id": "punjab-special-economic-zones-attract-rs-76-b-3043",
@@ -1591,7 +1649,9 @@
       }
     ],
     "social_format": "card",
-    "lang": "en"
+    "lang": "en",
+    "cover_image": "assets/posts/punjab-special-economic-zones-attract-rs-76-b-3043_cover.jpg",
+    "image_url": "assets/posts/punjab-special-economic-zones-attract-rs-76-b-3043_cover.jpg"
   },
   {
     "id": "spotify-expands-audiobooks-streaming-catalog--0167",
@@ -1635,7 +1695,9 @@
       }
     ],
     "social_format": "card",
-    "lang": "en"
+    "lang": "en",
+    "cover_image": "assets/posts/spotify-expands-audiobooks-streaming-catalog--0167_cover.jpg",
+    "image_url": "assets/posts/spotify-expands-audiobooks-streaming-catalog--0167_cover.jpg"
   },
   {
     "id": "pakistan-s-unikrew-solutions-clinches-asocio--6778",
@@ -1679,7 +1741,9 @@
       }
     ],
     "social_format": "card",
-    "lang": "en"
+    "lang": "en",
+    "cover_image": "assets/posts/pakistan-s-unikrew-solutions-clinches-asocio--6778_cover.jpg",
+    "image_url": "assets/posts/pakistan-s-unikrew-solutions-clinches-asocio--6778_cover.jpg"
   },
   {
     "id": "pakistan-tech-delegation-showcases-frontier-a-2683",
@@ -1723,7 +1787,9 @@
       }
     ],
     "social_format": "card",
-    "lang": "en"
+    "lang": "en",
+    "cover_image": "assets/posts/pakistan-tech-delegation-showcases-frontier-a-2683_cover.jpg",
+    "image_url": "assets/posts/pakistan-tech-delegation-showcases-frontier-a-2683_cover.jpg"
   },
   {
     "id": "ncert-and-ntc-issue-critical-advisory-on-weak-7710",
@@ -1771,7 +1837,9 @@
       }
     ],
     "social_format": "card",
-    "lang": "en"
+    "lang": "en",
+    "cover_image": "assets/posts/ncert-and-ntc-issue-critical-advisory-on-weak-7710_cover.jpg",
+    "image_url": "assets/posts/ncert-and-ntc-issue-critical-advisory-on-weak-7710_cover.jpg"
   },
   {
     "id": "google-launches-playground-to-let-anyone-buil-5408",
@@ -1823,7 +1891,9 @@
       }
     ],
     "social_format": "card",
-    "lang": "en"
+    "lang": "en",
+    "cover_image": "assets/posts/google-launches-playground-to-let-anyone-buil-5408_cover.jpg",
+    "image_url": "assets/posts/google-launches-playground-to-let-anyone-buil-5408_cover.jpg"
   },
   {
     "id": "sbp-reserves-gain-15-million-9518",
@@ -1875,7 +1945,9 @@
       }
     ],
     "social_format": "card",
-    "lang": "en"
+    "lang": "en",
+    "cover_image": "assets/posts/sbp-reserves-gain-15-million-9518_cover.jpg",
+    "image_url": "assets/posts/sbp-reserves-gain-15-million-9518_cover.jpg"
   },
   {
     "id": "jazz-launches-5g-campaign-focused-on-customer-6360",
@@ -1919,7 +1991,9 @@
       }
     ],
     "social_format": "card",
-    "lang": "en"
+    "lang": "en",
+    "cover_image": "assets/posts/jazz-launches-5g-campaign-focused-on-customer-6360_cover.jpg",
+    "image_url": "assets/posts/jazz-launches-5g-campaign-focused-on-customer-6360_cover.jpg"
   },
   {
     "id": "pta-reports-88-overall-blocking-rate-in-socia-40c3",
@@ -1967,7 +2041,9 @@
       }
     ],
     "social_format": "card",
-    "lang": "en"
+    "lang": "en",
+    "cover_image": "assets/posts/pta-reports-88-overall-blocking-rate-in-socia-40c3_cover.jpg",
+    "image_url": "assets/posts/pta-reports-88-overall-blocking-rate-in-socia-40c3_cover.jpg"
   },
   {
     "id": "national-semiconductor-lab-riscv-silicon-tapeout",
@@ -2034,7 +2110,9 @@
     ],
     "social_format": "card",
     "lang": "en",
-    "image": "assets/posts/national-semiconductor-lab-riscv-silicon-tapeout_cover.jpg"
+    "image": "assets/posts/national-semiconductor-lab-riscv-silicon-tapeout_cover.jpg",
+    "cover_image": "assets/posts/national-semiconductor-lab-riscv-silicon-tapeout_cover.jpg",
+    "image_url": "assets/posts/national-semiconductor-lab-riscv-silicon-tapeout_cover.jpg"
   },
   {
     "id": "sbp-digital-retail-bank-charters-launch",
@@ -2101,7 +2179,9 @@
     ],
     "social_format": "card",
     "lang": "en",
-    "image": "assets/posts/sbp-digital-retail-bank-charters-launch_cover.jpg"
+    "image": "assets/posts/sbp-digital-retail-bank-charters-launch_cover.jpg",
+    "cover_image": "assets/posts/sbp-digital-retail-bank-charters-launch_cover.jpg",
+    "image_url": "assets/posts/sbp-digital-retail-bank-charters-launch_cover.jpg"
   },
   {
     "id": "pakistan-first-sovereign-gpu-cloud-islamabad",
@@ -2168,7 +2248,9 @@
     ],
     "social_format": "card",
     "lang": "en",
-    "image": "assets/posts/pakistan-first-sovereign-gpu-cloud-islamabad_cover.jpg"
+    "image": "assets/posts/pakistan-first-sovereign-gpu-cloud-islamabad_cover.jpg",
+    "cover_image": "assets/posts/pakistan-first-sovereign-gpu-cloud-islamabad_cover.jpg",
+    "image_url": "assets/posts/pakistan-first-sovereign-gpu-cloud-islamabad_cover.jpg"
   },
   {
     "id": "pta-5g-c-band-spectrum-auction-blueprint",
@@ -2235,7 +2317,9 @@
     ],
     "social_format": "card",
     "lang": "en",
-    "image": "assets/posts/pta-5g-c-band-spectrum-auction-blueprint_cover.jpg"
+    "image": "assets/posts/pta-5g-c-band-spectrum-auction-blueprint_cover.jpg",
+    "cover_image": "assets/posts/pta-5g-c-band-spectrum-auction-blueprint_cover.jpg",
+    "image_url": "assets/posts/pta-5g-c-band-spectrum-auction-blueprint_cover.jpg"
   },
   {
     "id": "solar-net-metering-overhaul-battery-storage",
@@ -2302,7 +2386,9 @@
     ],
     "social_format": "card",
     "lang": "en",
-    "image": "assets/posts/solar-net-metering-overhaul-battery-storage_cover.jpg"
+    "image": "assets/posts/solar-net-metering-overhaul-battery-storage_cover.jpg",
+    "cover_image": "assets/posts/solar-net-metering-overhaul-battery-storage_cover.jpg",
+    "image_url": "assets/posts/solar-net-metering-overhaul-battery-storage_cover.jpg"
   },
   {
     "id": "pakistan-s-youth-digital-leap-how-t-135",
@@ -2354,7 +2440,9 @@
       }
     ],
     "social_format": "carousel",
-    "lang": "en"
+    "lang": "en",
+    "cover_image": "assets/posts/pakistan-s-youth-digital-leap-how-t-135_cover.jpg",
+    "image_url": "assets/posts/pakistan-s-youth-digital-leap-how-t-135_cover.jpg"
   },
   {
     "id": "get-raast-p2p-asaan-digital-account-655",
@@ -2406,7 +2494,9 @@
       }
     ],
     "social_format": "card",
-    "lang": "en"
+    "lang": "en",
+    "cover_image": "assets/posts/get-raast-p2p-asaan-digital-account-655_cover.jpg",
+    "image_url": "assets/posts/get-raast-p2p-asaan-digital-account-655_cover.jpg"
   },
   {
     "id": "don-t-lose-lakhs-your-ultimate-used-413",
@@ -2458,7 +2548,9 @@
       }
     ],
     "social_format": "carousel",
-    "lang": "en"
+    "lang": "en",
+    "cover_image": "assets/posts/don-t-lose-lakhs-your-ultimate-used-413_cover.jpg",
+    "image_url": "assets/posts/don-t-lose-lakhs-your-ultimate-used-413_cover.jpg"
   },
   {
     "id": "pta-tax-relief-new-import-rules-395",
@@ -2484,7 +2576,9 @@
       "Potential 30% reduction on duty for specific smartphone categories.",
       "Expected to curb grey market and boost legal device imports."
     ],
-    "author_role": "Automotive & Mobility Correspondent"
+    "author_role": "Automotive & Mobility Correspondent",
+    "cover_image": "assets/posts/pta-tax-relief-new-import-rules-395_cover.jpg",
+    "image_url": "assets/posts/pta-tax-relief-new-import-rules-395_cover.jpg"
   },
   {
     "id": "starlink-coming-pta-registers-space-157",
@@ -2510,7 +2604,9 @@
       "Move sparks widespread speculation about Starlink's imminent commercial launch.",
       "Experts foresee major impact on remote connectivity and internet accessibility."
     ],
-    "author_role": "Education & Policy Editor"
+    "author_role": "Education & Policy Editor",
+    "cover_image": "assets/posts/starlink-coming-pta-registers-space-157_cover.jpg",
+    "image_url": "assets/posts/starlink-coming-pta-registers-space-157_cover.jpg"
   },
   {
     "id": "solar-panel-prices-hit-record-low-845",
@@ -2536,7 +2632,9 @@
       "Market crash triggered by massive inventory surplus and global manufacturing oversupply.",
       "Ideal window for residential and industrial solar transitions before potential import curbs."
     ],
-    "author_role": "Consumer Tech & Gadgets Reviewer"
+    "author_role": "Consumer Tech & Gadgets Reviewer",
+    "cover_image": "assets/posts/solar-panel-prices-hit-record-low-845_cover.jpg",
+    "image_url": "assets/posts/solar-panel-prices-hit-record-low-845_cover.jpg"
   },
   {
     "id": "pakistan-s-ev-dream-just-got-cheape-465",
@@ -2562,7 +2660,9 @@
       "Aims to cut local EV prices by up to 15-20% for consumers.",
       "Boosts local manufacturing, creating jobs & tech transfer."
     ],
-    "author_role": "Public Services & Utility Specialist"
+    "author_role": "Public Services & Utility Specialist",
+    "cover_image": "assets/posts/pakistan-s-ev-dream-just-got-cheape-465_cover.jpg",
+    "image_url": "assets/posts/pakistan-s-ev-dream-just-got-cheape-465_cover.jpg"
   },
   {
     "id": "mobile-tax-hikes-588",
@@ -2588,7 +2688,9 @@
       "Grey market devices now carry higher financial risk and potential blocking.",
       "Verify PTA approval before any smartphone purchase to avoid surprises."
     ],
-    "author_role": "Chief Technology Editor"
+    "author_role": "Chief Technology Editor",
+    "cover_image": "assets/posts/mobile-tax-hikes-588_cover.jpg",
+    "image_url": "assets/posts/mobile-tax-hikes-588_cover.jpg"
   },
   {
     "id": "pakistan-5g-spectrum-auction-dossier",
@@ -2614,7 +2716,9 @@
       "300 MHz of combined C-Band spectrum slated for multi-round competitive bidding.",
       "Operators receive tariff concessions on dark fiber leasing to accelerate BTS backhaul fiberization.",
       "Expected to generate over $600M in non-tax revenue while catalyzing digital economy growth."
-    ]
+    ],
+    "cover_image": "assets/posts/pakistan-5g-spectrum-auction-dossier_cover.jpg",
+    "image_url": "assets/posts/pakistan-5g-spectrum-auction-dossier_cover.jpg"
   },
   {
     "id": "it-exports-milestone-record-high",
@@ -2640,7 +2744,9 @@
       "IT exports expanded 24.6% year-on-year, outperforming traditional textile export growth.",
       "Enterprise contracts from the Gulf Cooperation Council (GCC) surged by 42% following bilateral trade pacts.",
       "Over 450,000 active remote engineers and digital freelancers contribute $1.2B in informal inflows."
-    ]
+    ],
+    "cover_image": "assets/posts/it-exports-milestone-record-high_cover.jpg",
+    "image_url": "assets/posts/it-exports-milestone-record-high_cover.jpg"
   },
   {
     "id": "generative-ai-startup-funding-boom",
@@ -2666,7 +2772,9 @@
       "Q3 deep-tech venture funding rose 38% compared to the previous quarter.",
       "Urdu-specific foundational language models achieved 91.2% benchmark accuracy on local judicial text.",
       "Institutional syndicates from the UAE and Singapore participated in 70% of oversubscribed seed rounds."
-    ]
+    ],
+    "cover_image": "assets/posts/generative-ai-startup-funding-boom_cover.jpg",
+    "image_url": "assets/posts/generative-ai-startup-funding-boom_cover.jpg"
   },
   {
     "id": "raast-instant-payments-revolution",
@@ -2692,7 +2800,9 @@
       "Daily Raast transaction volumes now exceed PKR 18 billion across commercial banks and microfinance institutions.",
       "Zero MDR fee policy has driven a 160% increase in small-merchant QR acceptance.",
       "Credit-scoring algorithms use transaction frequency to approve Nano-credit loans in under 60 seconds."
-    ]
+    ],
+    "cover_image": "assets/posts/raast-instant-payments-revolution_cover.jpg",
+    "image_url": "assets/posts/raast-instant-payments-revolution_cover.jpg"
   },
   {
     "id": "semiconductor-chip-design-initiative",
@@ -2718,7 +2828,9 @@
       "Over 1,200 VLSI and chip layout engineers certified under national specialized training initiatives.",
       "RISC-V open-source cores eliminate multimillion-dollar upfront architecture licensing fees.",
       "First commercial automotive telemetry chips deployed across domestic EV two-wheeler manufacturers."
-    ]
+    ],
+    "cover_image": "assets/posts/semiconductor-chip-design-initiative_cover.jpg",
+    "image_url": "assets/posts/semiconductor-chip-design-initiative_cover.jpg"
   },
   {
     "id": "ev-manufacturing-battery-ecosystem",
@@ -2744,7 +2856,9 @@
       "Electric two-wheeler sales grew 210% over the last four quarters nationwide.",
       "Standard LFP battery chemistries deliver over 2,000 charging cycles with a 5-year operational lifespan.",
       "Widespread adoption projected to save the national exchequer over $1.5B annually in refined fuel imports."
-    ]
+    ],
+    "cover_image": "assets/posts/ev-manufacturing-battery-ecosystem_cover.jpg",
+    "image_url": "assets/posts/ev-manufacturing-battery-ecosystem_cover.jpg"
   },
   {
     "id": "phone-prices-soar-budget-shockwave--889",
@@ -2770,6 +2884,8 @@
       "Impacts all price segments, from entry-level to premium smartphones.",
       "Potential shift towards refurbished phones & longer device retention."
     ],
-    "author_role": "Chief Technology Editor"
+    "author_role": "Chief Technology Editor",
+    "cover_image": "assets/posts/phone-prices-soar-budget-shockwave--889_cover.jpg",
+    "image_url": "assets/posts/phone-prices-soar-budget-shockwave--889_cover.jpg"
   }
 ]
