@@ -31,6 +31,32 @@
     <priority>0.75</priority>
   </url>
   <url>
+    <loc>https://pro-pakistan.github.io/page/6/</loc>
+    <lastmod>2026-10-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://pro-pakistan.github.io/posts/pta-allocates-millimeter-wave-and-mid-band-sp-c9a77d21/</loc>
+    <lastmod>2026-10-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <ns0:image>
+      <ns0:loc>https://pro-pakistan.github.io/assets/posts/pta-allocates-millimeter-wave-and-mid-band-sp-c9a77d21_cover.jpg</ns0:loc>
+      <ns0:title>PTA Allocates Millimeter-Wave and Mid-Band Spectrum for Private 5G Enterprise Networks in Industrial Corridors</ns0:title>
+    </ns0:image>
+  </url>
+  <url>
+    <loc>https://pro-pakistan.github.io/posts/state-bank-of-pakistan-and-secp-unveil-unifie-138242b7/</loc>
+    <lastmod>2026-10-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <ns0:image>
+      <ns0:loc>https://pro-pakistan.github.io/assets/posts/state-bank-of-pakistan-and-secp-unveil-unifie-138242b7_cover.jpg</ns0:loc>
+      <ns0:title>State Bank of Pakistan and SECP Unveil Unified Regulatory Framework for Open Banking APIs and FinTech Account Aggregation</ns0:title>
+    </ns0:image>
+  </url>
+  <url>
     <loc>https://pro-pakistan.github.io/posts/submarine-fiber-optic-cables-pakistan-internet-resilience-guide/</loc>
     <lastmod>2026-10-18</lastmod>
     <changefreq>weekly</changefreq>

@@ -1,5 +1,113 @@
 [
   {
+    "id": "pta-allocates-millimeter-wave-and-mid-band-sp-c9a77d21",
+    "title": "PTA Allocates Millimeter-Wave and Mid-Band Spectrum for Private 5G Enterprise Networks in Industrial Corridors",
+    "subdeck": "A major policy shift allows logistics hubs, automated manufacturing plants, and seaport terminals in Karachi and Gwadar to deploy dedicated, low-latency private 5G slices.",
+    "category": "5G & Telecom",
+    "badge": "5G BACKHAUL",
+    "stat_number": "28 GHZ",
+    "stat_label": "ENTERPRISE SPECTRUM",
+    "image": "assets/posts/pta-allocates-millimeter-wave-and-mid-band-sp-c9a77d21_cover.jpg",
+    "cover_image": "assets/posts/pta-allocates-millimeter-wave-and-mid-band-sp-c9a77d21_cover.jpg",
+    "image_url": "assets/posts/pta-allocates-millimeter-wave-and-mid-band-sp-c9a77d21_cover.jpg",
+    "author": "Zeeshan Ahmed",
+    "author_role": "Principal Telecom & Cloud Analyst",
+    "author_avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=120&h=120&fit=crop",
+    "date": "18 Oct 2026",
+    "read_time": "5 min read",
+    "featured": false,
+    "body": [
+      "The Pakistan Telecommunication Authority (PTA) has published dedicated licensing guidelines allowing industrial facilities, logistics operators, and port authorities to acquire localized private 5G spectrum allocations across the 3.8 GHz to 4.2 GHz and 28 GHz millimeter-wave bands.",
+      "Unlike commercial public cellular licenses that span nationwide territorial concessions, these private enterprise allocations are geographically fenced to manufacturing campuses, free trade zones, and marine terminals, providing sub-millisecond latencies and dedicated localized bandwidth.",
+      "Industrial automation engineers cite high-density factory robotics, autonomous guided vehicles in port logistics, and remote telemetry monitoring as prime beneficiaries of campus-confined private 5G networks, bypassing external cellular network congestion."
+    ],
+    "sections": [
+      {
+        "heading": "Campus-Bound Frequencies and Interference Protection",
+        "content": "To prevent interference with commercial mobile operators preparing for public 5G auctions, the PTA has designated dedicated spectrum blocks and implemented dynamic geo-location database coordination. Transmit power levels are strictly calibrated to campus boundaries."
+      },
+      {
+        "heading": "Transforming Marine Terminals in Karachi and Gwadar",
+        "content": "Container terminal operations at Port Qasim and the Port of Gwadar are slated to become the earliest deployment testbeds. Autonomous container straddle carriers, optical character recognition crane scanners, and automated yard logistics require constant high-throughput uplink bandwidth that traditional enterprise Wi-Fi 6 struggle to guarantee."
+      },
+      {
+        "heading": "Domestic Private Network Integrator Ecosystem",
+        "content": "The licensing regime also fosters domestic systems integrators and software engineering firms, enabling them to bundle Open-RAN software stacks, edge computing servers, and local core network appliances for industrial clients at competitive capital expenditure profiles."
+      }
+    ],
+    "takeaways": [
+      "PTA designates dedicated 3.8-4.2 GHz and 28 GHz spectrum for campus-confined private 5G enterprise networks.",
+      "Early deployment focus centers on port logistics in Karachi and automated manufacturing in special economic zones.",
+      "Sub-5ms latencies and dedicated uplink channels eliminate reliance on congested public commercial towers."
+    ],
+    "faqs": [
+      {
+        "question": "Can regular smartphone users connect to private 5G enterprise networks?",
+        "answer": "No. Private enterprise networks require proprietary enterprise SIM/eSIM profiles and utilize restricted subscriber databases accessible only to authorized campus devices."
+      },
+      {
+        "question": "Are commercial telecom operators required to broker private 5G licenses?",
+        "answer": "Enterprises can either partner with licensed telecommunication operators or apply directly for localized campus micro-licenses under PTA's private network sandbox."
+      }
+    ],
+    "social_format": "card",
+    "lang": "en"
+  },
+  {
+    "id": "state-bank-of-pakistan-and-secp-unveil-unifie-138242b7",
+    "title": "State Bank of Pakistan and SECP Unveil Unified Regulatory Framework for Open Banking APIs and FinTech Account Aggregation",
+    "subdeck": "The new framework mandates standardized RESTful open banking APIs across all commercial banks, enabling licensed fintechs to aggregate transaction telemetry with end-to-end tokenized customer consent.",
+    "category": "Fintech & Banking",
+    "badge": "OPEN BANKING",
+    "stat_number": "18 BANKS",
+    "stat_label": "OPEN API MANDATE",
+    "image": "assets/posts/state-bank-of-pakistan-and-secp-unveil-unifie-138242b7_cover.jpg",
+    "cover_image": "assets/posts/state-bank-of-pakistan-and-secp-unveil-unifie-138242b7_cover.jpg",
+    "image_url": "assets/posts/state-bank-of-pakistan-and-secp-unveil-unifie-138242b7_cover.jpg",
+    "author": "Fatima Noor",
+    "author_role": "Fintech & Regulatory Analyst",
+    "author_avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=120&h=120&fit=crop",
+    "date": "18 Oct 2026",
+    "read_time": "6 min read",
+    "featured": true,
+    "body": [
+      "The State Bank of Pakistan (SBP), in close coordination with the Securities and Exchange Commission of Pakistan (SECP), has officially released its Comprehensive Open Banking Regulatory Framework, setting mandatory technical and security guidelines for financial data interoperability.",
+      "Under the directive, all eighteen domestic commercial banks and digital retail bank licensees must publish standardized RESTful Application Programming Interfaces (APIs). These interfaces will allow authorized non-bank financial institutions and payment service operators to retrieve account statements, verify transaction histories, and initiate account-to-account settlements with explicit customer authorization.",
+      "Crucially, the regulatory standard strictly prohibits screen-scraping practices and credential sharing. Instead, the framework establishes OAuth 2.0 and FAPI (Financial-grade API) protocols with time-delimited cryptographic tokens, granting account holders granular control over which third-party applications can inspect their financial telemetry."
+    ],
+    "sections": [
+      {
+        "heading": "Standardizing the API Architecture and ISO 20022 Interoperability",
+        "content": "To prevent proprietary lock-in, the framework establishes a unified data dictionary aligned with the global ISO 20022 messaging standard. By harmonizing payload structures across credit institutions, developers can integrate account aggregation, payroll reconciliation, and SME credit assessment tools without creating bank-specific custom adapters."
+      },
+      {
+        "heading": "Algorithmic Underwriting for the Unbanked and Micro-Enterprises",
+        "content": "Access to real-time, verified bank statements is expected to transform micro-enterprise lending across Pakistan. Informal businesses that historically struggled to produce collateralized auditing records can now leverage cash-flow telemetry directly from their merchant accounts, slashing loan disbursement approval cycles from weeks to minutes."
+      },
+      {
+        "heading": "Consumer Data Sovereignty and Revocation Rights",
+        "content": "The central bank has mandated that all banking mobile applications integrate a dedicated 'Connected Apps' dashboard. Users can inspect active third-party permissions at any moment, review specific data categories shared, and instantly terminate access tokens with immediate cryptographic invalidation."
+      }
+    ],
+    "takeaways": [
+      "All commercial and digital retail banks must expose standardized FAPI-compliant Open Banking APIs.",
+      "Third-party screen-scraping is formally banned in favor of secure OAuth 2.0 tokenized authorization.",
+      "Unified ISO 20022 integration accelerates credit scoring for micro-enterprises and self-employed professionals."
+    ],
+    "faqs": [
+      {
+        "question": "Does Open Banking allow third parties to withdraw funds without permission?",
+        "answer": "No. Payment initiation requires multi-factor cryptographic authorization for every transaction, and data-sharing permissions do not grant unmonitored debit access."
+      },
+      {
+        "question": "When will commercial banks complete their open API rollouts?",
+        "answer": "Tier-1 commercial banks must deploy read-only telemetry APIs by Q1 2027, followed by payment initiation capabilities across all institutions by mid-2027."
+      }
+    ],
+    "social_format": "card",
+    "lang": "en"
+  },
+  {
     "id": "submarine-fiber-optic-cables-pakistan-internet-resilience-guide",
     "category": "5G & Telecom",
     "badge": "INFRASTRUCTURE",
@@ -121,7 +229,7 @@
     "date": "14 Oct 2026",
     "read_time": "6 min read",
     "image_url": "assets/posts/how-net-metering-works-pakistan-on-grid-solar-guide_cover.jpg",
-    "featured": true,
+    "featured": false,
     "body": [
       "With electricity tariffs climbing across Pakistan, residential on-grid solar photovoltaic systems combined with net metering have become the standard long-term hedge against escalating utility bills.",
       "Net metering enables homeowners to export surplus solar energy generated during sunny daylight hours directly into the national grid. A specialized bidirectional meter tracks energy sent to the distribution company against power imported during nighttime or cloudy weather.",
