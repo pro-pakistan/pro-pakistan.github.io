@@ -1,5 +1,167 @@
 [
   {
+    "id": "it-export-inward-remittances-cross-$380m-mont-9948764f",
+    "title": "IT Export Inward Remittances Cross $380M Monthly Milestone: Freelance Guilds and Tier-2 Offshore Development Centers Drive Growth",
+    "subdeck": "State Bank of Pakistan data confirms record monthly export receipts as regulatory foreign currency retention incentives encourage offshore tech founders to repatriate international revenues legally.",
+    "category": "Digital Economy",
+    "badge": "EXPORT REVENUE",
+    "stat_number": "$380M",
+    "stat_label": "MONTHLY EXPORTS",
+    "image": "assets/posts/it-export-inward-remittances-cross-$380m-mont-9948764f_cover.jpg",
+    "cover_image": "assets/posts/it-export-inward-remittances-cross-$380m-mont-9948764f_cover.jpg",
+    "image_url": "assets/posts/it-export-inward-remittances-cross-$380m-mont-9948764f_cover.jpg",
+    "author": "Ayesha Khan",
+    "author_role": "Digital Economy & E-Commerce Lead",
+    "author_avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=120&h=120&fit=crop",
+    "date": "18 Oct 2026",
+    "read_time": "5 min read",
+    "featured": false,
+    "body": [
+      "Pakistan's software export sector has achieved an unprecedented economic milestone, with monthly inward technology remittances exceeding $380 million according to official ledger data released by the State Bank of Pakistan.",
+      "The surge in documented exports is primarily attributed to progressive foreign exchange liberalization policies enacted over the preceding eighteen months, notably allowing licensed software exporters and specialized IT service companies to retain up to 50% of foreign currency receipts in specialized onshore foreign currency accounts.",
+      "In addition to established tier-1 IT corridors in Karachi and Lahore, significant export momentum is emerging from secondary technology hubs including Faisalabad, Multan, and Rawalpindi, where mid-market engineering agencies specialize in AI data infrastructure, mobile backend engineering, and cloud enterprise migrations."
+    ],
+    "sections": [
+      {
+        "heading": "The Impact of 50% Foreign Currency Retention Accounts",
+        "content": "Historically, rigid conversion mandates forced IT founders to convert all incoming revenues immediately to local currency at official bank rates, encouraging companies to park earnings in offshore jurisdictions. The ability to retain USD, pay overseas cloud infrastructure invoices, and disburse performance bonuses in foreign currency has drastically reduced offshore retention."
+      },
+      {
+        "heading": "Decentralization to Regional Engineering Hubs",
+        "content": "With commercial real estate overhead and living costs soaring in tier-1 metropolises, software export houses are opening satellite delivery centers in tier-2 industrial cities. Access to redundant optical fiber and abundant computer science graduates from regional engineering institutions provides competitive billing margins for international B2B contracts."
+      },
+      {
+        "heading": "High-Value AI Data Annotation and Agentic Workflow Engineering",
+        "content": "The composition of services exported is rapidly pivoting from low-margin basic web maintenance toward complex machine learning pipeline engineering, fine-tuning reasoning models, and building enterprise robotic process automation agents for enterprise clients in North America and the GCC."
+      }
+    ],
+    "takeaways": [
+      "Monthly IT export remittances reach a record high of $380 million with strong annualized momentum.",
+      "The 50% foreign exchange retention policy successfully incentivized offshore founders to repatriate earnings.",
+      "Tier-2 cities including Faisalabad and Multan are emerging as major cost-competitive offshore software hubs."
+    ],
+    "faqs": [
+      {
+        "question": "How can self-employed developers qualify for foreign currency retention accounts?",
+        "answer": "Freelancers and software contractors registered with the Pakistan Software Export Board (PSEB) can open specialized Exporters' Special Foreign Currency Accounts (ESFCAs) with any commercial bank."
+      },
+      {
+        "question": "What is the annual target for Pakistan's IT export revenue?",
+        "answer": "The Ministry of IT has targeted annualized IT export earnings of $4.5 billion for the current fiscal cycle."
+      }
+    ],
+    "social_format": "card",
+    "lang": "en"
+  },
+  {
+    "id": "national-electric-vehicle-charging-corridor-e-4de9fa51",
+    "title": "National Electric Vehicle Charging Corridor Expands Along M-2 Motorway: 180kW DC Fast Chargers Installed at Bhera and Sukheke",
+    "subdeck": "Motorway authorities and clean energy consortium activate multi-standard ultra-fast charging plazas, reducing EV highway transit times between Lahore and Islamabad to parity with combustion vehicles.",
+    "category": "Clean Tech & Mobility",
+    "badge": "EV CORRIDOR",
+    "stat_number": "180 KW",
+    "stat_label": "FAST-CHARGING POWER",
+    "image": "assets/posts/national-electric-vehicle-charging-corridor-e-4de9fa51_cover.jpg",
+    "cover_image": "assets/posts/national-electric-vehicle-charging-corridor-e-4de9fa51_cover.jpg",
+    "image_url": "assets/posts/national-electric-vehicle-charging-corridor-e-4de9fa51_cover.jpg",
+    "author": "Bilal Siddiqui",
+    "author_role": "Clean Energy & Infrastructure Analyst",
+    "author_avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=120&h=120&fit=crop",
+    "date": "18 Oct 2026",
+    "read_time": "5 min read",
+    "featured": false,
+    "body": [
+      "The National Highway Authority (NHA) in partnership with a private renewable infrastructure consortium has energized two high-capacity Electric Vehicle (EV) fast-charging hubs at the Bhera and Sukheke service areas along the 375-kilometer M-2 Lahore-Islamabad Motorway.",
+      "Each station houses four 180kW liquid-cooled DC fast chargers equipped with dual CCS2 and GB/T connectors, capable of replenishing contemporary 60kWh to 80kWh electric passenger vehicle battery packs from 15% to 80% state-of-charge in less than twenty-five minutes.",
+      "To shield the local regional distribution grid from catastrophic peak power spikes during holiday weekend travel surges, both charging plazas incorporate integrated 500kWh lithium iron phosphate battery energy storage systems (BESS) paired with rooftop solar canopies."
+    ],
+    "sections": [
+      {
+        "heading": "Overcoming Highway Range Anxiety and Connecting Urban Centers",
+        "content": "Intercity transit between Punjab's major urban metropolises has historically suffered from fragmented, low-power 22kW AC destination chargers that required four to six hours per recharge. Placing high-output DC chargers at exact mid-points eliminates range apprehension for electric sedans and compact SUVs."
+      },
+      {
+        "heading": "Battery Storage Buffers and Grid Stabilization",
+        "content": "Drawing 720kW of continuous electrical power directly from rural distribution feeders during high-temperature summer afternoons poses transformer overload risks. The integrated BESS units trickle-charge from off-peak grid power and solar arrays, discharging instantaneously when multiple vehicles initiate fast-charging."
+      },
+      {
+        "heading": "Unified Digital Payment and Open Charge Point Protocol (OCPP)",
+        "content": "The charging hubs operate on open OCPP 2.0.1 software stacks linked directly to the national Raast instant payment system, allowing drivers to scan a universal QR code on their smartphone banking app without downloading proprietary vendor-locked mobile wallets."
+      }
+    ],
+    "takeaways": [
+      "M-2 Motorway receives high-output 180kW dual-standard DC fast chargers at Sukheke and Bhera plazas.",
+      "Integrated 500kWh battery energy storage systems prevent grid instability during peak holiday demand.",
+      "Universal Raast QR integration enables seamless instant payments across all commercial banking apps."
+    ],
+    "faqs": [
+      {
+        "question": "How much does it cost to fast-charge an EV on the motorway?",
+        "answer": "Tariffs are set at commercial off-peak rates regulated by NEPRA, averaging approximately PKR 45 to PKR 55 per kilowatt-hour."
+      },
+      {
+        "question": "Can imported Japanese and Chinese EVs both use the motorway chargers?",
+        "answer": "Yes. The dual-gun dispensers feature native CCS2 and GB/T connector heads, supporting European, American, Chinese, and locally assembled electric vehicles."
+      }
+    ],
+    "social_format": "card",
+    "lang": "en"
+  },
+  {
+    "id": "national-quantum-computing-initiative-nust-an-e605a7e9",
+    "title": "National Quantum Computing Initiative: NUST and FAST-NUCES Partner to Launch Pakistan's First Post-Quantum Cryptography Testbed",
+    "subdeck": "Consortium of leading engineering universities deploys lattice-based encryption algorithms across simulated national banking grids to safeguard sovereign data from quantum decryption threats.",
+    "category": "Deep Tech & AI",
+    "badge": "QUANTUM SECURITY",
+    "stat_number": "256-BIT PQC",
+    "stat_label": "LATTICE ENCRYPTION",
+    "image": "assets/posts/national-quantum-computing-initiative-nust-an-e605a7e9_cover.jpg",
+    "cover_image": "assets/posts/national-quantum-computing-initiative-nust-an-e605a7e9_cover.jpg",
+    "image_url": "assets/posts/national-quantum-computing-initiative-nust-an-e605a7e9_cover.jpg",
+    "author": "Dr. Arsalan Baig",
+    "author_role": "Silicon Architect & Semiconductor Fellow",
+    "author_avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=120&h=120&fit=crop",
+    "date": "18 Oct 2026",
+    "read_time": "6 min read",
+    "featured": true,
+    "body": [
+      "A collaborative consortium led by the National University of Sciences and Technology (NUST) and FAST-NUCES has officially commissioned Pakistan's first Post-Quantum Cryptography (PQC) validation laboratory in Islamabad, marking a decisive milestone in national cybersecurity readiness.",
+      "With commercial quantum supercomputing architectures advancing toward practical Shor's algorithm execution, classical public-key infrastructure—including RSA-2048 and Elliptic Curve Diffie-Hellman—faces eventual mathematical obsolescence. The newly inaugurated testbed focuses on migrating domestic banking networks, government communications, and power grid SCADA telemetry to NIST-standardized lattice-based encryption schemes.",
+      "Under the pilot initiative supported by the Ministry of Information Technology, researchers are benchmarking hardware acceleration modules for CRYSTALS-Kyber and Dilithium algorithms on RISC-V silicon cores, evaluating computational latency and packet overhead across real-world commercial fiber backbones."
+    ],
+    "sections": [
+      {
+        "heading": "Migrating Sovereign Financial and Defense Telemetry",
+        "content": "The initial operational phase interfaces directly with inter-bank settlement switches and automated clearing houses. Security architects are implementing hybrid cryptographic envelopes that combine traditional SHA-3 and RSA with post-quantum lattice primitives, ensuring immediate backward compatibility without sacrificing future cryptographic resistance."
+      },
+      {
+        "heading": "RISC-V Hardware Acceleration and Silicon Prototyping",
+        "content": "Because post-quantum algorithms require significantly larger key sizes and polynomial multiplication routines, deploying them purely in software on edge routers degrades network throughput. The research team is developing dedicated hardware crypto-coprocessors taped out on open-source 28nm silicon shuttles."
+      },
+      {
+        "heading": "Developing Domestic Cryptographic Standards and Skilled Workforce",
+        "content": "Beyond laboratory benchmarks, the initiative includes a nationwide postgraduate fellowship program aimed at training over two hundred cryptographers, embedded security engineers, and systems analysts in post-quantum protocol formal verification over the next twenty-four months."
+      }
+    ],
+    "takeaways": [
+      "NUST and FAST-NUCES launch Pakistan's first operational post-quantum cryptography validation testbed.",
+      "Focus centers on NIST-approved CRYSTALS-Kyber and Dilithium lattice algorithms for banking and SCADA security.",
+      "Dedicated hardware crypto-coprocessors on RISC-V silicon mitigate computational overhead and latency."
+    ],
+    "faqs": [
+      {
+        "question": "What is post-quantum cryptography?",
+        "answer": "Post-quantum cryptography refers to cryptographic algorithms designed to run on classical computers that are mathematically proven to resist attacks by future quantum computers."
+      },
+      {
+        "question": "When must Pakistani commercial banks transition to post-quantum encryption?",
+        "answer": "The National Cyber Security Policy outlines a phased transition starting with critical infrastructure audits in 2027 and mandatory hybrid cryptographic deployments by 2030."
+      }
+    ],
+    "social_format": "card",
+    "lang": "en"
+  },
+  {
     "id": "pta-allocates-millimeter-wave-and-mid-band-sp-c9a77d21",
     "title": "PTA Allocates Millimeter-Wave and Mid-Band Spectrum for Private 5G Enterprise Networks in Industrial Corridors",
     "subdeck": "A major policy shift allows logistics hubs, automated manufacturing plants, and seaport terminals in Karachi and Gwadar to deploy dedicated, low-latency private 5G slices.",
@@ -69,7 +231,7 @@
     "author_avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=120&h=120&fit=crop",
     "date": "18 Oct 2026",
     "read_time": "6 min read",
-    "featured": true,
+    "featured": false,
     "body": [
       "The State Bank of Pakistan (SBP), in close coordination with the Securities and Exchange Commission of Pakistan (SECP), has officially released its Comprehensive Open Banking Regulatory Framework, setting mandatory technical and security guidelines for financial data interoperability.",
       "Under the directive, all eighteen domestic commercial banks and digital retail bank licensees must publish standardized RESTful Application Programming Interfaces (APIs). These interfaces will allow authorized non-bank financial institutions and payment service operators to retrieve account statements, verify transaction histories, and initiate account-to-account settlements with explicit customer authorization.",
