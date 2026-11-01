@@ -59,16 +59,16 @@
     "lang": "en"
   },
   {
-    "id": "it-export-inward-remittances-cross-$380m-mont-9948764f",
+    "id": "it-export-inward-remittances-cross-380m-monthly-milestone",
     "title": "IT Export Inward Remittances Cross $380M Monthly Milestone: Freelance Guilds and Tier-2 Offshore Development Centers Drive Growth",
     "subdeck": "State Bank of Pakistan data confirms record monthly export receipts as regulatory foreign currency retention incentives encourage offshore tech founders to repatriate international revenues legally.",
     "category": "Digital Economy",
     "badge": "EXPORT REVENUE",
     "stat_number": "$380M",
     "stat_label": "MONTHLY EXPORTS",
-    "image": "assets/posts/it-export-inward-remittances-cross-$380m-mont-9948764f_cover.jpg",
-    "cover_image": "assets/posts/it-export-inward-remittances-cross-$380m-mont-9948764f_cover.jpg",
-    "image_url": "assets/posts/it-export-inward-remittances-cross-$380m-mont-9948764f_cover.jpg",
+    "image": "assets/posts/it-export-inward-remittances-cross-380m-monthly-milestone_cover.jpg",
+    "cover_image": "assets/posts/it-export-inward-remittances-cross-380m-monthly-milestone_cover.jpg",
+    "image_url": "assets/posts/it-export-inward-remittances-cross-380m-monthly-milestone_cover.jpg",
     "author": "Ayesha Khan",
     "author_role": "Digital Economy & E-Commerce Lead",
     "author_avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=120&h=120&fit=crop",
@@ -1003,15 +1003,15 @@
     "image_url": "assets/posts/sindh-high-court-establishes-judicial-precede-482f2896_cover.jpg"
   },
   {
-    "id": "national-electric-vehicle-policy-2.0-sbp-ease-3a93582c",
+    "id": "national-electric-vehicle-policy-2-sbp-eases-ev-financing",
     "title": "National Electric Vehicle Policy 2.0: SBP Eases Commercial Auto Financing for Local Two-Wheeler and Bus Assembly",
     "subdeck": "Federal cabinet ratifies National EV Policy 2.0, providing concessionary debt lines for battery assembly plants and mandating DC fast chargers across major motorways.",
     "category": "Clean Tech & Mobility",
     "badge": "EV POLICY 2.0",
     "stat_number": "120 KW DC",
     "stat_label": "MOTORWAY CHARGING",
-    "image": "assets/posts/national-electric-vehicle-policy-2.0-sbp-ease-3a93582c_cover.jpg",
-    "cover_image": "assets/posts/national-electric-vehicle-policy-2.0-sbp-ease-3a93582c_cover.jpg",
+    "image": "assets/posts/national-electric-vehicle-policy-2-sbp-eases-ev-financing_cover.jpg",
+    "cover_image": "assets/posts/national-electric-vehicle-policy-2-sbp-eases-ev-financing_cover.jpg",
     "author": "Kamran Alvi",
     "author_role": "Energy & Sustainable Infrastructure Specialist",
     "author_avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=120&h=120&fit=crop",
@@ -1050,7 +1050,7 @@
     ],
     "social_format": "card",
     "lang": "en",
-    "image_url": "assets/posts/national-electric-vehicle-policy-2.0-sbp-ease-3a93582c_cover.jpg"
+    "image_url": "assets/posts/national-electric-vehicle-policy-2-sbp-eases-ev-financing_cover.jpg"
   },
   {
     "id": "state-bank-expands-exporters-specialized-fore-a8511c65",
@@ -1200,12 +1200,12 @@
     "image_url": "assets/posts/nepra-approves-industrial-solar-wheeling-fram-b039_cover.jpg"
   },
   {
-    "id": "fbr-mandates-real-time-digital-invoicing-for--c9be",
+    "id": "fbr-mandates-real-time-digital-invoicing-for-tier-1-retailers",
     "category": "Digital Governance",
     "badge": "TAX DIGITIZATION",
     "title": "FBR Mandates Real-Time Digital Invoicing for Tier-1 Retailers and E-Commerce Marketplaces",
     "subdeck": "Federal Board of Revenue expands automated POS and electronic billing synchronization, tracking sales tax transactions instantly through cryptographically signed QR codes.",
-    "image": "assets/posts/fbr-mandates-real-time-digital-invoicing-for--c9be_cover.jpg",
+    "image": "assets/posts/fbr-mandates-real-time-digital-invoicing-for-tier-1-retailers_cover.jpg",
     "stat_number": "100% AUDIT",
     "stat_label": "REAL-TIME TAX SYNC",
     "author": "Hamid Raza",
@@ -1243,8 +1243,8 @@
     ],
     "social_format": "card",
     "lang": "en",
-    "cover_image": "assets/posts/fbr-mandates-real-time-digital-invoicing-for--c9be_cover.jpg",
-    "image_url": "assets/posts/fbr-mandates-real-time-digital-invoicing-for--c9be_cover.jpg"
+    "cover_image": "assets/posts/fbr-mandates-real-time-digital-invoicing-for-tier-1-retailers_cover.jpg",
+    "image_url": "assets/posts/fbr-mandates-real-time-digital-invoicing-for-tier-1-retailers_cover.jpg"
   },
   {
     "id": "ministry-of-it-establishes-pakistan-sovereign-bea8",
@@ -1341,12 +1341,12 @@
     "image_url": "assets/posts/pta-finalizes-5g-spectrum-auction-framework-3-0767_cover.jpg"
   },
   {
-    "id": "state-bank-of-pakistan-integrates-raast-with--5b03",
+    "id": "state-bank-of-pakistan-integrates-raast-with-buna-platform",
     "category": "Fintech & Payments",
     "badge": "RAAST CROSS-BORDER",
     "title": "State Bank of Pakistan Integrates Raast with Arab Monetary Fund Buna Platform for Zero-Fee Remittances",
     "subdeck": "Central bank completes phase two of digital payment corridor linking Pakistani commercial banks with GCC clearinghouses, enabling instant settlements for overseas workers.",
-    "image": "assets/posts/state-bank-of-pakistan-integrates-raast-with--5b03_cover.jpg",
+    "image": "assets/posts/state-bank-of-pakistan-integrates-raast-with-buna-platform_cover.jpg",
     "stat_number": "SUB-30 SEC",
     "stat_label": "SETTLEMENT VELOCITY",
     "author": "Fatima Noor",
@@ -1388,8 +1388,8 @@
     ],
     "social_format": "card",
     "lang": "en",
-    "cover_image": "assets/posts/state-bank-of-pakistan-integrates-raast-with--5b03_cover.jpg",
-    "image_url": "assets/posts/state-bank-of-pakistan-integrates-raast-with--5b03_cover.jpg"
+    "cover_image": "assets/posts/state-bank-of-pakistan-integrates-raast-with-buna-platform_cover.jpg",
+    "image_url": "assets/posts/state-bank-of-pakistan-integrates-raast-with-buna-platform_cover.jpg"
   },
   {
     "id": "india-is-treating-starlink-like-pakistan-2f65",
@@ -1559,12 +1559,12 @@
     "image_url": "assets/posts/browser-session-hijacking-corporate-cloud-security_cover.jpg"
   },
   {
-    "id": "cda-to-spend-rs-300-million-on-pm-office-and--3fcf",
+    "id": "cda-to-spend-rs-300-million-on-pm-office-digital-upgrade",
     "category": "5G & Telecom",
     "badge": "BREAKING WIRE ⚡",
     "title": "Rs. 300 Million for PM Office: A Critical Lens on Pakistan's Spending Priorities",
     "subdeck": "The Economic Coordination Committee (ECC) has approved a Rs. 300 million Technical Supplementary Grant for the CDA to improve the Prime Minister's Office and staff colony, sparking debate over national resource allocation.",
-    "image": "assets/posts/cda-to-spend-rs-300-million-on-pm-office-and--3fcf_cover.jpg",
+    "image": "assets/posts/cda-to-spend-rs-300-million-on-pm-office-digital-upgrade_cover.jpg",
     "stat_number": "Rs. 300 MILLION",
     "stat_label": "PUBLIC FUNDS ALLOCATED",
     "author": "Zeeshan Ahmed",
@@ -1609,8 +1609,8 @@
     ],
     "social_format": "card",
     "lang": "en",
-    "cover_image": "assets/posts/cda-to-spend-rs-300-million-on-pm-office-and--3fcf_cover.jpg",
-    "image_url": "assets/posts/cda-to-spend-rs-300-million-on-pm-office-and--3fcf_cover.jpg"
+    "cover_image": "assets/posts/cda-to-spend-rs-300-million-on-pm-office-digital-upgrade_cover.jpg",
+    "image_url": "assets/posts/cda-to-spend-rs-300-million-on-pm-office-digital-upgrade_cover.jpg"
   },
   {
     "id": "ecc-clears-11-of-total-rs-18-billion-election-5f2c",
@@ -1883,12 +1883,12 @@
     "image_url": "assets/posts/pakistan-says-owner-s-consent-mandatory-to-us-e1b1_cover.jpg"
   },
   {
-    "id": "murree-university-gets-pink-buses-for-female--c207",
+    "id": "murree-university-gets-pink-buses-for-female-students",
     "category": "5G & Telecom",
     "badge": "BREAKING WIRE ⚡",
     "title": "CM Maryam Nawaz Boosts Female Mobility: Pink Buses Launched at Kohsar University Murree",
     "subdeck": "Punjab Chief Minister Maryam Nawaz Sharif has initiated a significant step towards empowering female students by providing two dedicated Pink Buses to Kohsar University Murree, addressing critical transportation challenges.",
-    "image": "assets/posts/murree-university-gets-pink-buses-for-female--c207_cover.jpg",
+    "image": "assets/posts/murree-university-gets-pink-buses-for-female-students_cover.jpg",
     "stat_number": "2",
     "stat_label": "NEW BUSES",
     "author": "Zeeshan Ahmed",
@@ -1933,8 +1933,8 @@
     ],
     "social_format": "card",
     "lang": "en",
-    "cover_image": "assets/posts/murree-university-gets-pink-buses-for-female--c207_cover.jpg",
-    "image_url": "assets/posts/murree-university-gets-pink-buses-for-female--c207_cover.jpg"
+    "cover_image": "assets/posts/murree-university-gets-pink-buses-for-female-students_cover.jpg",
+    "image_url": "assets/posts/murree-university-gets-pink-buses-for-female-students_cover.jpg"
   },
   {
     "id": "punjab-special-economic-zones-attract-rs-76-b-3043",
@@ -1983,12 +1983,12 @@
     "image_url": "assets/posts/punjab-special-economic-zones-attract-rs-76-b-3043_cover.jpg"
   },
   {
-    "id": "spotify-expands-audiobooks-streaming-catalog--0167",
+    "id": "spotify-expands-audiobooks-streaming-catalog-globally",
     "category": "Digital Economy",
     "badge": "STREAMING PULSE 🎧",
     "title": "Spotify Expands Audiobooks Streaming Catalog into Pakistan: The Creator Monetization Frontier",
     "subdeck": "Audio streaming giant prepares localized audiobook tiers in Pakistan, opening direct royalty channels for Urdu authors, narrators, and audio drama producers.",
-    "image": "assets/posts/spotify-expands-audiobooks-streaming-catalog--0167_cover.jpg",
+    "image": "assets/posts/spotify-expands-audiobooks-streaming-catalog-globally_cover.jpg",
     "stat_number": "300K+ TITLES",
     "stat_label": "AUDIOBOOK LIBRARY",
     "author": "Ayesha Khan",
@@ -2025,16 +2025,16 @@
     ],
     "social_format": "card",
     "lang": "en",
-    "cover_image": "assets/posts/spotify-expands-audiobooks-streaming-catalog--0167_cover.jpg",
-    "image_url": "assets/posts/spotify-expands-audiobooks-streaming-catalog--0167_cover.jpg"
+    "cover_image": "assets/posts/spotify-expands-audiobooks-streaming-catalog-globally_cover.jpg",
+    "image_url": "assets/posts/spotify-expands-audiobooks-streaming-catalog-globally_cover.jpg"
   },
   {
-    "id": "pakistan-s-unikrew-solutions-clinches-asocio--6778",
+    "id": "pakistan-unikrew-solutions-clinches-asocio-tech-award",
     "category": "Fintech & Banking",
     "badge": "ASIAN HONORS 🏆",
     "title": "Pakistan's Unikrew Solutions Clinches ASOCIO 2026 Tech Award for AI in Financial Services",
     "subdeck": "Karachi-based fintech software lab recognized across 24 Asia-Pacific economies for pioneering biometric authentication and alternative credit scoring engines.",
-    "image": "assets/posts/pakistan-s-unikrew-solutions-clinches-asocio--6778_cover.jpg",
+    "image": "assets/posts/pakistan-unikrew-solutions-clinches-asocio-tech-award_cover.jpg",
     "stat_number": "TOP HONORS",
     "stat_label": "ASOCIO TECH EXCELLENCE",
     "author": "Fatima Noor",
@@ -2071,8 +2071,8 @@
     ],
     "social_format": "card",
     "lang": "en",
-    "cover_image": "assets/posts/pakistan-s-unikrew-solutions-clinches-asocio--6778_cover.jpg",
-    "image_url": "assets/posts/pakistan-s-unikrew-solutions-clinches-asocio--6778_cover.jpg"
+    "cover_image": "assets/posts/pakistan-unikrew-solutions-clinches-asocio-tech-award_cover.jpg",
+    "image_url": "assets/posts/pakistan-unikrew-solutions-clinches-asocio-tech-award_cover.jpg"
   },
   {
     "id": "pakistan-tech-delegation-showcases-frontier-a-2683",
@@ -3190,12 +3190,12 @@
     "image_url": "assets/posts/ev-manufacturing-battery-ecosystem_cover.jpg"
   },
   {
-    "id": "phone-prices-soar-budget-shockwave--889",
+    "id": "phone-prices-soar-budget-shockwave-889",
     "category": "PRICE ALERT",
     "badge": "TECH NEWS ⚡",
     "title": "PHONE PRICES SOAR: BUDGET SHOCKWAVE HITS!",
     "subdeck": "New government budget proposals signal imminent surge in mobile phone costs across Pakistan.",
-    "image": "assets/posts/phone-prices-soar-budget-shockwave--889_cover.jpg",
+    "image": "assets/posts/phone-prices-soar-budget-shockwave-889_cover.jpg",
     "stat_number": "UP TO 20%",
     "stat_label": "PRICE HIKE",
     "author": "Hamid Raza",
@@ -3214,7 +3214,7 @@
       "Potential shift towards refurbished phones & longer device retention."
     ],
     "author_role": "Chief Technology Editor",
-    "cover_image": "assets/posts/phone-prices-soar-budget-shockwave--889_cover.jpg",
-    "image_url": "assets/posts/phone-prices-soar-budget-shockwave--889_cover.jpg"
+    "cover_image": "assets/posts/phone-prices-soar-budget-shockwave-889_cover.jpg",
+    "image_url": "assets/posts/phone-prices-soar-budget-shockwave-889_cover.jpg"
   }
 ]
